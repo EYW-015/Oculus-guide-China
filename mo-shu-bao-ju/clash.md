@@ -1,4 +1,6 @@
 # Clash
 
-## 现在跨设备最好用的客户端之一
+{% hint style="success" %}
+### 现在最好用的跨平台客户端之一
+{% endhint %}
 

@@ -1,12 +1,14 @@
 # 软路由
 
-## 123
+{% hint style="info" %}
+## 路由器终极解决方案，功能强大
+{% endhint %}
 
 ### ARM型号推荐
 
-1. NanoPi R2S      ￥150
-2. NanoPi R4S      ￥380起
-3. 树莓派4B          ￥300起
+* NanoPi R2S      ￥200
+* NanoPi R4S      ￥380起
+* 树莓派4B          ￥300起
 
 ### X86/X64主机
 

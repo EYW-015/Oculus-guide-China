@@ -1,9 +1,14 @@
 # Table of contents
 
-* [欢迎使用](README.md)
-* [魔术宝具](mo-shu-bao-ju/README.md)
+* [首次使用](README.md)
+* [准备](zhun-bei/README.md)
+  * [梯子](zhun-bei/untitled-1.md)
+  * [Facebook账号](zhun-bei/untitled-2.md)
+  * [电脑](zhun-bei/untitled-3.md)
+* [对墙宝具](mo-shu-bao-ju/README.md)
   * [Clash](mo-shu-bao-ju/clash.md)
   * [Shadowsocks](mo-shu-bao-ju/shadowsocks.md)
+  * [Netch](mo-shu-bao-ju/netch.md)
 * [OC客户端补魔](oc-ke-hu-duan-mo-shu-yong-chang/README.md)
   * [Proxifier+代理软件](oc-ke-hu-duan-mo-shu-yong-chang/proxifier+-dai-li-ruan-jian.md)
   * [Netch](oc-ke-hu-duan-mo-shu-yong-chang/netch.md)
