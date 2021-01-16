@@ -1,6 +1,8 @@
-# Clash
+# Clash for Windows
 
-{% hint style="success" %}
-### 现在最好用的跨平台客户端之一
-{% endhint %}
+## 简介
+
+[项目主页](https://github.com/Fndroid/clash_for_windows_pkg)
+
+Clash for Windows\(以下简称CFW\)是Windows平台的Clash图形界面客户端
 

@@ -1,4 +1,4 @@
-# Netch
+# Netch代理
 
-Netch游戏加速软件
+Netch软件添加OC代理规则，将OC客户端入网
 
