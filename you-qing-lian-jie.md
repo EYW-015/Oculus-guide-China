@@ -1,8 +1,8 @@
 # 友链&鸣谢
 
-## 本教程作者在YouTube上收到了诸多大神的启发
+## YouTuber
 
-以下是部分YouTuber主页，您可以在他们的视频中学到诸多网络知识
+本教程作者在YouTube上收到了诸多大神的启发，以下是部分YouTuber主页，可以在他们的视频中学到诸多网络知识
 
 * [BIGdongdong](https://www.youtube.com/c/BIGdongdong)
 * [jack stone](https://www.youtube.com/c/jackstone)
@@ -12,7 +12,9 @@
 * [悟空的日常](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww)
 * [eSir](https://www.youtube.com/channel/UCOhkliOps3IS48ly-MgPC2A)
 
-## 同时感谢GitHub各大项目的开发者作出的贡献，如有能力请支持他们
+## GitHub
+
+同时感谢GitHub各大项目的开发者作出的贡献，如有能力请支持他们
 
 以下是各个项目的GitHub主页
 
