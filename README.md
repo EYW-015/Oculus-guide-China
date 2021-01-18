@@ -7,7 +7,7 @@ description: '[撰写中]这是一篇非官方的 Oculus VR 设备在中国大�
 {% hint style="info" %}
 这是一篇非官方的 ****Oculus VR 使用教程
 
-由于Oculus设备需要在能访问外网的环境下使用，所以诞生了本篇教程
+本文仍在撰写中，不久之后将会正式发布
 {% endhint %}
 
 {% hint style="danger" %}
@@ -18,10 +18,6 @@ description: '[撰写中]这是一篇非官方的 Oculus VR 设备在中国大�
 切勿涉及政治/反动/色情/谣言/诈骗等违法行为**
 
 **不要去观看一些拉低智商的XX网站，谨言慎行**
-{% endhint %}
-
-{% hint style="success" %}
-如果您觉得这篇指南对您有用，您可以打赏作者给予支持
 {% endhint %}
 
 
