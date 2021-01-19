@@ -1,5 +1,5 @@
 ---
-description: 这是一篇非官方的 Oculus VR 设备在中国大陆地区的使用教程
+description: '[撰写中]这是一篇非官方的 Oculus VR 设备在中国大陆地区的使用教程'
 ---
 
 # 首次使用
