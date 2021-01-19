@@ -1,4 +1,20 @@
 # Table of contents
 
 * [首次使用](README.md)
+* [准备](ready/README.md)
+  * [电脑准备](ready/pc-ready.md)
+  * [梯子](ready/proxy-server.md)
+  * [Facebook账号](ready/facebook-account.md)
+  * [VR设备](ready/vr-device.md)
+* [梯子客户端](proxy-client/README.md)
+  * [Clash for Windows](proxy-client/cfw.md)
+  * [Netch](proxy-client/netch.md)
+* [OC客户端入网](oc-client/README.md)
+  * [Netch接管](oc-client/netch-oc.md)
+  * [软件激活](oc-client/quest-soft.md)
+* [路由器](router/README.md)
+  * [老毛子路由器](router/padavan.md)
+  * [路由器激活](router/quest-router.md)
+  * [Quest商店无链接](router/quest-shop.md)
+* [群组 / 友链 / 鸣谢](links.md)
 
