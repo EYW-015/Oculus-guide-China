@@ -4,7 +4,7 @@
 请先参阅前方**路由器**页面
 {% endhint %}
 
-{% page-ref page="./" %}
+{% page-ref page="../router/" %}
 
 ## 梅林 / 老毛子路由器
 
