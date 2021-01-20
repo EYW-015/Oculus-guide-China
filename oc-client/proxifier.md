@@ -14,7 +14,12 @@
 
 * [Proxifier官网](https://www.proxifier.com/)
 
-先至官网下载Proxifier并安装，首次运行会出现激活提示，可以选择31天试用或自行激活，运行之后会出现如下界面，并且托盘区会出现一个新的灰色方框图标，那就是Proxifier
+Proxifier是一款代理软件，支持自定义规则分流，可以使用进程代理，地址代理  
+配合无分流 / 低级分流功能的梯子客户端，也可以实现类似 Clash / Netch 那样的高级分流策略
+
+先至官网下载Proxifier并安装，首次运行会出现激活提示，可以选择31天试用或自行激活
+
+运行之后会出现如下界面，并且托盘区会出现一个新的灰色方框图标，那就是Proxifier
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/proxifier/px1.png)
 
