@@ -28,7 +28,11 @@ description: 这是一篇非官方的 Oculus VR 设备在中国大陆地区的�
 **如果您觉得这篇指南对您有帮助，请捐助本文作者给予支持**
 {% endhint %}
 
-### 支付宝 ![zfb](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/donate/zfb.png)
+### 支付宝
 
-### 微信 ![wx](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/donate/wx.png)
+![zfb](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/donate/zfb.png)
+
+### 微信
+
+![wx](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/donate/wx.png)
 

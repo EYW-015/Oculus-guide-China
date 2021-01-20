@@ -22,7 +22,7 @@
 
 进入路由器设置界面，点击纸飞机图标，
 
-![](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/pdv/pdv.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/pdv/pdv.png)
 
 在**服务器订阅节点**中粘贴你的订阅地址，点击更新，即可通过订阅导入配置  
 也可以通过各个节点的链接导入配置，或者自行手动添加

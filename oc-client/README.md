@@ -8,5 +8,5 @@
 
 如果你只开了梯子客户端的**系统代理**，就算开了**全局模式**，那也只是系统代理的全局模式，俗称**假全局**，所以OC客户端仍然无法连接至网络，便会出现诸如OC客户端无法安装，卡OC在登录界面无限转圈，或是FB认证失败等情况
 
-![](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/ochome/och1.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/ochome/och1.png)
 

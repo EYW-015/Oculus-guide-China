@@ -20,13 +20,13 @@
 
 路由器设置完成后进入路由器页面，左侧菜单找到**系统管理**，上方菜单进入**系统设置**
 
-找到**启用 SSH**选项，设置为**LAN only**，应用本页面设置
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/merlin/merlin2.png)
 
-![](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/merlin/merlin2.png)
+找到**启用 SSH**选项，设置为**LAN only**，应用本页面设置
 
 电脑运行**CMD命令提示符**，输入`ssh <路由器登录名>@<路由器IP地址>`回车，如出现密钥认证提示，输入`yes`并回车，然后输入你的**路由器登录密码**\(输入不显示，输入正确回车即可\)
 
-![](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/merlin/merlin3.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/merlin/merlin3.png)
 
 当出现最后两行样式，说明你已经成功进入路由器SSH后台
 
@@ -38,7 +38,7 @@ sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_insta
 
 在左侧菜单最底部找到**软件中心**，并点击**更新**按钮
 
-![](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/merlin/merlin1.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/merlin/merlin1.png)
 
 进入离线安装菜单，选择之前下载好的上网插件，上传并安装即可
 
