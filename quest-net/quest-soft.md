@@ -1,11 +1,15 @@
 # 软件激活
 
+## 事前检查
+
+首先去你的机场查看你所使用的节点是否支持**UDP转发**，如果不支持UDP转发，Quest可能会无法正常联网激活
+
 {% hint style="info" %}
 请先参阅前方**梯子客户端**页面
 {% endhint %}
 
 {% hint style="warning" %}
-SS客户端不支持UDP转发，不一定适用于Quest激活，如激活失败请尝试其他方案
+SS客户端不支持UDP转发，**不一定**适用于Quest激活，如激活失败请尝试其他方案
 {% endhint %}
 
 {% page-ref page="../proxy-client/" %}
