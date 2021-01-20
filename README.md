@@ -24,6 +24,10 @@ description: 这是一篇非官方的 Oculus VR 设备在中国大陆地区的�
 **如果您看完这篇指南，仍然无法正常使用，请至本文尾部链接加入群组联系作者，有偿提供远程设置与激活Quest**
 {% endhint %}
 
+{% hint style="success" %}
+**如果您觉得这篇指南对您有帮助，请捐助本文作者给予支持**
+{% endhint %}
+
 ### 支付宝 ![zfb](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/donate/zfb.png)
 
 ### 微信 ![wx](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/donate/wx.png)

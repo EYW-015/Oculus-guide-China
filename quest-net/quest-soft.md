@@ -4,6 +4,10 @@
 请先参阅前方**梯子客户端**页面
 {% endhint %}
 
+{% hint style="warning" %}
+SS客户端不支持UDP转发，不一定适用于Quest激活，如激活失败请尝试其他方案
+{% endhint %}
+
 {% page-ref page="../proxy-client/" %}
 
 ## 查看电脑IP
@@ -17,7 +21,7 @@
 
 下拉至详细属性，寻找你的**IPv4 地址**
 
-![wifi2](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/wifi/wifi2.png)
+![](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/wifi/wifi2.png)
 
 ## Quest联网
 

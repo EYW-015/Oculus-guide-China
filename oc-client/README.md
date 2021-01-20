@@ -10,9 +10,3 @@
 
 ![](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/ochome/och1.png)
 
-以下是本节中的文章：
-
-{% page-ref page="netch-oc.md" %}
-
-
-

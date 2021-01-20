@@ -6,6 +6,10 @@
 
 Clash for Windows \(以下简称CFW\) 是一个Windows平台的Clash图形界面客户端，支持多种代理协议，SS，VMess，Trojan，Socks5等
 
+{% hint style="success" %}
+Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发 / TAP模式，以及高度自定义的策略组分流规则
+{% endhint %}
+
 {% hint style="info" %}
 如果使用的机场支持Clash托管，您可以使用此客户端，如果不支持该格式托管仍想使用Clash，请自行寻找配置转换方式
 {% endhint %}
