@@ -26,16 +26,16 @@ SStap已经停止维护，推荐使用Netch进行游戏加速
 Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 {% endhint %}
 
-在Netch主界面点击**`订阅` &gt; `管理订阅链接`**，打开如下界面
+在Netch主界面点击**订阅** &gt; **管理订阅链接**，打开如下界面
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/netch/netch2.png)
 
-**`备注`**栏填写任意名称，链接栏将你的订阅地址粘贴进去，点击**`添加`**  
-点击**`订阅` &gt; `从订阅链接更新服务器`**，如Windows提示更新成功即可
+**备注**栏填写任意名称，链接栏将你的订阅地址粘贴进去，点击**添加**  
+点击**订阅** &gt; **从订阅链接更新服务器**，如Windows提示更新成功即可
 
 ## 启动加速
 
-选择你需要的线路，在**`模式`**中选择你需要加速的游戏，点击启动
+选择你需要的线路，在**模式**中选择你需要加速的游戏，点击启动
 
 {% hint style="info" %}
 更加详细的使用说明，请查看[**官方说明文档**](https://github.com/NetchX/Netch/blob/master/docs/Quickstart.zh-CN.md)\*\*\*\*

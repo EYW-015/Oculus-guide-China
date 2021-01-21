@@ -4,7 +4,7 @@
 
 * [最新版本发布页](https://github.com/HMBSbige/NatTypeTester/releases/)
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/quest/udp.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/quest/nat.png)
 
 其中的Public end可以反映出你的UDP传输有没有经过加速器 / 梯子转发：  
 Public end显示的是你当前连接到测试服务器使用的网络IP地址与端口，  
