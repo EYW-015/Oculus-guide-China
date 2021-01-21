@@ -4,10 +4,6 @@
 此方案需使用电脑的无线网卡开启热点，并使用 CFW / SStap / Netch 开启TAP模式进行网络共享，如您的电脑没有无线网卡，或无法使用TAP设备，请使用其他方案
 {% endhint %}
 
-{% hint style="warning" %}
-请查看你所使用的线路是否支持UDP转发，如不支持请切换其他线路
-{% endhint %}
-
 ## 开启TAP模式
 
 {% hint style="info" %}

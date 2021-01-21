@@ -2,12 +2,6 @@
 
 {% page-ref page="../proxy-client/" %}
 
-{% hint style="warning" %}
-请查看你所使用的线路是否支持UDP转发，如不支持请切换其他线路
-
-SS官方客户端不支持UDP转发，**不一定**适用于Quest激活，如激活失败请尝试其他软件
-{% endhint %}
-
 ## 查看电脑IP
 
 首先确认你的VR设备与你的电脑连接至同一个WIFI
