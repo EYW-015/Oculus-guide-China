@@ -30,7 +30,7 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 ## 托管订阅
 
-在机场首页寻找Clash托管订阅地址，将其复制，选择左侧**Profiles**，在上部粘贴托管地址并点击**Download**，如果下部出现了新的配置选项，那么就订阅成功了
+在机场首页寻找Clash托管订阅地址，将其复制，选择左侧**`Profiles`**，在上部粘贴托管地址并点击**`Download`**，如果下部出现了新的配置选项，那么就订阅成功了
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash3.png)
 
@@ -40,11 +40,11 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 ## 开启系统代理
 
-回到**General**页面，将**System Proxy**选项打开，托盘区图标变为黄色即可正常使用
+回到**`General`**页面，将**`System Proxy`**选项打开，托盘区图标变为黄色即可正常使用
 
 ### 选择线路
 
-进入左侧**Proxies**页面，根据配置自行选择需要的线路
+进入左侧**`Proxies`**页面，根据配置自行选择需要的线路
 
 ![clash4](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash4.png)
 
