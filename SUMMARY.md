@@ -24,6 +24,5 @@
   * [电脑热点激活](quest-net/hotspot.md)
   * [路由器激活\(推荐\)](quest-net/quest-router.md)
   * [头显安装梯子](quest-net/quest-proxy.md)
-* [NAT 测试工具](quest-shop.md)
 * [群组 / 友链 / 鸣谢](links.md)
 
