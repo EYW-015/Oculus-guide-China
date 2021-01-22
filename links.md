@@ -2,9 +2,12 @@
 
 ## 群组
 
-* Telegram: [Oculus 中文社区](https://t.me/joinchat/HSlqaTZADVGOJwis) / [Oculus 中文资讯频道](https://t.me/joinchat/VadJCiDqz5n7tzoL)
-  * 群组刚在起步阶段，招收管理，请加群咨询
-* QQ群: [虚拟现实游戏联机群](https://jq.qq.com/?_wv=1027&k=npZd9PY9)
+* Telegram:
+  * [Oculus 中文社区](https://t.me/joinchat/HSlqaTZADVGOJwis) / [Oculus 中文资讯频道](https://t.me/joinchat/VadJCiDqz5n7tzoL)
+    * 群组刚在起步阶段，招收管理，请加群咨询
+* QQ群:
+  * [虚拟现实游戏联机群](https://jq.qq.com/?_wv=1027&k=npZd9PY9)
+  * [头号玩家@脑潘](https://jq.qq.com/?_wv=1027&k=DVoUBojd)
 
 ## Beat Saber
 
@@ -17,6 +20,7 @@
 
 ## 论坛
 
+* [VR42论坛](http://vr42.com/)
 * [虚幻岛社区](https://bbs.xuhuandao.com/)
 * [Koolshare 论坛](https://koolshare.cn/forum.php)
 * [恩山无线论坛](https://www.right.com.cn/forum/forum.php)
