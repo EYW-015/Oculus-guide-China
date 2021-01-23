@@ -18,7 +18,7 @@
 * [OC客户端入网](oc-client/README.md)
   * [Netch接管](oc-client/netch-oc.md)
   * [Proxifier+代理客户端](oc-client/proxifier.md)
-  * [路由器上网](oc-client/oc-router.md)
+  * [路由器上网\(推荐\)](oc-client/oc-router.md)
 * [Quest联网](quest-net/README.md)
   * [软件激活](quest-net/quest-soft.md)
   * [电脑热点激活](quest-net/hotspot.md)
