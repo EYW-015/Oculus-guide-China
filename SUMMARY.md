@@ -1,12 +1,12 @@
 # Table of contents
 
 * [首次使用](README.md)
+* [看教程之前的注意](before.md)
 
 ## 事先准备 <a id="zhun-bei"></a>
 
 ---
 
-* [看教程之前的注意](before.md)
 * [准备项目](ready/README.md)
   * [电脑准备](ready/pc-ready.md)
   * [梯子](ready/proxy-server.md)
