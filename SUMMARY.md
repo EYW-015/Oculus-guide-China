@@ -36,6 +36,6 @@
 
 ## 其他
 
-* [常见问题 &lt;眼瞎看我&gt;](qi-ta/questions.md)
+* [常见问题](qi-ta/questions.md)
 * [群组 / 友链 / 鸣谢](qi-ta/links.md)
 
