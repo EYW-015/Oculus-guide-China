@@ -9,7 +9,7 @@
 
 **Quest**系列设备作为一体机，无需电脑即可运行使用，也可以使用**Link**线缆连接电脑运行**Rift**应用程序
 
-Oculus Quest 2可以直接通过微信从亚马逊官方小程序购买，海外直邮，没有中间商赚差价，方便又实惠，微信扫码即可进入：
+Oculus Quest 2可以直接通过微信从亚马逊官方小程序购买，海外直邮，没有中间商赚差价，方便又实惠，**微信扫码购买可联系作者返现20元**：
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/quest/amz64.png)
 
@@ -24,7 +24,7 @@ Oculus Quest 2可以直接通过微信从亚马逊官方小程序购买，海外
 
 **Quest**设备首次开机需要进行设备激活，WIFI需要可以访问外网环境，详情参阅以下页面
 
-{% page-ref page="../quest-net/" %}
+{% page-ref page="../oc-net/quest-net/" %}
 
 
 
