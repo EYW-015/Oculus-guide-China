@@ -13,6 +13,6 @@
 {% page-ref page="qi-ta/questions.md" %}
 
 {% hint style="success" %}
-如果这篇教程对你有帮助，请捐助作者基于支持，转发给其他有需要的Oculus用户，这是对作者写教程的最大肯定
+如果这篇教程对你有帮助，请捐助作者给予支持，转发给其他有需要的Oculus用户，这是对作者写教程的最大肯定
 {% endhint %}
 
