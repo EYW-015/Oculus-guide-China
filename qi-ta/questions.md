@@ -22,7 +22,7 @@
 
 {% page-ref page="../ready/facebook-account.md" %}
 
-### Oculus客户端无线转圈/无网络连接怎么办
+### Oculus客户端无限转圈/无网络连接怎么办
 
 {% page-ref page="../oc-net/oc-client/" %}
 
