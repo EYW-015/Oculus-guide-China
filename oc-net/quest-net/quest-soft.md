@@ -1,7 +1,7 @@
 # 软件激活
 
 {% hint style="warning" %}
-查看你的梯子线路是否支持UDP，否则头显可能卡固件更新
+查看你的梯子客户端规则是否为全局代理，否则头显可能卡固件更新
 {% endhint %}
 
 ## 查看电脑IP
@@ -21,9 +21,7 @@
 
 ## Quest联网
 
-连接上WIFI之后**修改**WIFI
-
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/quest/Qwifi1.jpg)
+连接WIFI**输入密码的时候**打开下方**高级设置**
 
 将**代理**设置为**手动**
 

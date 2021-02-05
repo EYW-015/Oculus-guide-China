@@ -5,58 +5,64 @@
 {% endhint %}
 
 {% hint style="warning" %}
-查看你的梯子线路是否支持UDP，否则头显可能卡固件更新
+查看你的梯子客户端规则是否为全局代理，否则头显可能卡固件更新
 {% endhint %}
 
-## 开启TAP模式
+## CFW开启TAP模式
 
 {% hint style="info" %}
-如果你使用的是 SStap / Netch，你可以直接跳过此步骤
+如果你使用的是Netch，请跳到下方的[Netch开启TAP模式](https://app.gitbook.com/@eyw015/s/oculus/~/drafts/-MSlDGeOsd7wQwJW6Qvh/oc-net/quest-net/hotspot#netch-kai-qi-tap-mo-shi)
 {% endhint %}
 
-首先参照前面的教程设置好你的CFW客户端，在**`General`**菜单中找到**`TAP Device`**选项，点击**`Manage` &gt; `Install`**
+首先参照前面的教程设置好你的CFW客户端  
+然后在**`General`**菜单中找到**`TAP Device`**选项，点击**`Manage` &gt; `Install`**
 
-进入**Profile**菜单，找到你的配置，点击最左边的按钮
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash51.png)
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash5.png)
+进入**`Settings页面` &gt; `Profile Mixin` &gt; `YAML` &gt; `Edit`**
 
-此时会提示选择打开方式，在**`更多应用`**中选择**`记事本`**
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash61.png)
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash6.png)
+将下面的代码粘贴进去
 
-找到一行`proxies:`在它上方加一个空行，复制下面的代码，将其粘贴进去，保存退出
-
-{% hint style="info" %}
-找不到请按 **Ctrl + F** 寻找
-{% endhint %}
-
-```text
-dns:
-  enable: true
-  ipv6: false
-  listen: 0.0.0.0:53
-  enhanced-mode: redir-host
-  nameserver:
-  - 119.29.29.29
-  - 223.5.5.5
-  - 223.6.6.6
+```yaml
+mixin: #object
+  dns:
+    enable: true
+    ipv6: false
+    listen: 0.0.0.0:53
+    enhanced-mode: redir-host
+    nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+    - 223.6.6.6
 ```
 
 修改好的配置文件应类似下图格式
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash7.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash71.png)
+
+点击右下角保存，回到**`General`**页面，将**`Mixin`**开关打开
 
 打开**`控制面板` &gt; `网络和 Internet` &gt; `网络和共享中心` &gt; 左侧`更改适配器设置`**，找到名称为**`cfw-tap`**的适配器，如果显示已启用，说明tap模式成功开启
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash8.png)
 
+## Netch开启TAP模式
+
+在Netch的**模式**选项中，拉到最底下，选择**`[TUN/TAP]绕过局域网`**，启动加速
+
+打开**`控制面板` &gt; `网络和 Internet` &gt; `网络和共享中心` &gt; 左侧`更改适配器设置`**，找到名称为**`以太网 <数字>`**且描述为**`TAP-Windows ...`**的适配器，如果显示已启用，说明tap模式成功开启
+
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/netch/netch4.png)
+
 ## 热点共享
 
-首先开启你的WIFI热点，然后会在你的网络适配器中多出一个**`本地连接* <数字>`**，这是你的**`WIFI热点网络适配器`**
+首先开启你的WIFI热点，然后会在你的网络适配器中多出一个**`本地连接* <数字>`**且描述为**`Microsoft Wi-Fi ...`**的适配器，这是你的**`WIFI热点网络适配器`**
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash9.png)
 
-双击**`cfw-tap`**设备\(或者是你的SStap适配器\)，进入**`共享`**页面，勾选**`允许其他网络用户XXX`**，在下拉菜单中选择之前开启的名称为 **`本地连接* <数字>`** 的**`WIFI热点适配器`**，如果没有下拉菜单，手动将适配器名称 **`本地连接* <数字>`** 填写进框内，保存确定
+双击**`cfw-tap`**设备\(或者是你的**`Netch适配器`**\)，进入**`共享`**页面，勾选**`允许其他网络用户XXX`**，在下拉菜单中选择之前开启的名称为 **`本地连接* <数字>`** 的**`WIFI热点适配器`**，如果没有下拉菜单，手动将适配器名称 **`本地连接* <数字>`** 填写进框内，保存确定
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/clash/clash10.png)
 
@@ -64,5 +70,5 @@ dns:
 如果WIFI自动关闭了，再打开就可以了
 {% endhint %}
 
-设置完成，将你的头显连接至你的WIFI热点，即可正常连接网络
+设置完成，将你的头显连接至你的电脑WIFI热点，即可正常连接网络
 

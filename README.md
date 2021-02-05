@@ -1,12 +1,12 @@
 ---
-description: 这是一篇非官方的 Oculus VR 设备在中国大陆地区的使用教程
+description: 'Oculus VR 中国大陆地区联网指南 (最后更新:21/2/5)'
 ---
 
 # 首次使用
 
 {% hint style="info" %}
-**这是一篇非官方的 Oculus VR 使用教程  
-从开箱到使用Oculus，教你安装Oculus Home客户端、Quest 2 联网激活**
+**这是一篇非官方的 Oculus VR 联网指南  
+从开箱到使用Oculus，教你在中国大陆网络环境下，安装Oculus Home客户端、Quest 2 联网激活**
 
 **如觉得本文有需要完善的地方或建议，请至本文尾部群组链接联系作者**
 
