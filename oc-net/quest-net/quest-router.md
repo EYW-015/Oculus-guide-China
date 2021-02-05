@@ -6,7 +6,7 @@
 
 ## 老毛子路由器
 
-{% page-ref page="../router/padavan.md" %}
+{% page-ref page="../../router/padavan.md" %}
 
 进入科学上网插件
 
@@ -31,7 +31,7 @@
 
 ## 梅林
 
-{% page-ref page="../router/asuswrt.md" %}
+{% page-ref page="../../router/asuswrt.md" %}
 
 连接至你的路由器WIFI，确保你路由器插件开启了**`游戏模式`**，即可正常激活更新
 
