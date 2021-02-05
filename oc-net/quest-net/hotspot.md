@@ -11,7 +11,7 @@
 ## CFW开启TAP模式
 
 {% hint style="info" %}
-如果你使用的是Netch，请跳到下方的[Netch开启TAP模式](https://ocguide.eyw015.com/oc-net/quest-net/hotspot#netch-kai-qi-tap-mo-shi)
+如果你使用的是Netch，请跳到下方的**Netch部分**
 {% endhint %}
 
 首先参照前面的教程设置好你的CFW客户端  
