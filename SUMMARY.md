@@ -29,6 +29,7 @@
   * [Proxifier+代理客户端](oc-net/oc-client/proxifier.md)
   * [路由器上网\(推荐\)](oc-net/oc-client/oc-router.md)
 * [Quest联网](oc-net/quest-net/README.md)
+  * [启用TAP模式](oc-net/quest-net/tap-mode.md)
   * [软件激活](oc-net/quest-net/quest-soft.md)
   * [电脑热点激活](oc-net/quest-net/hotspot.md)
   * [路由器激活\(推荐\)](oc-net/quest-net/quest-router.md)
