@@ -3,7 +3,7 @@
 * [首次使用](README.md)
 * [看教程之前的注意](before.md)
 
-## 事先准备 <a id="zhun-bei"></a>
+## 事先准备 <a id="ready-1"></a>
 
 ---
 
