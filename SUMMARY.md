@@ -32,7 +32,7 @@
   * [软件激活](oc-net/quest-net/quest-soft.md)
   * [电脑热点激活](oc-net/quest-net/hotspot.md)
   * [路由器激活\(推荐\)](oc-net/quest-net/quest-router.md)
-  * [头显开发者&安装软件](oc-net/quest-net/quest-proxy.md)
+  * [头显开发者&安装梯子](oc-net/quest-net/quest-proxy.md)
 
 ## 其他
 

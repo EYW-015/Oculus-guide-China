@@ -1,4 +1,4 @@
-# 头显开发者&安装软件
+# 头显开发者&安装梯子
 
 {% hint style="info" %}
 此方式仅适用于激活之后的Quest联网，不可用于激活设备
@@ -38,7 +38,8 @@ Oculus Quest平台的实用工具，提供了例如APK安装、数据备份，�
 
 Quest设备可通过SideQuest安装标准安卓APK安装包，Clash for Android是安卓平台的Clash客户端，你也可以使用其他安卓平台的梯子客户端
 
-* [Clash for Android](https://github.com/Kr328/ClashForAndroid)
+* [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
+* [SS Android](https://github.com/shadowsocks/shadowsocks-android/releases)
 
 然后使用SideQuest安装刚才下载的APK即可
 
