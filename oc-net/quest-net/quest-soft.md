@@ -1,5 +1,9 @@
 # 软件激活
 
+{% hint style="danger" %}
+此方案存在问题，暂时请勿使用
+{% endhint %}
+
 {% hint style="warning" %}
 使用此方案前需要先开启梯子的TAP模式，并需要你的梯子线路支持UDP转发，否则头显无法更新固件
 {% endhint %}
