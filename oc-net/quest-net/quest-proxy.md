@@ -1,7 +1,7 @@
 # 头显开发者&安装梯子
 
 {% hint style="info" %}
-此方式仅适用于激活之后的Quest联网，不可用于激活设备
+此方案不可用于激活Quest设备，仅适合激活之后的联网使用
 {% endhint %}
 
 {% hint style="success" %}
