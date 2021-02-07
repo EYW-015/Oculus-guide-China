@@ -6,7 +6,7 @@
 
 ## 查看电脑IP
 
-{% page-ref page="../../proxy-client/" %}
+{% page-ref page="../../proxy/" %}
 
 首先确认你的VR设备与你的电脑连接至同一个WIFI
 

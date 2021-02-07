@@ -16,11 +16,11 @@
 
 ### 梯子去哪里找
 
-{% page-ref page="../ready/proxy-server.md" %}
+{% page-ref page="../proxy/proxy-server.md" %}
 
 ### Facebook封号怎么办
 
-{% page-ref page="../ready/facebook-account.md" %}
+{% page-ref page="../facebook-account.md" %}
 
 ### Oculus客户端无限转圈/无网络连接怎么办
 
@@ -28,7 +28,7 @@
 
 ### 为什么不推荐改hosts方案
 
-{% page-ref page="../ready/pc-ready.md" %}
+{% page-ref page="../pc-ready.md" %}
 
 ### Quest激活不了/卡更新怎么办
 
@@ -37,6 +37,10 @@
 ### 为什么没有SStap的教程
 
 SStap已经停维数年，现有新的同功能加速软件Netch，所以不推荐使用也不写SStap相关教程
+
+### SSR怎么设置
+
+SSR已经停维数年，网络上流传的客户端很多为第三方修改版，界面/设置等都不一致，没有普遍性，所以不写相关教程
 
 ### 一定要买路由器吗
 

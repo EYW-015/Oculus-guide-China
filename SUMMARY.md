@@ -3,24 +3,23 @@
 * [首次使用](README.md)
 * [看教程之前的注意](before.md)
 
-## 事先准备 <a id="ready-1"></a>
+## 准备 <a id="ready"></a>
 
 ---
 
-* [准备项目](ready/README.md)
-  * [电脑准备](ready/pc-ready.md)
-  * [梯子](ready/proxy-server.md)
-  * [Facebook账号](ready/facebook-account.md)
-  * [VR设备](ready/vr-device.md)
-* [梯子客户端](proxy-client/README.md)
-  * [Clash for Windows](proxy-client/cfw.md)
-  * [Netch](proxy-client/netch.md)
-  * [SS](proxy-client/ss.md)
-  * [其他客户端](proxy-client/other-proxy.md)
+* [VR设备](vr-device.md)
+* [电脑相关](pc-ready.md)
+* [梯子](proxy/README.md)
+  * [寻找梯子](proxy/proxy-server.md)
+  * [Netch](proxy/netch.md)
+  * [Clash for Windows](proxy/cfw.md)
+  * [SS](proxy/ss.md)
+  * [其他客户端](proxy/other-proxy.md)
+* [Facebook账号](facebook-account.md)
 * [路由器\(推荐\)](router/README.md)
   * [老毛子路由器](router/padavan.md)
-  * [软路由](router/ruan-lu-you.md)
   * [华硕路由器+梅林固件](router/asuswrt.md)
+  * [软路由](router/ruan-lu-you.md)
 
 ## Oculus联网 <a id="oc-net"></a>
 
