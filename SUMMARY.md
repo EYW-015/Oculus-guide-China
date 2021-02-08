@@ -30,7 +30,6 @@
 * [Quest联网](oc-net/quest-net/README.md)
   * [电脑热点激活](oc-net/quest-net/hotspot.md)
   * [路由器激活\(推荐\)](oc-net/quest-net/quest-router.md)
-  * [虚拟机软路由\(穷人方案\)](oc-net/quest-net/vm-router.md)
   * [电脑代理联网](oc-net/quest-net/quest-soft.md)
   * [头显开发者&安装梯子](oc-net/quest-net/quest-proxy.md)
 

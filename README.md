@@ -1,5 +1,5 @@
 ---
-description: 'Oculus VR 中国大陆地区联网指南 (最后更新:21/2/7)'
+description: 'Oculus VR 中国大陆地区联网指南 (最后更新:21/2/8)'
 ---
 
 # 首次使用
