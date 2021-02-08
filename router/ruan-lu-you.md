@@ -37,8 +37,35 @@ ARM型号推荐
 
 * [恩山论坛X64 / 树莓派固件](https://www.right.com.cn/forum/thread-3777668-1-1.html)
 * [各类开发板固件](https://github.com/ruoyizhou/OpenWRT-For-Pi)
+* 作者编译的 X64 & R2S 固件下载
+  * [openwrt-x64实体机](https://github.com/EYW-015/Oculus-guide-China/releases/download/openwrt-x64/openwrt-x86-64-generic-squashfs-combined-efi.img.gz) 
+    * [openwrt-x64虚拟机](https://github.com/EYW-015/Oculus-guide-China/releases/download/openwrt-x64/openwrt-x86-64-generic-squashfs-combined-efi.vmdk)
+  * [openwrt-r2s](https://github.com/EYW-015/Oculus-guide-China/releases/download/openwrt-r2s/openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz)
 
-## 自行编译
+### 自行编译
 
 * [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+
+## 电脑临时软路由
+
+找一个空U盘，有1G容量就可以
+
+下载 **x64实体机固件**，解压\(打不开去安装 [**Bandizip**](https://cn.bandisoft.com/bandizip/) ****\)  
+下载刷机工具 [**Win32diskimager**](https://sourceforge.net/projects/win32diskimager/)，打开刷机工具，把解压好的固件拖进去，右边选择你的U盘，点击**`Write`**
+
+刷写完成之后重启电脑，进入bios选择U盘启动  
+启动完成之后去把软路由IP改成你自己家的网段  
+改IP教程 [https://zhuanlan.zhihu.com/p/55140921](https://zhuanlan.zhihu.com/p/55140921)  
+重启电脑，并再次选择U盘启动
+
+打开手机浏览器，进入刚刚设置的IP  
+输入密码，进入**`网络` &gt; `接口` &gt; `修改`**  
+将**`网关`**和**`DNS`**改成你的主路由IP  
+保存应用
+
+进入**`服务` &gt; `SSRP`**，订阅你的节点并启用即可
+
+需要使用软路由的设备  
+手动将**`WIFI` / `以太网`**的**`IP设置`**改为**`静态`**，**`网关`**和**`DNS`**设置为软路由的IP  
+不用软路由的时候就把IP设置改回**`DHCP`**
 
