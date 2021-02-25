@@ -19,7 +19,7 @@ Rift S: 将面罩拆下之后在右侧即可看见
 Q1: 位于右侧头带内侧，直接可以看见  
 Q2: 位于头显左侧头带，拆下固定外壳即可看见
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/q2code.gif)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/q2num.gif)
 
 ## 申诉流程
 
