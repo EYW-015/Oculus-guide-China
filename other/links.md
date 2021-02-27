@@ -3,8 +3,9 @@
 ## 群组
 
 * Telegram:
-  * [Oculus 中文社区](https://t.me/joinchat/HSlqaTZADVGOJwis) / [Oculus 中文资讯频道](https://t.me/joinchat/VadJCiDqz5n7tzoL)
-    * 群组刚在起步阶段，招收管理，请加群咨询
+  * [Oculus 中文群组](https://t.me/Ocguide_cn) / [Oculus 中文指南频道](https://t.me/Ocguide_CN_info)
+  * [头号玩家@脑潘](https://t.me/vrchina)
+  * [Oculus VR 玩家交流群@老竭力](https://t.me/oculus_paly)
 * QQ群:
   * [虚拟现实游戏联机群](https://jq.qq.com/?_wv=1027&k=npZd9PY9)
   * [头号玩家@脑潘](https://jq.qq.com/?_wv=1027&k=DVoUBojd)
