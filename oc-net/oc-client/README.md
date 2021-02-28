@@ -1,5 +1,25 @@
 # OC客户端联网
 
+## 更改安装路径
+
+Oculus客户端默认安装路径是**C盘**，如果想安装到其他盘符，可按以下步骤操作
+
+{% hint style="info" %}
+确认目标硬盘有足够可用空间，且硬盘为NTFS格式分区，**不建议安装至机械硬盘内**
+{% endhint %}
+
+以**`管理员权限`**运行**`CMD`**，输入以下代码，回车
+
+```text
+<你的OC安装包路径>\OculusSetup.exe /drive=<目标安装盘符>
+```
+
+#### 范例
+
+```text
+C:\Users\USERNAME\Downloads\OculusSetup.exe /drive=D
+```
+
 ## OC无法联网 / 登录
 
 {% hint style="info" %}
