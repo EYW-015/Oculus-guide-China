@@ -38,7 +38,11 @@ SSR已经停维数年，网络上流传的客户端很多为第三方修改版�
 
 {% page-ref page="../facebook-account.md" %}
 
-## Oculus客户端无限转圈/无网络连接
+## Oculus PC客户端相关问题
+
+### 无法连接至服务器/安装路径
+
+更改Oculus安装路径/无法连接至服务器/Facebook验证/无限转圈
 
 {% page-ref page="../oc-net/oc-client/" %}
 

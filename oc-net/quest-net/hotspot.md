@@ -28,12 +28,12 @@
 如果网络一直显示**正在识别**，那关闭加速，在**`选项`**中**`卸载TUN/TAP驱动`**并重新开启加速
 {% endhint %}
 
-## CFW开启TAP模式
+## CFW开启TUN模式
 
 首先参照前面的教程设置好你的CFW客户端  
-然后在**`General`**菜单中找到**`TAP Device`**选项，点击**`Manage` &gt; `Install`**
+然后在**`General`**菜单中找到**`Service Mode`**选项，点击**`Manage` &gt; `Install`**
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash51.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash_tun_install.png)
 
 进入**`Settings页面` &gt; `Profile Mixin` &gt; `YAML` &gt; `Edit`**
 
@@ -42,27 +42,32 @@
 将下面的代码粘贴进去
 
 ```yaml
-mixin: #object
+mixin: # object
   dns:
     enable: true
-    ipv6: false
-    listen: 0.0.0.0:53
     enhanced-mode: redir-host
     nameserver:
     - 119.29.29.29
     - 223.5.5.5
     - 223.6.6.6
+  tun:
+    enable: true
+    stack: gvisor
+    dns-hijack:
+    - 198.18.0.2:53
+    macOS-auto-route: true
+    macOS-auto-detect-interface: true
 ```
 
 修改好的配置文件应类似下图格式
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash71.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash_mixin.png)
 
 点击右下角保存，回到**`General`**页面，将**`Mixin`**开关打开
 
-打开**`控制面板` &gt; `网络和 Internet` &gt; `网络和共享中心` &gt; 左侧`更改适配器设置`**，找到名称为**`cfw-tap`**的适配器，如果显示已启用，说明tap模式成功开启
+打开**`控制面板` &gt; `网络和 Internet` &gt; `网络和共享中心` &gt; 左侧`更改适配器设置`**，找到名称为**`Clash`**且描述为**`Clash Tunnel`**的适配器，如果显示已启用，说明tap模式成功开启
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash8.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash_tun_adp.png)
 
 ## 热点共享
 
@@ -70,7 +75,7 @@ mixin: #object
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash9.png)
 
-右键**`Netch适配器`**\(或者是你的**`cfw-tap设备`**\) **&gt; `属性` &gt; `共享`**，勾选**`允许其他网络用户...`**，在下拉菜单中选择之前开启的名称为 **`本地连接* <数字>`** 的**`WIFI热点适配器`**，如果没有下拉菜单，先取消**`允许共享`**，保存关闭之后再回来打开
+右键**`Netch适配器`**\(或者是你的**`clash TUN设备`**\) **&gt; `属性` &gt; `共享`**，勾选**`允许其他网络用户...`**，在下拉菜单中选择之前开启的名称为 **`本地连接* <数字>`** 的**`WIFI热点适配器`**，如果没有下拉菜单，先取消**`允许共享`**，保存关闭之后再回来打开
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash10.png)
 
