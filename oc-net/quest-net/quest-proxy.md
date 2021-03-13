@@ -19,8 +19,8 @@ Oculus Quest平台的实用工具，提供了例如APK安装、数据备份，�
 由于官网的安装步骤以及截图已经很完善，此处不再赘述，只针对每步做个简单翻译。
 
 1. 下载或更新SideQuest。如果你是Windows，点击Windows右边的下载按钮，然后打开安装；  
-2. [进入页面](https://dashboard.oculus.com/)，注册为开发者，组织名称自己看着设就行；  
-3. [进入页面](https://developer.oculus.com/downloads/package/oculus-adb-drivers/)，同意协议后下载并解压驱动包，右键`android_winusb.inf`选择安装；  
+2. [**进入页面**](https://developer.oculus.com/manage/)，注册为开发者，组织名称自己看着设就行；  
+3. [**进入页面**](https://developer.oculus.com/downloads/package/oculus-adb-drivers/)，同意协议后下载并解压驱动包，右键`android_winusb.inf`选择安装；  
 4. 在手机上打开Oculus应用：`设置` &gt; `Oculus Quest xxx ▽` &gt; `┅ 更多设置` &gt; `开发者模式` &gt; `打开开关`；  
 5. 使用手机的USB线（而不是Quest附送的）将Quest连接至电脑，并在VR中允许USB调试。
 
