@@ -25,15 +25,22 @@
 
 ## Oculus联网 <a id="oc-net"></a>
 
-* [OC客户端联网](oc-net/oc-client/README.md)
+* [OC PC客户端](oc-net/oc-client/README.md)
   * [Netch接管](oc-net/oc-client/netch-oc.md)
   * [Proxifier+代理客户端](oc-net/oc-client/proxifier.md)
   * [路由器上网\(推荐\)](oc-net/oc-client/oc-router.md)
-* [Quest联网](oc-net/quest-net/README.md)
+* [Quest激活](oc-net/quest-net/README.md)
   * [电脑热点激活](oc-net/quest-net/hotspot.md)
   * [路由器激活\(推荐\)](oc-net/quest-net/quest-router.md)
-  * [电脑代理联网](oc-net/quest-net/quest-soft.md)
-  * [头显开发者&安装梯子](oc-net/quest-net/quest-proxy.md)
+
+## Oculus使用 <a id="oculus-use"></a>
+
+* [银行卡 / 购买软件](oculus-use/pay.md)
+* [开发者权限 / Sidequest](oculus-use/dev-sq.md)
+* [Quest激活后联网](oculus-use/quest-after/README.md)
+  * [安装梯子](oculus-use/quest-after/quest-proxy.md)
+  * [电脑代理联网](oculus-use/quest-after/quest-soft.md)
+* [串流 / 投屏](oculus-use/stream.md)
 
 ## 其他 <a id="other"></a>
 
