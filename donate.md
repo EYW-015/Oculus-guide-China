@@ -6,9 +6,9 @@
 
 ### 支付宝
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China@master/img/donate/alp.png)
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/donate/zfb.png)
 
 ### 微信
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China@master/img/donate/vx.png)
+### ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/donate/wx.png)
 
