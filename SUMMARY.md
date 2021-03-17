@@ -13,8 +13,10 @@
 * [电脑相关](pc-ready.md)
 * [梯子](proxy/README.md)
   * [寻找梯子](proxy/proxy-server.md)
-  * [Netch](proxy/netch.md)
-  * [Clash for Windows](proxy/cfw.md)
+  * [Netch\(推荐\)](proxy/netch/README.md)
+    * [Netch TAP模式](proxy/netch/netch-tap.md)
+  * [Clash for Windows](proxy/cfw/README.md)
+    * [CFW TUN 模式](proxy/cfw/clash-tun.md)
   * [SS](proxy/ss.md)
   * [其他客户端](proxy/other-proxy.md)
 * [Facebook账号](facebook-account.md)
@@ -26,7 +28,8 @@
 ## Oculus联网 <a id="oc-net"></a>
 
 * [OC PC客户端](oc-net/oc-client/README.md)
-  * [Netch接管](oc-net/oc-client/netch-oc.md)
+  * [TAP/TUN 模式\(推荐\)](oc-net/oc-client/oc-tun.md)
+  * [Netch进程模式](oc-net/oc-client/netch-oc.md)
   * [Proxifier+代理客户端](oc-net/oc-client/proxifier.md)
   * [路由器上网\(推荐\)](oc-net/oc-client/oc-router.md)
 * [Quest激活](oc-net/quest-net/README.md)

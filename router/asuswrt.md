@@ -36,7 +36,7 @@
 sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_install.sh
 ```
 
-在左侧菜单最底部找到**`软件中心`**，并点击**`更新`**按钮
+在左侧菜单最底部找到**`软件中心`**，如提示更新，就点击**`更新`**按钮
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin1.png)
 
@@ -56,7 +56,11 @@ sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_insta
 
 在**`更新管理`**页面的第一大项中找到**`规则更新`**，点击**`立即更新`**
 
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin_ss.png)
+
 回到账号设置，选择你需要使用的线路，将上方的**`上网开关`**打开，点击底部的**`保存&应用`**
+
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin_ss_on.png)
 
 如插件运行状态显示正常，即可正常使用
 
