@@ -13,9 +13,7 @@
 
 ### Oculus PC 客户端联网
 
-{% page-ref page="oc-net/oc-client/netch-oc.md" %}
-
-{% page-ref page="oc-net/oc-client/proxifier.md" %}
+{% page-ref page="oc-net/oc-client/" %}
 
 ### Quest激活
 
