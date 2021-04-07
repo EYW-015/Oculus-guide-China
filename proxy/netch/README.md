@@ -12,7 +12,7 @@ SStap已经停止维护，推荐使用Netch进行游戏加速
 
 ## 下载使用
 
-* [最新版本发布页](https://github.com/NetchX/Netch/releases)
+* [最新版本发布页](https://github.com/NetchX/Netch/releases/latest/)
 
 下载最新版本的压缩包之后，解压至**桌面以外的任意目录**，运行Netch客户端会看到如下界面
 
