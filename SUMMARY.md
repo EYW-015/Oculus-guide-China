@@ -14,7 +14,7 @@
 * [梯子](proxy/README.md)
   * [寻找梯子](proxy/proxy-server.md)
   * [Netch\(推荐\)](proxy/netch/README.md)
-    * [Netch TAP模式](proxy/netch/netch-tap.md)
+    * [Netch TUN模式](proxy/netch/netch-tap.md)
   * [Clash for Windows](proxy/cfw/README.md)
     * [CFW TUN 模式](proxy/cfw/clash-tun.md)
   * [SS](proxy/ss.md)

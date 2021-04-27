@@ -17,6 +17,6 @@
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch_mode.png)
 
 {% hint style="info" %}
-**第一次**安装启动OC客户端**不可使用进程模式**，请使用**`[TUN/TAP]绕过局域网和中国大陆`**模式，首次登录完成之后即可使用**Oculus进程模式**
+**第一次**安装启动OC客户端**不可使用进程模式**，请使用**`TUN模式`**，首次登录完成之后即可使用**Oculus进程模式**
 {% endhint %}
 
