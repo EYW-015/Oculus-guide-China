@@ -5,11 +5,11 @@
 Quest设备可通过**SideQuest**安装标准安卓APK安装包，你可以使用绝大多数安卓平台的客户端
 
 Clash for Android是安卓平台的Clash客户端  
-V2rayNG用户请使用旧版1.3.1客户端，部分用户使用过程中发现新版存在兼容问题
+V2rayNG用户请使用旧版1.4.1客户端，部分用户使用过程中发现新版存在兼容问题
 
 * [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
 * [SS Android](https://github.com/shadowsocks/shadowsocks-android/releases)
-* [V2rayNG](https://github.com/2dust/v2rayNG/releases/tag/1.3.1)
+* [V2rayNG](https://github.com/2dust/v2rayNG/releases/tag/1.4.1)
 
 {% hint style="info" %}
 不会用的话先在手机里安装好，自己琢磨一下  
