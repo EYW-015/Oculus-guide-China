@@ -8,7 +8,6 @@
   * [Oculus VR 玩家交流群@老竭力](https://t.me/oculus_paly)
 * QQ群:
   * [虚拟现实游戏联机群](https://jq.qq.com/?_wv=1027&k=npZd9PY9)
-  * [头号玩家@脑潘](https://jq.qq.com/?_wv=1027&k=DVoUBojd)
 
 ## Beat Saber
 
