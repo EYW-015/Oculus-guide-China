@@ -1,15 +1,28 @@
 # CFW TUN 模式
 
-## CFW开启TUN模式
+## CFW TUN模式
 
 {% hint style="info" %}
 对于不遵循系统代理的软件，开启 TUN 模式将在电脑设置一个虚拟网卡，接管其流量并交由 CFW 处理，在 Windows 中，TUN 模式性能比 TAP 模式好
 {% endhint %}
 
-首先参照前面的教程设置好你的CFW客户端  
+### 安装TUN驱动
+
+首先参照前面的教程设置好你的CFW客户端
+
+进入网站[Wintun](https://www.wintun.net/)，点击界面中**`Download Wintun xxx`**下载压缩包，然后打开CFW的**`Home Directory`**目录
+
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash_folder.png)
+
+根据系统版本将对应目录中**`wintun.dll`**解压至**`Home Directory`**目录中。基于**`x64`**的处理器的**`64`**位操作系统请使用**`amd64`**版本，**`32`**位操作系统请使用**`x86`**版本
+
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash_tun_dll.png)
+
 然后在**`General`**菜单中找到**`Service Mode`**选项，点击**`Manage` &gt; `Install`**
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash_tun_install.png)
+
+### 设置并开启CFW TUN
 
 进入**`Settings页面` &gt; `Profile Mixin` &gt; `YAML` &gt; `Edit`**
 
