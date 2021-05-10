@@ -41,7 +41,7 @@
 * [银行卡 / 购买软件](oculus-use/pay.md)
 * [开发者权限 / Sidequest](oculus-use/dev-sq.md)
 * [Quest激活后联网](oculus-use/quest-after/README.md)
-  * [安装梯子](oculus-use/quest-after/quest-proxy.md)
+  * [安装梯子\(推荐\)](oculus-use/quest-after/quest-proxy.md)
   * [电脑代理联网](oculus-use/quest-after/quest-soft.md)
 * [串流 / 投屏](oculus-use/stream.md)
 
