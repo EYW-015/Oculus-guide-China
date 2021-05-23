@@ -64,9 +64,9 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 ### **Oculus PC 客户端联网**
 
-{% page-ref page="../../oc-net/oc-client/proxifier.md" %}
+{% page-ref page="../../../oc-net/oc-client/proxifier.md" %}
 
 ### **Quest激活**
 
-{% page-ref page="../../oc-net/quest-net/hotspot.md" %}
+{% page-ref page="../../../oc-net/quest-net/hotspot.md" %}
 

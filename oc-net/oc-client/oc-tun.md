@@ -12,7 +12,7 @@
 
 ### Clash TUN 模式
 
-{% page-ref page="../../proxy/cfw/clash-tun.md" %}
+{% page-ref page="../../proxy/clash-jin-jie-tui-jian/cfw/clash-tun.md" %}
 
 
 
