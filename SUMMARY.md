@@ -18,7 +18,7 @@
   * [Clash\(进阶推荐\)](proxy/clash-jin-jie-tui-jian/README.md)
     * [Clash for Windows](proxy/clash-jin-jie-tui-jian/cfw/README.md)
       * [CFW TUN 模式](proxy/clash-jin-jie-tui-jian/cfw/clash-tun.md)
-  * [Clash .NET](proxy/clash-.net.md)
+    * [Clash .NET](proxy/clash-jin-jie-tui-jian/clash-.net.md)
   * [SS](proxy/ss.md)
   * [其他客户端](proxy/other-proxy.md)
 * [Facebook账号](facebook-account.md)
