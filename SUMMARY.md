@@ -1,6 +1,6 @@
 # Table of contents
 
-* [关于教程](README.md)
+* [欢迎使用](README.md)
 * [使用必读](before.md)
 * [教程在哪](where.md)
 * [捐助](donate.md)
