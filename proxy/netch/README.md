@@ -10,6 +10,12 @@ Netch 是一款 Windows 平台的开源游戏加速工具
 SStap已经停止维护，推荐使用Netch进行游戏加速
 {% endhint %}
 
+{% hint style="warning" %}
+关于程序无法安装/启动的问题，建议您安装 .NET 5.0 Desktop Runtime x64 之后再尝试使用。请注意，您需要安装的是 64 位的版本
+
+Download link - 下载链接 [https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.7-windows-x64-installer](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.7-windows-x64-installer)
+{% endhint %}
+
 ## 下载使用
 
 * [最新版本发布页](https://github.com/NetchX/Netch/releases/latest/)
