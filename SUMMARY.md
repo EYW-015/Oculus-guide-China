@@ -2,7 +2,6 @@
 
 * [请先看必读](README.md)
 * [预先了解方案](knowledge.md)
-* [常见问题](questions.md)
 * [邀请激活返30刀](invite30.md)
 * [捐助](donate.md)
 * [低价海淘Quest2](buy-q2.md)
@@ -48,6 +47,7 @@
 
 ## 其他 <a id="other"></a>
 
+* [常见问题](other/questions.md)
 * [银行卡 / 购买软件](other/pay.md)
 * [群组 / 友链 / 鸣谢](other/links.md)
 
