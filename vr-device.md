@@ -15,7 +15,7 @@
 
 **Quest**设备首次开机需要进行设备激活，WIFI需要可以访问外网环境，详情参阅以下页面
 
-{% page-ref page="oc-net/quest-net/" %}
+{% page-ref page="quest-guide/quest-net.md" %}
 
 
 

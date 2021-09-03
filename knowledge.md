@@ -9,17 +9,15 @@
 
 ### 相关页面:
 
-{% page-ref page="proxy/" %}
+{% page-ref page="network/proxy-client/" %}
 
 ### Oculus PC 客户端联网
 
-{% page-ref page="oc-net/oc-client/" %}
+{% page-ref page="quest-guide/oc-client/" %}
 
 ### Quest激活
 
 使用梯子客户端\(如**`Netch` / `CFW`**\)的TAP模式，将梯子共享给WIFI热点，达到Quest联网的目的
-
-{% page-ref page="oc-net/quest-net/hotspot.md" %}
 
 {% hint style="info" %}
 如果电脑没有无线网卡，可以TB购买一个USB-WIFI，如果**不支持开启系统原生热点**，可以使用网上搜索的免费热点软件进行共享
@@ -31,11 +29,11 @@
 
 ### 相关页面:
 
-{% page-ref page="router/" %}
+{% page-ref page="network/router/" %}
 
 ### Quest激活
 
-{% page-ref page="oc-net/quest-net/quest-router.md" %}
+{% page-ref page="quest-guide/quest-router.md" %}
 
 ## 临时软路由方案
 
@@ -43,7 +41,7 @@
 
 ### 相关页面:
 
-{% page-ref page="router/ruan-lu-you.md" %}
+{% page-ref page="network/router/ruan-lu-you.md" %}
 
 {% hint style="info" %}
 电脑小白请绕道，与其花三四个小时还弄不懂，不如去买个路由器实在

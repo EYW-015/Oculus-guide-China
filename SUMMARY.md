@@ -2,6 +2,8 @@
 
 * [请先看必读](README.md)
 * [预先了解方案](knowledge.md)
+* [常见问题](questions.md)
+* [邀请激活返30刀](invite30.md)
 * [捐助](donate.md)
 * [低价海淘Quest2](buy-q2.md)
 
@@ -11,44 +13,41 @@
 
 * [VR设备](vr-device.md)
 * [电脑相关](pc-ready.md)
-* [梯子](proxy/README.md)
-  * [寻找梯子](proxy/proxy-server.md)
-  * [Netch\(入门推荐\)](proxy/netch/README.md)
-    * [Netch TUN模式](proxy/netch/netch-tap.md)
-  * [Clash\(进阶推荐\)](proxy/clash-jin-jie-tui-jian/README.md)
-    * [Clash for Windows](proxy/clash-jin-jie-tui-jian/cfw/README.md)
-      * [CFW TUN 模式](proxy/clash-jin-jie-tui-jian/cfw/clash-tun.md)
-    * [Clash .NET](proxy/clash-jin-jie-tui-jian/clash-.net.md)
-  * [SS](proxy/ss.md)
-  * [其他客户端](proxy/other-proxy.md)
 * [Facebook账号](facebook-account.md)
-* [路由器\(推荐\)](router/README.md)
-  * [老毛子路由器](router/padavan.md)
-  * [华硕路由器+梅林固件](router/asuswrt.md)
-  * [软路由](router/ruan-lu-you.md)
 
-## Oculus联网 <a id="oc-net"></a>
+## 网络 <a id="network"></a>
 
-* [OC PC客户端](oc-net/oc-client/README.md)
-  * [TAP/TUN 模式\(推荐\)](oc-net/oc-client/oc-tun.md)
-  * [Netch进程模式](oc-net/oc-client/netch-oc.md)
-  * [Proxifier+代理客户端](oc-net/oc-client/proxifier.md)
-  * [路由器上网\(推荐\)](oc-net/oc-client/oc-router.md)
-* [Quest激活](oc-net/quest-net/README.md)
-  * [电脑热点激活](oc-net/quest-net/hotspot.md)
-  * [路由器激活\(推荐\)](oc-net/quest-net/quest-router.md)
+* [网络基础\(必读\)](network/basic-net.md)
+* [寻找梯子](network/proxy-server.md)
+* [梯子客户端](network/proxy-client/README.md)
+  * [Netch\(入门推荐\)](network/proxy-client/netch/README.md)
+    * [Netch TUN模式](network/proxy-client/netch/netch-tap.md)
+  * [Clash\(进阶推荐\)](network/proxy-client/clash/README.md)
+    * [Clash for Windows](network/proxy-client/clash/cfw/README.md)
+      * [CFW TUN 模式](network/proxy-client/clash/cfw/clash-tun.md)
+    * [Clash .NET](network/proxy-client/clash/clash-net.md)
+  * [其他客户端](network/proxy-client/other-client.md)
+* [路由器](network/router/README.md)
+  * [老毛子路由器](network/router/padavan.md)
+  * [华硕路由器+梅林固件](network/router/asuswrt.md)
+  * [软路由](network/router/ruan-lu-you.md)
 
-## Oculus使用 <a id="oculus-use"></a>
+## Quest使用指南 <a id="quest-guide"></a>
 
-* [银行卡 / 购买软件](oculus-use/pay.md)
-* [开发者权限 / Sidequest](oculus-use/dev-sq.md)
-* [Quest激活后联网](oculus-use/quest-after/README.md)
-  * [安装梯子\(推荐\)](oculus-use/quest-after/quest-proxy.md)
-  * [电脑代理联网](oculus-use/quest-after/quest-soft.md)
-* [串流 / 投屏](oculus-use/stream.md)
+* [Oculus手机APP](quest-guide/oculus-phone.md)
+* [Quest联网&激活](quest-guide/quest-net.md)
+* [梯子路由器](quest-guide/quest-router.md)
+* [开发者权限 / Sidequest](quest-guide/dev-sq.md)
+* [头显内安装梯子](quest-guide/quest-client-inside.md)
+* [Oculus PC客户端](quest-guide/oc-client/README.md)
+  * [TAP/TUN 模式\(推荐\)](quest-guide/oc-client/oc-tun.md)
+  * [Netch进程模式](quest-guide/oc-client/netch-oc.md)
+  * [Proxifier+代理客户端](quest-guide/oc-client/proxifier.md)
+  * [路由器上网\(推荐\)](quest-guide/oc-client/oc-router.md)
+* [串流 / 投屏](quest-guide/stream.md)
 
 ## 其他 <a id="other"></a>
 
-* [常见问题](other/questions.md)
+* [银行卡 / 购买软件](other/pay.md)
 * [群组 / 友链 / 鸣谢](other/links.md)
 
