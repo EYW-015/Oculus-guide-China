@@ -49,8 +49,6 @@ Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 
 选择你需要的线路，在**`模式`**中选择你需要加速的游戏，点击启动
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch_mode.png)
-
 {% hint style="info" %}
 更加详细的使用说明，请查看[**官方说明文档**](https://github.com/NetchX/Netch/blob/master/docs/Quickstart.zh-CN.md)\*\*\*\*
 {% endhint %}

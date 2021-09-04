@@ -42,7 +42,6 @@
   * [TAP/TUN 模式\(推荐\)](quest-guide/oc-client/oc-tun.md)
   * [Netch进程模式](quest-guide/oc-client/netch-oc.md)
   * [Proxifier+代理客户端](quest-guide/oc-client/proxifier.md)
-  * [路由器上网\(推荐\)](quest-guide/oc-client/oc-router.md)
 * [串流 / 投屏](quest-guide/stream.md)
 
 ## 其他 <a id="other"></a>
