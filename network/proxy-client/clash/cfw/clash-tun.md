@@ -1,5 +1,9 @@
 # CFW TUN 模式
 
+{% hint style="danger" %}
+请**至GitHub**下载原作者发布的最新版本，请勿下载机场发布的**旧版/中文版**等来路不明的版本，所造成的风险与问题自行承担
+{% endhint %}
+
 ## CFW TUN模式
 
 {% hint style="info" %}
@@ -57,4 +61,8 @@ mixin: # object
 打开**`控制面板` &gt; `网络和 Internet` &gt; `网络和共享中心` &gt; 左侧`更改适配器设置`**，找到名称为**`Clash`**且描述为**`Clash Tunnel`**的适配器，如果显示已启用，说明tap模式成功开启
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash_tun_adp.png)
+
+## 热点共享网络
+
+{% page-ref page="../../../../quest-guide/quest-net.md" %}
 

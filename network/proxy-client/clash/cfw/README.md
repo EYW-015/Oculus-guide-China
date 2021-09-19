@@ -2,6 +2,10 @@
 
 ## 简介
 
+{% hint style="danger" %}
+请**至GitHub**下载原作者发布的最新版本，请勿下载机场发布的旧版/中文版等来路不明的版本，所造成的风险与问题自行承担
+{% endhint %}
+
 * [项目主页](https://github.com/Fndroid/clash_for_windows_pkg)
 
 Clash for Windows \(以下简称CFW\) 是一个Windows平台的Clash图形界面客户端，支持多种代理协议，SS，VMess，Trojan，Socks5等

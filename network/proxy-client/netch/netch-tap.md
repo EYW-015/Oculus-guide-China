@@ -20,3 +20,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch_uninstall_nf.png)
 
+## 热点共享网络
+
+{% page-ref page="../../../quest-guide/quest-net.md" %}
+

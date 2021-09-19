@@ -1,4 +1,4 @@
-# Netch\(入门推荐\)
+# Netch\(入门\)
 
 ## 简介
 
@@ -20,7 +20,7 @@ Download link - 下载链接 [https://dotnet.microsoft.com/download/dotnet/thank
 
 * [最新版本发布页](https://github.com/NetchX/Netch/releases/latest/)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 请去GitHub发布页下载最新版本，如遇版本设置选项与本教程不一致的情况，请自行机智
 {% endhint %}
 

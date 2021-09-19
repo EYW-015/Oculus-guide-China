@@ -8,15 +8,19 @@
 不仅限于激活，也可以作为日常联网使用
 {% endhint %}
 
-## **以下方案二选一** <a id="yi-xia-fang-an-er-xuan-yi"></a>
+## **打开TUN模式** <a id="yi-xia-fang-an-er-xuan-yi"></a>
 
-### Netch TUN 模式\(推荐\) <a id="netch-tap-mo-shi-tui-jian"></a>
-
-{% page-ref page="../network/proxy-client/netch/netch-tap.md" %}
+{% hint style="info" %}
+以下方案二选一即可
+{% endhint %}
 
 ### CFW TUN 模式 <a id="cfw-tun-mo-shi"></a>
 
 {% page-ref page="../network/proxy-client/clash/cfw/clash-tun.md" %}
+
+### Netch TUN 模式 <a id="netch-tap-mo-shi-tui-jian"></a>
+
+{% page-ref page="../network/proxy-client/netch/netch-tap.md" %}
 
 ## 热点共享 <a id="re-dian-gong-xiang"></a>
 
@@ -24,7 +28,7 @@
 
 ​![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash9.png)‌
 
-右键**`Netch适配器`**\(或者是你的**`clash TUN设备`**\) **&gt;** **`属性`** **&gt;** **`共享`**，勾选**`允许其他网络用户...`**，在下拉菜单中选择之前开启的名称为 **`本地连接* <数字>`** 的**`WIFI热点适配器`**，如果没有下拉菜单，先取消**`允许共享`**，保存关闭之后再回来打开​
+右键**`clash TUN设备`**\(或者是你的**`Netch适配器`**\) **&gt;** **`属性`** **&gt;** **`共享`**，勾选**`允许其他网络用户...`**，在下拉菜单中选择之前开启的名称为 **`本地连接* <数字>`** 的**`WIFI热点适配器`**，如果没有下拉菜单，先取消**`允许共享`**，保存关闭之后再回来打开​
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash10.png)‌
 
