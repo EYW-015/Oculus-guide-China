@@ -2,7 +2,7 @@
 
 ## PC VR
 
- **Rift CV1 / Rift S** 这2款设备属于PC VR  
+** Rift CV1 / Rift S **这2款设备属于PC VR\
 需要连接电脑才能使用，并且需要足够的性能以带动VR头显
 
 ## Quest系列
@@ -15,7 +15,7 @@
 
 **Quest**设备首次开机需要进行设备激活，WIFI需要可以访问外网环境，详情参阅以下页面
 
-{% page-ref page="quest-guide/quest-net.md" %}
-
-
+{% content-ref url="quest-guide/quest-net.md" %}
+[quest-net.md](quest-guide/quest-net.md)
+{% endcontent-ref %}
 

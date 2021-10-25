@@ -6,24 +6,23 @@
 * [捐助](donate.md)
 * [低价海淘Quest2](buy-q2.md)
 
-## 准备 <a id="ready"></a>
+## 准备 <a href="ready" id="ready"></a>
 
----
+***
 
 * [VR设备](vr-device.md)
 * [电脑相关](pc-ready.md)
 * [Facebook账号](facebook-account.md)
 
-## 网络 <a id="network"></a>
+## 网络 <a href="network" id="network"></a>
 
-* [网络基础\(必读\)](network/basic-net.md)
 * [寻找梯子](network/proxy-server.md)
 * [梯子客户端](network/proxy-client/README.md)
-  * [Clash\(推荐\)](network/proxy-client/clash/README.md)
+  * [Clash(推荐)](network/proxy-client/clash/README.md)
     * [Clash for Windows](network/proxy-client/clash/cfw/README.md)
       * [CFW TUN 模式](network/proxy-client/clash/cfw/clash-tun.md)
     * [Clash .NET](network/proxy-client/clash/clash-net.md)
-  * [Netch\(入门\)](network/proxy-client/netch/README.md)
+  * [Netch(入门)](network/proxy-client/netch/README.md)
     * [Netch TUN模式](network/proxy-client/netch/netch-tap.md)
   * [其他客户端](network/proxy-client/other-client.md)
 * [路由器](network/router/README.md)
@@ -31,22 +30,22 @@
   * [华硕路由器+梅林固件](network/router/asuswrt.md)
   * [软路由](network/router/ruan-lu-you.md)
 
-## Quest使用指南 <a id="quest-guide"></a>
+## Quest使用指南 <a href="quest-guide" id="quest-guide"></a>
 
+* [网络基础(必读)](quest-guide/basic-net.md)
 * [Oculus手机APP](quest-guide/oculus-phone.md)
 * [Quest联网&激活](quest-guide/quest-net.md)
 * [梯子路由器](quest-guide/quest-router.md)
 * [开发者权限 / Sidequest](quest-guide/dev-sq.md)
 * [头显内安装梯子](quest-guide/quest-client-inside.md)
 * [Oculus PC客户端](quest-guide/oc-client/README.md)
-  * [TAP/TUN 模式\(推荐\)](quest-guide/oc-client/oc-tun.md)
+  * [TAP/TUN 模式(推荐)](quest-guide/oc-client/oc-tun.md)
   * [Netch进程模式](quest-guide/oc-client/netch-oc.md)
   * [Proxifier+代理客户端](quest-guide/oc-client/proxifier.md)
 * [串流 / 投屏](quest-guide/stream.md)
 
-## 其他 <a id="other"></a>
+## 其他 <a href="other" id="other"></a>
 
 * [常见问题](other/questions.md)
 * [银行卡 / 购买软件](other/pay.md)
 * [群组 / 友链 / 鸣谢](other/links.md)
-

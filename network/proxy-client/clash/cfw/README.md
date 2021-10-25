@@ -6,9 +6,9 @@
 请**至GitHub**下载原作者发布的最新版本，请勿下载机场发布的旧版/中文版等来路不明的版本，所造成的风险与问题自行承担
 {% endhint %}
 
-* [项目主页](https://github.com/Fndroid/clash_for_windows_pkg)
+* [项目主页](https://github.com/Fndroid/clash\_for\_windows\_pkg)
 
-Clash for Windows \(以下简称CFW\) 是一个Windows平台的Clash图形界面客户端，支持多种代理协议，SS，VMess，Trojan，Socks5等
+Clash for Windows (以下简称CFW) 是一个Windows平台的Clash图形界面客户端，支持多种代理协议，SS，VMess，Trojan，Socks5等
 
 {% hint style="success" %}
 Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发 / TAP模式，以及高度自定义的策略组分流规则
@@ -20,7 +20,7 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 ## 下载使用
 
-* [最新版本发布页](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+* [最新版本发布页](https://github.com/Fndroid/clash\_for\_windows\_pkg/releases)
 
 下载对应版本之后安装运行，托盘区会出现一个深蓝色的小猫咪图标![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash1.png)，这时Clash就启动成功了
 
@@ -53,12 +53,14 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash4.png)
 
 {% hint style="info" %}
-由于各个机场使用的配置文件不一样，分流规则也不一样，详细的分流策略设置请咨询各家机场，阅读[**CFW说明文档**](https://docs.cfw.lbyczf.com/)，或自行谷歌查询
+由于各个机场使用的配置文件不一样，分流规则也不一样，详细的分流策略设置请咨询各家机场，阅读[**CFW说明文档**](https://docs.cfw.lbyczf.com)，或自行谷歌查询
 {% endhint %}
 
 ## TUN模式
 
-{% page-ref page="clash-tun.md" %}
+{% content-ref url="clash-tun.md" %}
+[clash-tun.md](clash-tun.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 对于不遵循系统代理的软件，开启 TUN 模式将在电脑设置一个虚拟网卡，接管其流量并交由 CFW 处理，在 Windows 中，TUN 模式性能比 TAP 模式好
@@ -68,7 +70,12 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 ### **Oculus PC 客户端联网**
 
-{% page-ref page="../../../../quest-guide/oc-client/proxifier.md" %}
+{% content-ref url="../../../../quest-guide/oc-client/proxifier.md" %}
+[proxifier.md](../../../../quest-guide/oc-client/proxifier.md)
+{% endcontent-ref %}
 
 ### **Quest激活**
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

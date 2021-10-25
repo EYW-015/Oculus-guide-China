@@ -23,12 +23,12 @@
 * [Firefox 应用商店](https://addons.mozilla.org/zh-CN/firefox/extensions/)
 
 {% hint style="success" %}
-经过测试部分应用，Edge / Chrome 平台 **Hotspot Shield** 可以正常使用
+经过测试部分应用，Edge / Chrome 平台 **Hotspot Shield **可以正常使用
 {% endhint %}
 
 如已经有可使用的梯子，可以参阅以下页面查看使用方法
 
-{% page-ref page="proxy-client/" %}
-
-
+{% content-ref url="proxy-client/" %}
+[proxy-client](proxy-client/)
+{% endcontent-ref %}
 

@@ -1,4 +1,4 @@
-# Netch\(入门\)
+# Netch(入门)
 
 ## 简介
 
@@ -36,12 +36,12 @@ Download link - 下载链接 [https://dotnet.microsoft.com/download/dotnet/thank
 Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 {% endhint %}
 
-在Netch主界面点击**`订阅` &gt; `管理订阅链接`**，打开如下界面
+在Netch主界面点击**`订阅` > `管理订阅链接`**，打开如下界面
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch2.png)
 
-**`备注`**栏填写任意名称，链接栏将你的订阅地址粘贴进去，点击**`添加`**  
-点击**`订阅` &gt; `从订阅链接更新服务器`**，如Windows提示更新成功即可
+**`备注`**栏填写任意名称，链接栏将你的订阅地址粘贴进去，点击**`添加`**\
+****点击**`订阅` > `从订阅链接更新服务器`**，如Windows提示更新成功即可
 
 ## 启动加速
 
@@ -50,12 +50,14 @@ Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 选择你需要的线路，在**`模式`**中选择你需要加速的游戏，点击启动
 
 {% hint style="info" %}
-更加详细的使用说明，请查看[**官方说明文档**](https://github.com/NetchX/Netch/blob/master/docs/Quickstart.zh-CN.md)\*\*\*\*
+更加详细的使用说明，请查看[**官方说明文档**](https://github.com/NetchX/Netch/blob/master/docs/Quickstart.zh-CN.md)****
 {% endhint %}
 
 ### TUN模式
 
-{% page-ref page="netch-tap.md" %}
+{% content-ref url="netch-tap.md" %}
+[netch-tap.md](netch-tap.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 对于不遵循系统代理的软件，开启 TUN/TAP 模式将在电脑设置一个虚拟网卡，接管其流量并交由 Netch 处理，此模式可以代理大部分应用流量
@@ -65,7 +67,12 @@ Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 
 ### **Oculus PC 客户端联网**
 
-{% page-ref page="../../../quest-guide/oc-client/netch-oc.md" %}
+{% content-ref url="../../../quest-guide/oc-client/netch-oc.md" %}
+[netch-oc.md](../../../quest-guide/oc-client/netch-oc.md)
+{% endcontent-ref %}
 
 ### **Quest激活**
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

@@ -6,15 +6,17 @@
 
 ## 老毛子路由器
 
-{% page-ref page="../network/router/padavan.md" %}
+{% content-ref url="../network/router/padavan.md" %}
+[padavan.md](../network/router/padavan.md)
+{% endcontent-ref %}
 
 进入科学上网插件
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv1.png)
 
-将**`运行模式`**设置为**`全局模式`  
-`游戏UDP中继服务器`**设置为**`与主服务相同`  
-`需要代理的端口`**设置为**`所有端口`**
+将**`运行模式`**设置为**`全局模式`**\
+**`游戏UDP中继服务器`**设置为**`与主服务相同`**\
+**`需要代理的端口`**设置为**`所有端口`**
 
 
 
@@ -26,15 +28,17 @@
 
 将Quest链接至WIFI，正常激活并更新
 
-激活完成后将**`运行模式`**设置为**`绕过大陆IP模式`**  
-将**`需要代理的端口`**设置为**`仅常用端口`**  
-将**`游戏UDP中继服务器`**设置为**`停用`**
+激活完成后将**`运行模式`**设置为**`绕过大陆IP模式`**\
+将**`需要代理的端口`**设置为**`仅常用端口`**\
+****将**`游戏UDP中继服务器`**设置为**`停用`**
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv4.png)
 
 ## 梅林
 
-{% page-ref page="../network/router/asuswrt.md" %}
+{% content-ref url="../network/router/asuswrt.md" %}
+[asuswrt.md](../network/router/asuswrt.md)
+{% endcontent-ref %}
 
 连接至你的路由器WIFI，确保你路由器插件开启了**`游戏模式`**，即可正常激活更新
 
@@ -44,15 +48,16 @@
 既然你已经会折腾软路由了，那这点设置难不倒你
 {% endhint %}
 
-{% page-ref page="../network/router/ruan-lu-you.md" %}
+{% content-ref url="../network/router/ruan-lu-you.md" %}
+[ruan-lu-you.md](../network/router/ruan-lu-you.md)
+{% endcontent-ref %}
 
-注意激活时将**`运行模式`**设为**`全局模式`  
-`游戏UDP中继服务器`**设置为**`与主服务相同`  
-`代理端口`**设为**`所有端口`**
+注意激活时将**`运行模式`**设为**`全局模式`**\
+**`游戏UDP中继服务器`**设置为**`与主服务相同`**\
+**`代理端口`**设为**`所有端口`**
 
-激活完成后将**`运行模式`**设置为**`绕过大陆IP模式`**  
-将**`代理端口`**设为**`常用端口`**  
-将**`游戏模式UDP中继服务器`**设置为**`停用`**
+激活完成后将**`运行模式`**设置为**`绕过大陆IP模式`**\
+将**`代理端口`**设为**`常用端口`**\
+****将**`游戏模式UDP中继服务器`**设置为**`停用`**
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/openwrt/op1.png)
-
