@@ -48,7 +48,7 @@ Oculus不支持**银联**卡标的银行卡，需要绑卡请去银行申请 **V
 
 ## **代购**
 
-作者提供软件代购，汇率按[**中国银行外汇牌价**](https://www.boc.cn/sourcedb/whpj/)** 现汇卖出价**计算，代购费5元，加群咨询
+作者提供软件代购，汇率按[**中国银行外汇牌价**](https://www.boc.cn/sourcedb/whpj/) **现汇卖出价**计算，代购费5元，加群咨询
 
 {% content-ref url="links.md" %}
 [links.md](links.md)

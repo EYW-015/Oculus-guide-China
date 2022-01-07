@@ -2,7 +2,7 @@
 
 ## PC VR
 
-** Rift CV1 / Rift S **这2款设备属于PC VR\
+&#x20;**Rift CV1 / Rift S** 这2款设备属于PC VR\
 需要连接电脑才能使用，并且需要足够的性能以带动VR头显
 
 ## Quest系列

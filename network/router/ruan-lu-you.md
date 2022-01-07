@@ -50,7 +50,7 @@ ARM型号推荐
 
 找一个空U盘，有1G容量就可以
 
-下载 **x64实体机固件**，解压(打不开去安装 [**Bandizip**](https://cn.bandisoft.com/bandizip/)** **)\
+下载 **x64实体机固件**，解压(打不开去安装 [**Bandizip**](https://cn.bandisoft.com/bandizip/) **** )\
 下载刷机工具 [**Win32diskimager**](https://sourceforge.net/projects/win32diskimager/)，打开刷机工具，把解压好的固件拖进去，右边选择你的U盘，点击**`Write`**
 
 刷写完成之后重启电脑，进入bios选择U盘启动\

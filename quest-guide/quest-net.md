@@ -8,29 +8,32 @@
 不仅限于激活，也可以作为日常联网使用
 {% endhint %}
 
-## **打开TUN模式** <a id="yi-xia-fang-an-er-xuan-yi"></a>
+## **打开TUN模式** <a href="#yi-xia-fang-an-er-xuan-yi" id="yi-xia-fang-an-er-xuan-yi"></a>
 
 {% hint style="info" %}
 以下方案二选一即可
 {% endhint %}
 
-### CFW TUN 模式 <a id="cfw-tun-mo-shi"></a>
+### CFW TUN 模式 <a href="#cfw-tun-mo-shi" id="cfw-tun-mo-shi"></a>
 
-{% page-ref page="../network/proxy-client/clash/cfw/clash-tun.md" %}
+{% content-ref url="../network/proxy-client/clash/clash-tun.md" %}
+[clash-tun.md](../network/proxy-client/clash/clash-tun.md)
+{% endcontent-ref %}
 
-### Netch TUN 模式 <a id="netch-tap-mo-shi-tui-jian"></a>
+### Netch TUN 模式 <a href="#netch-tap-mo-shi-tui-jian" id="netch-tap-mo-shi-tui-jian"></a>
 
-{% page-ref page="../network/proxy-client/netch/netch-tap.md" %}
+{% content-ref url="../network/proxy-client/netch/netch-tap.md" %}
+[netch-tap.md](../network/proxy-client/netch/netch-tap.md)
+{% endcontent-ref %}
 
-## 热点共享 <a id="re-dian-gong-xiang"></a>
+## 热点共享 <a href="#re-dian-gong-xiang" id="re-dian-gong-xiang"></a>
 
 开启你的WIFI热点，然后会在你的网络适配器中多出一个**`本地连接* <数字>`**且描述为**`Microsoft Wi-Fi ...`**的适配器，这是你的**`WIFI热点网络适配器`**
 
 ​![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash9.png)‌
 
-右键**`clash TUN设备`**\(或者是你的**`Netch适配器`**\) **&gt;** **`属性`** **&gt;** **`共享`**，勾选**`允许其他网络用户...`**，在下拉菜单中选择之前开启的名称为 **`本地连接* <数字>`** 的**`WIFI热点适配器`**，如果没有下拉菜单，先取消**`允许共享`**，保存关闭之后再回来打开​
+右键**`clash TUN设备`**(或者是你的**`Netch适配器`**) **>** **`属性`** **>** **`共享`**，勾选**`允许其他网络用户...`**，在下拉菜单中选择之前开启的名称为 **`本地连接* <数字>`** 的**`WIFI热点适配器`**，如果没有下拉菜单，先取消**`允许共享`**，保存关闭之后再回来打开​
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash10.png)‌
 
 设置完成，将你的头显连接至你的电脑WIFI热点，即可正常连接网络
-

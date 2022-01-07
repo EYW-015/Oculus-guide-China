@@ -4,17 +4,23 @@
 
 联系作者，提供远程技术支持
 
-{% page-ref page="links.md" %}
+{% content-ref url="links.md" %}
+[links.md](links.md)
+{% endcontent-ref %}
 
 ## 梯子相关问题&网络基础
 
 ### 为什么不推荐改hosts方案
 
-{% page-ref page="../pc-ready.md" %}
+{% content-ref url="../pc-ready.md" %}
+[pc-ready.md](../pc-ready.md)
+{% endcontent-ref %}
 
 ### 梯子去哪里找
 
-{% page-ref page="../network/proxy-server.md" %}
+{% content-ref url="../network/proxy-server.md" %}
+[proxy-server.md](../network/proxy-server.md)
+{% endcontent-ref %}
 
 ### 我可以用SStap吗
 
@@ -32,11 +38,15 @@ SSR已经停维数年，网络上流传的客户端很多为第三方修改版�
 
 ### 买路由器有推荐吗
 
-{% page-ref page="../network/router/padavan.md" %}
+{% content-ref url="../network/router/padavan.md" %}
+[padavan.md](../network/router/padavan.md)
+{% endcontent-ref %}
 
 ## Facebook账号问题
 
-{% page-ref page="../facebook-account.md" %}
+{% content-ref url="../facebook-account.md" %}
+[facebook-account.md](../facebook-account.md)
+{% endcontent-ref %}
 
 ## Oculus PC客户端相关问题
 
@@ -44,20 +54,25 @@ SSR已经停维数年，网络上流传的客户端很多为第三方修改版�
 
 更改Oculus安装路径/无法连接至服务器/Facebook验证/无限转圈
 
-{% page-ref page="../quest-guide/oc-client/" %}
+{% content-ref url="../quest-guide/oc-client/" %}
+[oc-client](../quest-guide/oc-client/)
+{% endcontent-ref %}
 
 ## Quest相关问题
 
 ### 网络受限/激活/卡更新/手机APK
 
-Quest激活不了/卡0%更新，网络无法连接/网络受限等问题，请查询节点线路是否支持UDP  
-无法使用谷歌全家桶，下载Oculus手机APP/APK
+Quest激活不了/卡0%更新，网络无法连接/网络受限等问题，请查询节点线路是否支持UDP
 
-{% page-ref page="../quest-guide/quest-net.md" %}
+{% content-ref url="../quest-guide/basic-net.md" %}
+[basic-net.md](../quest-guide/basic-net.md)
+{% endcontent-ref %}
 
 ### Quest去哪里买比较优惠
 
-{% page-ref page="../buy-q2.md" %}
+{% content-ref url="../buy-q2.md" %}
+[buy-q2.md](../buy-q2.md)
+{% endcontent-ref %}
 
 ### 可以用手机热点激活吗
 
@@ -67,9 +82,12 @@ Quest激活不了/卡0%更新，网络无法连接/网络受限等问题，请�
 
 开启开发者模式之后，可以在头显中安装并使用标准安卓软件，可以在头显中安装梯子客户端，并使用头显内梯子进行联网，之后便无需使用路由器/热点
 
-{% page-ref page="../quest-guide/quest-client-inside.md" %}
+{% content-ref url="../quest-guide/quest-client-inside.md" %}
+[quest-client-inside.md](../quest-guide/quest-client-inside.md)
+{% endcontent-ref %}
 
 ## 银行卡/开发者/消费
 
-{% page-ref page="pay.md" %}
-
+{% content-ref url="pay.md" %}
+[pay.md](pay.md)
+{% endcontent-ref %}
