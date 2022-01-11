@@ -1,13 +1,9 @@
 # 寻找梯子
 
-{% hint style="danger" %}
-**此部分涉及敏感内容，严禁公开转发/转载**
-{% endhint %}
-
 可以自行购买海外服务器搭建线路，或者寻找机场购买
 
-{% hint style="warning" %}
-不建议使用免费梯子，使用人数多，且稳定性较差，易导致Facebook封号
+{% hint style="info" %}
+不建议使用免费梯子，稳定性与安全性较差
 {% endhint %}
 
 ## 骑驴找马
@@ -32,3 +28,4 @@
 [proxy-client](proxy-client/)
 {% endcontent-ref %}
 
+##

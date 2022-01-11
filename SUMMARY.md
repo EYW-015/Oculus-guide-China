@@ -1,6 +1,6 @@
 # Table of contents
 
-* [请先看必读](README.md)
+* [欢迎使用](README.md)
 * [预先了解方案](knowledge.md)
 * [邀请激活返30刀](invite30.md)
 * [捐助](donate.md)

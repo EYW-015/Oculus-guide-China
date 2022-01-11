@@ -8,7 +8,8 @@ Quest设备可通过**SideQuest**安装标准安卓APK安装包，你可以使�
 请先申请开发者账号，并开启开发者权限
 {% endhint %}
 
-Clash for Android是安卓平台的Clash客户端  
+Clash for Android是安卓平台的Clash客户端\
+&#x20;   ※Clash需要使用专用的\
 V2rayNG用户请使用旧版1.4.1客户端，部分用户使用过程中发现新版存在兼容问题
 
 * [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
@@ -16,7 +17,7 @@ V2rayNG用户请使用旧版1.4.1客户端，部分用户使用过程中发现�
 * [V2rayNG](https://github.com/2dust/v2rayNG/releases/tag/1.4.1)
 
 {% hint style="info" %}
-不会用的话先在手机里安装好，自己琢磨一下  
+不会用的话先在手机里安装好，自己琢磨一下\
 订阅太长了就在**头显浏览器**登录你的机场去后台复制
 {% endhint %}
 
@@ -27,4 +28,3 @@ V2rayNG用户请使用旧版1.4.1客户端，部分用户使用过程中发现�
 进入应用，右上角选择未知来源，并找到你安装的梯子客户端，打开并使用，即可无需WIFI代理和设置，随时随地联网使用
 
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/uks.webp)
-
