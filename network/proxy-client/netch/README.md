@@ -1,0 +1,78 @@
+# Netch(入门)
+
+## 简介
+
+* [项目主页](https://github.com/NetchX/Netch)
+
+Netch 是一款 Windows 平台的开源游戏加速工具
+
+{% hint style="info" %}
+SStap已经停止维护，推荐使用Netch进行游戏加速
+{% endhint %}
+
+{% hint style="warning" %}
+关于程序无法安装/启动的问题，建议您安装 .NET 5.0 Desktop Runtime x64 之后再尝试使用。请注意，您需要安装的是 64 位的版本
+
+Download link - 下载链接 [https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.7-windows-x64-installer](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.7-windows-x64-installer)
+{% endhint %}
+
+## 下载使用
+
+* [最新版本发布页](https://github.com/NetchX/Netch/releases/latest/)
+
+{% hint style="info" %}
+请去GitHub发布页下载最新版本，如遇版本设置选项与本教程不一致的情况，请自行机智
+{% endhint %}
+
+下载最新版本的压缩包之后，解压至**桌面以外的任意目录**，运行Netch客户端会看到如下界面
+
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch1.png)
+
+## 配置导入
+
+先在机场找到你的可订阅地址，复制你的订阅地址
+
+{% hint style="info" %}
+Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
+{% endhint %}
+
+在Netch主界面点击**`订阅` > `管理订阅链接`**，打开如下界面
+
+![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch2.png)
+
+**`备注`**栏填写任意名称，链接栏将你的订阅地址粘贴进去，点击**`添加`**\
+****点击**`订阅` > `从订阅链接更新服务器`**，如Windows提示更新成功即可
+
+## 启动加速
+
+### **进程模式**
+
+选择你需要的线路，在**`模式`**中选择你需要加速的游戏，点击启动
+
+{% hint style="info" %}
+更加详细的使用说明，请查看[**官方说明文档**](https://github.com/NetchX/Netch/blob/master/docs/Quickstart.zh-CN.md)****
+{% endhint %}
+
+### TUN模式
+
+{% content-ref url="netch-tap.md" %}
+[netch-tap.md](netch-tap.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+对于不遵循系统代理的软件，开启 TUN/TAP 模式将在电脑设置一个虚拟网卡，接管其流量并交由 Netch 处理，此模式可以代理大部分应用流量
+{% endhint %}
+
+## **下一步**
+
+### **Oculus PC 客户端联网**
+
+{% content-ref url="../../../quest-guide/oc-client/netch-oc.md" %}
+[netch-oc.md](../../../quest-guide/oc-client/netch-oc.md)
+{% endcontent-ref %}
+
+### **Quest激活**
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
