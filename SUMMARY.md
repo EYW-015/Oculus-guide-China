@@ -18,9 +18,8 @@
 
 * [寻找梯子](network/proxy-server.md)
 * [梯子客户端](network/proxy-client/README.md)
-  * [Clash(推荐)](network/proxy-client/clash/README.md)
-    * [Clash for Windows](network/proxy-client/clash/cfw.md)
-    * [CFW TUN 模式](network/proxy-client/clash/clash-tun.md)
+  * [Clash(推荐)](network/proxy-client/cfw/README.md)
+    * [CFW TUN 模式](network/proxy-client/cfw/clash-tun.md)
   * [Netch(入门)](network/proxy-client/netch/README.md)
     * [Netch TUN模式](network/proxy-client/netch/netch-tap.md)
   * [其他客户端](network/proxy-client/other-client.md)
@@ -32,8 +31,8 @@
 ## Quest使用指南 <a href="#quest-guide" id="quest-guide"></a>
 
 * [网络基础(必读)](quest-guide/basic-net.md)
-* [Oculus手机APP](quest-guide/oculus-phone.md)
 * [Quest联网&激活](quest-guide/quest-net.md)
+* [Oculus手机APP](quest-guide/oculus-phone.md)
 * [梯子路由器](quest-guide/quest-router.md)
 * [开发者权限 / Sidequest](quest-guide/dev-sq.md)
 * [头显内安装梯子](quest-guide/quest-client-inside.md)

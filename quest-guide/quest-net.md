@@ -16,8 +16,8 @@
 
 ### CFW TUN 模式 <a href="#cfw-tun-mo-shi" id="cfw-tun-mo-shi"></a>
 
-{% content-ref url="../network/proxy-client/clash/clash-tun.md" %}
-[clash-tun.md](../network/proxy-client/clash/clash-tun.md)
+{% content-ref url="../network/proxy-client/cfw/clash-tun.md" %}
+[clash-tun.md](../network/proxy-client/cfw/clash-tun.md)
 {% endcontent-ref %}
 
 ### Netch TUN 模式 <a href="#netch-tap-mo-shi-tui-jian" id="netch-tap-mo-shi-tui-jian"></a>

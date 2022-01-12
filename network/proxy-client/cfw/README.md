@@ -1,4 +1,4 @@
-# Clash for Windows
+# Clash(推荐)
 
 ## 简介
 
@@ -76,6 +76,6 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 ### **Quest激活**
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../quest-guide/quest-net.md" %}
+[quest-net.md](../../../quest-guide/quest-net.md)
 {% endcontent-ref %}

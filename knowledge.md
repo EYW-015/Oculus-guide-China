@@ -23,8 +23,8 @@
 
 使用梯子客户端(如**`Netch` / `CFW`**)的TAP模式，将梯子共享给WIFI热点，达到Quest联网的目的
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="quest-guide/quest-net.md" %}
+[quest-net.md](quest-guide/quest-net.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

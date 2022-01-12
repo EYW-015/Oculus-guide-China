@@ -14,7 +14,7 @@
 
 ### Clash TUN 模式
 
-{% content-ref url="../../network/proxy-client/clash/clash-tun.md" %}
-[clash-tun.md](../../network/proxy-client/clash/clash-tun.md)
+{% content-ref url="../../network/proxy-client/cfw/clash-tun.md" %}
+[clash-tun.md](../../network/proxy-client/cfw/clash-tun.md)
 {% endcontent-ref %}
 
