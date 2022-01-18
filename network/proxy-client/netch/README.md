@@ -67,8 +67,8 @@ Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 
 ### **Oculus PC 客户端联网**
 
-{% content-ref url="../../../quest-guide/oc-client/netch-oc.md" %}
-[netch-oc.md](../../../quest-guide/oc-client/netch-oc.md)
+{% content-ref url="../../../quest-use/oc-client/netch-oc.md" %}
+[netch-oc.md](../../../quest-use/oc-client/netch-oc.md)
 {% endcontent-ref %}
 
 ### **Quest激活**

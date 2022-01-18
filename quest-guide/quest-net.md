@@ -14,7 +14,7 @@
 以下方案二选一即可
 {% endhint %}
 
-### CFW TUN 模式 <a href="#cfw-tun-mo-shi" id="cfw-tun-mo-shi"></a>
+### CFW TUN 模式 (推荐) <a href="#cfw-tun-mo-shi" id="cfw-tun-mo-shi"></a>
 
 {% content-ref url="../network/proxy-client/cfw/clash-tun.md" %}
 [clash-tun.md](../network/proxy-client/cfw/clash-tun.md)

@@ -15,8 +15,8 @@
 
 ### Oculus PC 客户端联网
 
-{% content-ref url="quest-guide/oc-client/" %}
-[oc-client](quest-guide/oc-client/)
+{% content-ref url="quest-use/oc-client/" %}
+[oc-client](quest-use/oc-client/)
 {% endcontent-ref %}
 
 ### Quest激活

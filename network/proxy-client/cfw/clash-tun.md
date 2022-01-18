@@ -14,6 +14,8 @@
 
 在**`General`**菜单中找到**`Service Mode`**选项，点击**`Manage` > `Install`**
 
+安装成功后右侧**小地球应变为绿色**
+
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash\_tun\_install.png)
 
 ### 设置并开启CFW TUN

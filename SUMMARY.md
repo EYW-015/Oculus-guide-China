@@ -1,6 +1,7 @@
 # Table of contents
 
 * [欢迎使用](README.md)
+* [使用必读](shi-yong-bi-du.md)
 * [预先了解方案](knowledge.md)
 * [邀请激活返30刀](invite30.md)
 * [捐助](donate.md)
@@ -28,19 +29,22 @@
   * [华硕路由器+梅林固件](network/router/asuswrt.md)
   * [软路由](network/router/ruan-lu-you.md)
 
-## Quest使用指南 <a href="#quest-guide" id="quest-guide"></a>
+## Quest激活 <a href="#quest-guide" id="quest-guide"></a>
 
 * [网络基础(必读)](quest-guide/basic-net.md)
 * [Quest联网&激活](quest-guide/quest-net.md)
-* [Oculus手机APP](quest-guide/oculus-phone.md)
 * [路由器激活](quest-guide/quest-router.md)
-* [开发者权限 / Sidequest](quest-guide/dev-sq.md)
-* [头显安装软件/梯子](quest-guide/quest-client-inside.md)
-* [Oculus PC客户端](quest-guide/oc-client/README.md)
-  * [TAP/TUN 模式(推荐)](quest-guide/oc-client/oc-tun.md)
-  * [Netch进程模式](quest-guide/oc-client/netch-oc.md)
-  * [Proxifier+代理客户端](quest-guide/oc-client/proxifier.md)
-* [串流 / 投屏](quest-guide/stream.md)
+* [Oculus手机APP](quest-guide/oculus-phone.md)
+
+## QUEST使用 <a href="#quest-use" id="quest-use"></a>
+
+* [开发者权限 / Sidequest](quest-use/dev-sq.md)
+* [头显安装软件/梯子](quest-use/quest-client-inside.md)
+* [Oculus PC客户端](quest-use/oc-client/README.md)
+  * [TAP/TUN 模式(推荐)](quest-use/oc-client/oc-tun.md)
+  * [Netch进程模式](quest-use/oc-client/netch-oc.md)
+  * [Proxifier+代理客户端](quest-use/oc-client/proxifier.md)
+* [串流 / 投屏](quest-use/stream.md)
 
 ## 其他 <a href="#other" id="other"></a>
 

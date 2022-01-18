@@ -54,8 +54,8 @@ SSR已经停维数年，网络上流传的客户端很多为第三方修改版�
 
 更改Oculus安装路径/无法连接至服务器/Facebook验证/无限转圈
 
-{% content-ref url="../quest-guide/oc-client/" %}
-[oc-client](../quest-guide/oc-client/)
+{% content-ref url="../quest-use/oc-client/" %}
+[oc-client](../quest-use/oc-client/)
 {% endcontent-ref %}
 
 ## Quest相关问题
@@ -82,8 +82,8 @@ Quest激活不了/卡0%更新，网络无法连接/网络受限等问题，请�
 
 开启开发者模式之后，可以在头显中安装并使用标准安卓软件，可以在头显中安装梯子客户端，并使用头显内梯子进行联网，之后便无需使用路由器/热点
 
-{% content-ref url="../quest-guide/quest-client-inside.md" %}
-[quest-client-inside.md](../quest-guide/quest-client-inside.md)
+{% content-ref url="../quest-use/quest-client-inside.md" %}
+[quest-client-inside.md](../quest-use/quest-client-inside.md)
 {% endcontent-ref %}
 
 ## 银行卡/开发者/消费
