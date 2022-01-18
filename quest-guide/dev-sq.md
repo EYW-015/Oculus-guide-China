@@ -1,9 +1,5 @@
 # 开发者权限 / Sidequest
 
-{% hint style="success" %}
-此页教程由**@WGzeyu**提供，[**原文连接**](https://bs-wgzeyu.gtxcn.com/oq-guide/)****
-{% endhint %}
-
 ## 注意事项
 
 申请开发者权限需要**`验证手机号`**并且<mark style="color:red;">**`绑定银行卡`**</mark>才可以通过
@@ -26,7 +22,7 @@ Oculus Quest平台的实用工具，提供了例如APK安装、数据备份，�
 2\. [**进入页面**](https://developer.oculus.com/manage/)，注册为开发者，组织名称自己看着设就行\
 3\. [**进入页面**](https://developer.oculus.com/downloads/package/oculus-adb-drivers/)，同意协议后下载并解压驱动包，右键`android_winusb.inf`选择安装\
 4\. 在手机上打开Oculus应用：**`设置` > `Oculus Quest xxx ▽` > `┅ 更多设置` > `开发者模式` > `打开开关`**\
-5\. 使用手机的USB线（而不是Quest附送的）将Quest连接至电脑，并在VR中允许USB调试。
+5\. 使用手机的USB线（而不是Quest附送的）将Quest连接至电脑，并在VR中<mark style="background-color:blue;">**允许USB调试**</mark>。
 
 当SideQuest左上角显示为绿色圆圈与设备名称时代表已成功连接你的Quest设备。
 
