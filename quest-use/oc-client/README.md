@@ -43,6 +43,3 @@ C:\Users\USERNAME\Downloads\OculusSetup.exe /drive=D
 国内会将Oculus相关域名解析至**美国/法国的Facebook CDN服务器**，无法进行直连，网上改hosts的方案是将此地址替换至**未被屏蔽的澳大利亚CDN服务器**进行链接
 
 但是由于Oculus客户端**无法使用系统代理**，所以你<mark style="color:red;">**改了hosts也是直连，梯子在那看戏，钱打水漂！！！**</mark>
-
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/ochome/och1.png)
-

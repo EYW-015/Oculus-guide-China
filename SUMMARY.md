@@ -19,10 +19,8 @@
 
 * [寻找梯子](network/proxy-server.md)
 * [梯子客户端](network/proxy-client/README.md)
-  * [Clash(推荐)](network/proxy-client/cfw/README.md)
+  * [Clash](network/proxy-client/cfw/README.md)
     * [CFW TUN 模式](network/proxy-client/cfw/clash-tun.md)
-  * [Netch(入门)](network/proxy-client/netch/README.md)
-    * [Netch TUN模式](network/proxy-client/netch/netch-tap.md)
   * [其他客户端](network/proxy-client/other-client.md)
 * [路由器](network/router/README.md)
   * [老毛子路由器](network/router/padavan.md)
@@ -41,8 +39,7 @@
 * [开发者权限 / Sidequest](quest-use/dev-sq.md)
 * [头显安装软件/梯子](quest-use/quest-client-inside.md)
 * [Oculus PC客户端](quest-use/oc-client/README.md)
-  * [TAP/TUN 模式(推荐)](quest-use/oc-client/oc-tun.md)
-  * [Netch进程模式](quest-use/oc-client/netch-oc.md)
+  * [TUN 模式(推荐)](quest-use/oc-client/oc-tun.md)
   * [Proxifier+代理客户端](quest-use/oc-client/proxifier.md)
 * [串流 / 投屏](quest-use/stream.md)
 

@@ -22,8 +22,8 @@
 
 ### Netch TUN 模式 <a href="#netch-tap-mo-shi-tui-jian" id="netch-tap-mo-shi-tui-jian"></a>
 
-{% content-ref url="../network/proxy-client/netch/netch-tap.md" %}
-[netch-tap.md](../network/proxy-client/netch/netch-tap.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## 热点共享 <a href="#re-dian-gong-xiang" id="re-dian-gong-xiang"></a>
