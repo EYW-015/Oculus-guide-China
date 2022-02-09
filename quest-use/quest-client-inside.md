@@ -9,10 +9,10 @@ Quest设备可通过**SideQuest**安装<mark style="background-color:green;">**�
 {% endhint %}
 
 Clash for Android是安卓平台的Clash客户端\
-&#x20;   ※Clash需要使用专用的\
-V2rayNG用户请使用旧版1.4.1客户端，部分用户使用过程中发现新版存在兼容问题
+&#x20;   ※Clash不与ss配置文件兼容，需要使用clash专用的配置文件
 
 * [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
+  * 下载安装**`arm64-v8a`**版本
 * [SS Android](https://github.com/shadowsocks/shadowsocks-android/releases)
 * [V2rayNG](https://github.com/2dust/v2rayNG/releases/tag/1.4.1)
 

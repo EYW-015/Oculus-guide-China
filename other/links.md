@@ -12,7 +12,7 @@
 ## Beat Saber
 
 * [Beat Saber教程 @WGzeyu](https://bs.wgzeyu.com)
-* [BS资源站 @张慧明](http://bs.zhm233.top)
+* [BS资源站 @张慧明](http://share.wgzeyu.vip)
 * [BS Mod 安装器 中文版](https://github.com/beatmods-top/ModAssistant/releases/)
   * [BS Mod 安装器 原版](https://github.com/Assistant/ModAssistant/releases/)
 * [BS曲包下载](https://beatsaver.com)
