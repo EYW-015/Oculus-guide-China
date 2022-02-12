@@ -1,24 +1,10 @@
 # Proxifier+代理客户端
 
-## 上一步
-
-{% content-ref url="../../network/proxy-client/" %}
-[proxy-client](../../network/proxy-client/)
-{% endcontent-ref %}
-
 ## 梯子开启LAN连接
 
 ### CFW
 
 在**`General`**页面中将**`Allow LAN`**选项打开，默认端口为**`7890`**
-
-### SS
-
-右键**`托盘区图标`**，勾选**`允许来自局域网的连接`**，默认端口为**`1080`**
-
-#### SSR
-
-右键**`托盘区图标`**，在**`选项菜单`**中勾选**`允许来自局域网的连接`**，默认端口为**`1080`**
 
 ## 简介
 

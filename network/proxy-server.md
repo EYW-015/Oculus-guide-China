@@ -24,8 +24,8 @@
 
 如已经有可使用的梯子，可以参阅以下页面查看使用方法
 
-{% content-ref url="proxy-client/" %}
-[proxy-client](proxy-client/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ##

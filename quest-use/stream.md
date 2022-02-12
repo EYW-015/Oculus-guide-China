@@ -4,14 +4,16 @@
 
 ### 无线串流
 
-Oculus 官方串流 Air Link
+#### Oculus 官方串流 Air Link
 
-* 在PC端的 **`设置` > `公测版`** 中打开 **`Air Link`**
-* 在头显的 **`设置` > `实验性功能`** 中打开 **`Air Link`**
+PC端Air Link已原生支持，无需设置\
+在头显的 **`设置` > `实验性功能`** 中打开 **`Air Link`**即可搜索电脑并连接
 
 {% hint style="info" %}
-如果需要使用有线串流，需要在头显中关闭 Air Link
+如果需要使用有线串流，需要在**实验性功能**关闭 Air Link
 {% endhint %}
+
+#### VD串流
 
 Quest端需要购买Virtual Desktop安装，19.9美金
 
@@ -36,6 +38,10 @@ Quest端需要购买Virtual Desktop安装，19.9美金
 安装好OC PC客户端，用USB线缆连接头显到电脑，头显内启动Link功能即可
 
 如果你取消了Link功能提示，在**`设置` > `设备`**里可以找到**`启用 Oculus Link`**功能开关
+
+{% hint style="info" %}
+如果需要使用有线串流，需要在**实验性功能**关闭 Air Link
+{% endhint %}
 
 ## 投屏
 

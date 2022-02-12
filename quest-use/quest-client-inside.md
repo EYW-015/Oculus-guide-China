@@ -13,10 +13,9 @@ Clash for Android是安卓平台的Clash客户端\
 
 * [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
   * 下载安装**`arm64-v8a`**版本
-* [SS Android](https://github.com/shadowsocks/shadowsocks-android/releases)
-* [V2rayNG](https://github.com/2dust/v2rayNG/releases/tag/1.4.1)
 
 {% hint style="info" %}
+<mark style="color:red;">**只推荐Clash**</mark>\
 不会用的话先在手机里安装好，自己琢磨一下\
 订阅太长了就在**头显浏览器**登录你的机场去后台复制
 {% endhint %}

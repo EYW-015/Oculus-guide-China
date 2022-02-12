@@ -1,4 +1,4 @@
-# Clash(推荐)
+# Clash
 
 ## 简介
 
@@ -21,12 +21,9 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 ## 下载使用
 
 * [最新版本发布页](https://github.com/Fndroid/clash\_for\_windows\_pkg/releases)
+  * 下载**`Setup`**无后缀版本，如 <mark style="background-color:blue;">**xxx.Setup.0.19.8.exe**</mark>
 
 下载对应版本之后安装运行，托盘区会出现一个深蓝色的小猫咪图标![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash1.png)，这时Clash就启动成功了
-
-{% hint style="info" %}
-推荐使用exe安装包的方式使用该软件
-{% endhint %}
 
 ## 界面介绍
 
@@ -70,12 +67,12 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 ### **Oculus PC 客户端联网**
 
-{% content-ref url="../../../quest-use/oc-client/proxifier.md" %}
-[proxifier.md](../../../quest-use/oc-client/proxifier.md)
+{% content-ref url="../../quest-use/oc-client/proxifier.md" %}
+[proxifier.md](../../quest-use/oc-client/proxifier.md)
 {% endcontent-ref %}
 
 ### **Quest激活**
 
-{% content-ref url="../../../quest-guide/quest-net.md" %}
-[quest-net.md](../../../quest-guide/quest-net.md)
+{% content-ref url="../../quest-guide/quest-net.md" %}
+[quest-net.md](../../quest-guide/quest-net.md)
 {% endcontent-ref %}

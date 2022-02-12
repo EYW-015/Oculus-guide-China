@@ -22,7 +22,11 @@
 
 点击**`TUN Mode` 旁边的齿轮 > `Reset` > `Save`**
 
-![](../../../.gitbook/assets/image.png)![](<../../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (1).png>)
+
+{% hint style="info" %}
+图中的配置是作者改过的，**点完reset就别动了，不要照着改**
+{% endhint %}
 
 最后将**`TUN Mode`**选项右侧的开关打开即可
 
@@ -32,6 +36,6 @@
 
 ## 热点共享网络
 
-{% content-ref url="../../../quest-guide/quest-net.md" %}
-[quest-net.md](../../../quest-guide/quest-net.md)
+{% content-ref url="../../quest-guide/quest-net.md" %}
+[quest-net.md](../../quest-guide/quest-net.md)
 {% endcontent-ref %}
