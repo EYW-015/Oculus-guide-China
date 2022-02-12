@@ -1,10 +1,18 @@
 # 常见问题
 
-（本页待完善
-
 ## 目录
 
 [#wang-luo-wen-ti](questions.md#wang-luo-wen-ti "mention")（无法激活更新，下载缓慢，网络受限
+
+[#quest-an-zhuang-ruan-jian](questions.md#quest-an-zhuang-ruan-jian "mention")\
+[#kai-fa-zhe-mo-shi](questions.md#kai-fa-zhe-mo-shi "mention")\
+[#tou-xian-an-zhuang-ruan-jian](questions.md#tou-xian-an-zhuang-ruan-jian "mention")（安装梯子，安卓软件
+
+[#facebook-feng-hao](questions.md#facebook-feng-hao "mention")（申诉解封
+
+[#oculus-pc-duan-wen-ti](questions.md#oculus-pc-duan-wen-ti "mention")（无法登陆，更改安装路径
+
+[#gou-mai-ruan-jian](questions.md#gou-mai-ruan-jian "mention")（银行卡位数不对，无法消费
 
 ## 网络问题
 
@@ -18,11 +26,11 @@ A：不可以，手机热点代理无法转发UDP数据包，需要**电脑WIFI�
 [basic-net.md](quest-guide/basic-net.md)
 {% endcontent-ref %}
 
-Q：改hosts\
-A：不推荐，原因查看下方页面了解原理
+Q：改hosts也能联网，为什么还搞那么麻烦\
+A：不推荐改hosts，原因查看下方页面了解原理
 
-{% content-ref url="pc-ready.md" %}
-[pc-ready.md](pc-ready.md)
+{% content-ref url="quest-use/oc-client/" %}
+[oc-client](quest-use/oc-client/)
 {% endcontent-ref %}
 
 Q：梯子去哪里找，有没有推荐\
