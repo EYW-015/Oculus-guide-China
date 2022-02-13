@@ -24,10 +24,10 @@
   * [华硕路由器+梅林固件](network/router/asuswrt.md)
   * [软路由](network/router/ruan-lu-you.md)
 
-## Quest激活 <a href="#quest-guide" id="quest-guide"></a>
+## Quest2激活 <a href="#quest-guide" id="quest-guide"></a>
 
 * [网络基础问题(必读)](quest-guide/basic-net.md)
-* [Quest联网&激活](quest-guide/quest-net.md)
+* [Quest2联网&激活](quest-guide/quest-net.md)
 * [路由器激活](quest-guide/quest-router.md)
 * [Oculus手机APP](quest-guide/oculus-phone.md)
 

@@ -1,7 +1,7 @@
 # 路由器激活
 
-{% hint style="warning" %}
-激活头显需要你的**梯子线路支持UDP转发**，否则头显无法更新固件
+{% hint style="danger" %}
+激活头显需要你的**梯子线路**<mark style="color:red;">**支持UDP转发**</mark>，否则头显无法更新固件
 {% endhint %}
 
 ## 老毛子路由器

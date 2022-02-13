@@ -45,4 +45,17 @@ Quest端需要购买Virtual Desktop安装，19.9美金
 
 ## 投屏
 
-在需要投屏的设备安装投屏软件，打开OC手机端，右上角选择投屏，设备选择你需要投屏的设备即可
+* [Oculus官方投屏教程](https://support.oculus.com/articles/in-vr-experiences/oculus-features/cast-with-quest-2/?locale=zh\_CN)
+
+### 投屏至电脑
+
+1. 将电脑与头显连至同一WiFi路由器
+2. 电脑打开投屏网址：[https://www.oculus.com/casting](https://www.oculus.com/casting)
+3. 在头显内打开Oculus菜单，**`分享` > `投屏` > `选择你的电脑`**
+
+### 投屏至电视
+
+1. 一台能安装软件的智能电视
+2. 将电视与头显连接至同一网络
+3. 在电视上安装串流Cast软件，如：[Cast to TV](https://apkpure.com/cn/cast-to-tv-chromecast-roku-stream-phone-to-tv/cast.video.screenmirroring.casttotv) (来自APKPure)
+4. 打开OC手机端，右上角打开投屏，设备选择电视

@@ -8,7 +8,7 @@ Oculus平台消费只支持**VISA卡**或**PayPal**，<mark style="color:red;">�
 
 ### 平台区别
 
-Oculus 软件是分平台的，**Rift版本和Quest版本不共通，看清楚你买的是什么平台再付款**
+Oculus 软件是分平台的，<mark style="background-color:orange;">**Rift版本和Quest版本不共通，看清楚你买的是什么平台再付款**</mark>
 
 PC端购买的软件多数无法在Quest平台使用，仅部分软件支持交叉购买(如[Skybox](https://www.oculus.com/experiences/quest/2063931653705427/)，在一个平台购买，另一个平台可以免费领取)
 
@@ -49,8 +49,6 @@ PC端购买的软件多数无法在Quest平台使用，仅部分软件支持交�
 ### PayPal+VISA
 
 极佳选择，VISA美元汇率与银联基本无差，甚至更低，且VISA结算不受PayPal汇率影响，完美避开汇率陷阱
-
-
 
 ## **代购**
 

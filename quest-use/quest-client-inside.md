@@ -2,7 +2,7 @@
 
 ## 安装梯子客户端
 
-Quest设备可通过**SideQuest**安装<mark style="background-color:green;">**标准安卓APK**</mark>安装包，你可以使用绝大多数安卓平台的客户端
+Quest2可通过**SideQuest**安装<mark style="background-color:green;">**标准安卓APK**</mark>安装包，你可以使用绝大多数安卓平台的客户端
 
 {% hint style="info" %}
 请先申请开发者账号，并开启开发者权限
