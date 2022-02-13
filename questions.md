@@ -2,97 +2,88 @@
 
 ## 目录
 
-[#wang-luo-wen-ti](questions.md#wang-luo-wen-ti "mention")（无法激活更新，下载缓慢，网络受限
-
-[#quest-an-zhuang-ruan-jian](questions.md#quest-an-zhuang-ruan-jian "mention")\
-[#kai-fa-zhe-mo-shi](questions.md#kai-fa-zhe-mo-shi "mention")\
-[#tou-xian-an-zhuang-ruan-jian](questions.md#tou-xian-an-zhuang-ruan-jian "mention")（安装梯子，安卓软件
-
-[#facebook-feng-hao](questions.md#facebook-feng-hao "mention")（申诉解封
-
-[#oculus-pc-duan-wen-ti](questions.md#oculus-pc-duan-wen-ti "mention")（无法登陆，更改安装路径
-
-[#gou-mai-ruan-jian](questions.md#gou-mai-ruan-jian "mention")（银行卡位数不对，无法消费
+* [#wang-luo-wen-ti](questions.md#wang-luo-wen-ti "mention")
+  * [#wang-luo-wu-fa-lian-jie-wang-luo-shou-xian](questions.md#wang-luo-wu-fa-lian-jie-wang-luo-shou-xian "mention")
+  * [#ke-yi-yong-shou-ji-re-dian-ji-huo-ma](questions.md#ke-yi-yong-shou-ji-re-dian-ji-huo-ma "mention")
+  * [#gai-hosts-ye-neng-lian-wang-wei-shen-me-hai-gao-na-me-ma-fan](questions.md#gai-hosts-ye-neng-lian-wang-wei-shen-me-hai-gao-na-me-ma-fan "mention")
+  * [#ti-zi-qu-na-li-zhao-you-mei-you-tui-jian](questions.md#ti-zi-qu-na-li-zhao-you-mei-you-tui-jian "mention")
+  * [#yi-ding-yao-mai-lu-you-qi-ma](questions.md#yi-ding-yao-mai-lu-you-qi-ma "mention")
+* [#quest-an-zhuang-ruan-jian](questions.md#quest-an-zhuang-ruan-jian "mention")
+  * [#kai-fa-zhe-mo-shi](questions.md#kai-fa-zhe-mo-shi "mention")
+  * [#tou-xian-an-zhuang-ruan-jian](questions.md#tou-xian-an-zhuang-ruan-jian "mention")（安装梯子
+* [#facebook-feng-hao](questions.md#facebook-feng-hao "mention")
+* [#oculus-pc-duan-wen-ti](questions.md#oculus-pc-duan-wen-ti "mention")
+  * [#ke-hu-duan-wu-fa-deng-lu](questions.md#ke-hu-duan-wu-fa-deng-lu "mention")
+  * [#zen-me-gai-an-zhuang-lu-jing](questions.md#zen-me-gai-an-zhuang-lu-jing "mention")
+* [#gou-mai-ruan-jian](questions.md#gou-mai-ruan-jian "mention")
+  * [#ke-yi-yong-yin-lian-ka-ma](questions.md#ke-yi-yong-yin-lian-ka-ma "mention")
 
 ## 网络问题
 
-Q：<mark style="color:red;">明明能看YouTube</mark>，但是网络无法连接/网络受限，设备激活不了/卡0%更新，下载应用缓慢\
-A：由于链接至Oculus设备服务需要**UDP数据传输**，请查询<mark style="color:red;">**线路**</mark>**以及**<mark style="color:red;">**联网方式**</mark>是否支持UDP转发
+### 网络无法连接/网络受限
 
-Q：可以用手机热点激活吗\
-A：不可以，手机热点代理无法转发UDP数据包，需要**电脑WIFI网卡**或购买**梯子路由器**
+明明能看YouTube，但是激活不了/卡0%更新。由于链接至Oculus设备服务需要**UDP数据传输**，请查询<mark style="color:red;">**线路**</mark>**以及**<mark style="color:red;">**联网方式**</mark>是否支持UDP转发
+
+### 可以用手机热点激活吗
+
+不可以，手机热点代理无法转发UDP数据包，需要**电脑WIFI网卡**或购买**梯子路由器**
 
 {% content-ref url="quest-guide/basic-net.md" %}
 [basic-net.md](quest-guide/basic-net.md)
 {% endcontent-ref %}
 
-Q：改hosts也能联网，为什么还搞那么麻烦\
-A：不推荐改hosts，原因查看下方页面了解原理
+### 改hosts也能联网，为什么还搞那么麻烦
 
-{% content-ref url="quest-use/oc-client/" %}
-[oc-client](quest-use/oc-client/)
-{% endcontent-ref %}
+不推荐改hosts，原因查看[本页面](quest-use/oc-client/#yuan-li-jiang-jie)了解原理
 
-Q：梯子去哪里找，有没有推荐\
-A：查看以下页面寻找梯子
+### 梯子去哪里找，有没有推荐
+
+查看[本页面](network/proxy-server.md)寻找梯子
 
 PS：作者只用过两三家梯子，没用过的也不好推荐，当前使用的虽然<mark style="color:blue;">非常稳定</mark>且<mark style="color:blue;">全线支持UDP</mark>，但<mark style="color:red;">价格较高</mark>，且<mark style="color:red;">无月付套餐</mark>，仅推荐有长期需求的用户购买
 
-{% content-ref url="network/proxy-server.md" %}
-[proxy-server.md](network/proxy-server.md)
-{% endcontent-ref %}
+### 一定要买路由器吗
 
-### Quest安装软件
+**不是必须的**，用软件方式进行联网也一样可以正常使用，当然路由器使用**更加方便**，但是一条**稳定的梯子线路**比路由器**重要的多**
 
-#### 开发者模式
+## Quest安装软件
 
-Q：开发者模式怎么打开\
-A：先去申请VISA银行卡，根据以下页面步骤绑定银行卡，并创建开发者组织
+### 开发者模式
 
-{% content-ref url="quest-use/dev-sq.md" %}
-[dev-sq.md](quest-use/dev-sq.md)
-{% endcontent-ref %}
+开发者模式怎么打开
 
-#### 头显安装软件
+先去申请VISA银行卡，根据[以下页面](quest-use/dev-sq.md)步骤绑定银行卡，并创建开发者组织
 
-Q：可以在头显中安装梯子或安卓软件吗\
-A：开启开发者模式之后，可以在头显中安装标准安卓APK，在头显中安装梯子并进行联网，便无需使用梯子路由器/热点
+### 头显安装软件
+
+可以在头显中安装梯子或安卓软件吗
+
+开启开发者模式之后，可以在头显中安装标准安卓APK，在头显中安装梯子并进行联网，便无需使用梯子路由器/热点
 
 {% content-ref url="quest-use/quest-client-inside.md" %}
 [quest-client-inside.md](quest-use/quest-client-inside.md)
 {% endcontent-ref %}
 
-#### 路由器
-
-Q：一定要买路由器吗\
-A：**不是必须的**，用软件方式进行联网也一样可以正常使用，当然路由器使用**更加方便**，但是一条**稳定的梯子线路**比路由器**重要的多**
-
 ## **Facebook封号**
 
-Q：Facebook一注册就封号怎么办\
-A：查看以下页面，根据说明进行申述解封，平均1-2天
+Facebook一注册就封号怎么办
 
-{% content-ref url="facebook-account.md" %}
-[facebook-account.md](facebook-account.md)
-{% endcontent-ref %}
+查看[以下页面](facebook-account.md#shen-su-liu-cheng)，根据说明进行申述解封，平均1-2天
 
 ## Oculus PC端问题
 
-Q：<mark style="color:red;">明明能连Facebook登录</mark>，但还是显示<mark style="color:red;">请在浏览器中完成操作</mark>\
-A：Oculus Home无法使用系统代理，需要打开Clash TUN模式联网
+### 客户端无法登陆
 
-Q：我不想装到C盘，怎么改安装路径\
-A：查看下方页面，输入命令行修改安装目录
+明明能连Facebook登录，但还是显示请在浏览器中完成操作
 
-{% content-ref url="quest-use/oc-client/" %}
-[oc-client](quest-use/oc-client/)
-{% endcontent-ref %}
+Oculus Home无法使用系统代理，需要打开[Clash TUN模式](network/cfw/clash-tun.md)联网
+
+### 怎么改安装路径
+
+查看[下方页面](quest-use/oc-client/#geng-gai-an-zhuang-lu-jing)，输入命令行修改安装目录
 
 ## 购买软件
 
-Q：我可以用银联卡购买OC游戏吗\
-A：不可以，Oculus不支持银联卡，详细信息查看下方页面
+### 可以用银联卡吗
 
-{% content-ref url="quest-use/pay.md" %}
-[pay.md](quest-use/pay.md)
-{% endcontent-ref %}
+不可以，Oculus不支持银联卡，详细信息查看[下方页面](quest-use/pay.md)
