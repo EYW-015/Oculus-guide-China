@@ -29,3 +29,13 @@ description: 科学上网&翻墙
 ![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash10.png)‌
 
 设置完成，将你的头显连接至你的电脑WIFI热点，即可正常连接网络
+
+{% hint style="info" %}
+如果clash设置完后没有出现TUN适配器
+
+或开启网络共享之后，适配器消失
+
+左下角显示Disconnected等情况
+
+尝试重启电脑
+{% endhint %}

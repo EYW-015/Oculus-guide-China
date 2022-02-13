@@ -21,11 +21,3 @@
 {% hint style="success" %}
 经过测试部分应用，Edge / Chrome 平台 **Hotspot Shield** 可以正常使用
 {% endhint %}
-
-如已经有可使用的梯子，可以参阅以下页面查看使用方法
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-##

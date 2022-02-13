@@ -11,6 +11,8 @@ PC端Air Link已原生支持，无需设置\
 
 {% hint style="info" %}
 如果需要使用有线串流，需要在**实验性功能**关闭 Air Link
+
+若Air Link无法连接电脑，请更新<mark style="color:red;">PC客户端</mark>以及<mark style="color:red;">头显系统</mark>至最新版
 {% endhint %}
 
 #### VD串流

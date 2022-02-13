@@ -1,7 +1,17 @@
 # 网络基础问题(必读)
 
+## UDP数据包
+
+### UDP不可用的常见问题
+
+* Quest2 WiFi显示**网络受限**
+* 头显固件更新卡在0%
+* 头显内应用商店无法访问
+* 头显无法下载游戏
+* 在线游戏无法联网
+
 {% hint style="info" %}
-Quest激活需要**UDP数据传输**，也就是说需要你的**梯子线路**，以及**客户端**支持**UDP转发**，才可以成功**激活**并**更新固件**
+需要你的<mark style="color:red;">**梯子线路**</mark>、<mark style="color:red;">**客户端**</mark>以及<mark style="color:red;">**联网方式**</mark>三者**同时支持UDP转发**，才可以使用
 {% endhint %}
 
 ### 如何知道线路是否支持UDP
@@ -11,17 +21,17 @@ Quest激活需要**UDP数据传输**，也就是说需要你的**梯子线路**�
 
 ### 现有UDP支持方案
 
-<mark style="color:red;">**只有以下3种**</mark>
-
 * Win10 无线网卡热点，配合梯子的TUN模式共享网络
 * 激活路由器，使用第三方固件支持UDP转发
 * 苹果电脑，[**ClashX Pro**](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution\_groups/public)打开网关模式，头显WiFi设置静态IP与网关
+* 安卓手机<mark style="color:red;">开启root权限</mark>，并使用[**V\*N Hotspot**](https://apkpure.com/vpn-hotspot/be.mygod.vpnhotspot)开启热点
+  * 正常开启热点无法代理UDP数据
 
-<mark style="color:red;">**局域网代理**</mark>无法代理UDP数据包，不可用于激活/更新/下载软件\
+<mark style="color:red;">**局域网共享**</mark>无法代理UDP数据包，不可用于激活/更新/下载软件\
 包括**`SS/V2局域网共享`**，**`Clash允许LAN连接`**，**`手机代理局域网共享`**等
 
 {% hint style="danger" %}
-凡是在WIFI中设置<mark style="color:red;">代理服务器以及端口</mark>的方式，通通不能转发UDP数据包
+凡是在WIFI中设置<mark style="color:red;">代理服务器</mark>以及<mark style="color:red;">端口</mark>的方式，通通不能转发UDP数据包
 {% endhint %}
 
 ### 路由器
