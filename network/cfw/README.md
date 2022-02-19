@@ -2,8 +2,8 @@
 
 ## 简介
 
-{% hint style="danger" %}
-请**至GitHub**下载原作者发布的最新版本，请勿下载机场发布的旧版/中文版等来路不明的版本，所造成的风险与问题自行承担
+{% hint style="info" %}
+请**至GitHub**下载原作者发布的最新版本
 {% endhint %}
 
 * [项目主页](https://github.com/Fndroid/clash\_for\_windows\_pkg)
@@ -62,17 +62,3 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 {% hint style="info" %}
 对于不遵循系统代理的软件，开启 TUN 模式将在电脑设置一个虚拟网卡，接管其流量并交由 CFW 处理，在 Windows 中，TUN 模式性能比 TAP 模式好
 {% endhint %}
-
-## **下一步**
-
-### **Oculus PC 客户端联网**
-
-{% content-ref url="../../quest-use/oc-client/proxifier.md" %}
-[proxifier.md](../../quest-use/oc-client/proxifier.md)
-{% endcontent-ref %}
-
-### **Quest激活**
-
-{% content-ref url="../../quest-guide/quest-net.md" %}
-[quest-net.md](../../quest-guide/quest-net.md)
-{% endcontent-ref %}

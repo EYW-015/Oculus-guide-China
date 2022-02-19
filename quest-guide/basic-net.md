@@ -2,6 +2,8 @@
 
 ## UDP数据包
 
+头显与Oculus服务器联网需要<mark style="color:red;">传输UDP数据包</mark>，所以需要额外操作才可以进行UDP转发，只开启梯子的代理是不能进行UDP转发的
+
 ### UDP不可用的常见问题
 
 * Quest2 WiFi显示**网络受限**
@@ -11,7 +13,7 @@
 * 在线游戏无法联网
 
 {% hint style="info" %}
-需要你的<mark style="color:red;">**梯子线路**</mark>、<mark style="color:red;">**客户端**</mark>以及<mark style="color:red;">**联网方式**</mark>三者**同时支持UDP转发**，才可以使用
+需要你的<mark style="color:red;">**梯子线路**</mark>、<mark style="color:red;">**客户端**</mark>以及<mark style="color:red;">**联网方式**</mark>三者<mark style="color:red;">**同时**</mark>**支持UDP转发**，才可以使用
 {% endhint %}
 
 ### 如何知道线路是否支持UDP

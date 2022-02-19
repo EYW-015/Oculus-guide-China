@@ -26,7 +26,7 @@ C:\Users\USERNAME\Downloads\OculusSetup.exe /drive=D
 
 梯子只开系统代理的话就是个摆设，OC客户端仍然无法连网，便会出现诸如**卡在登录界面无限转圈**，或是**FB认证失败**等情况
 
-于是就需要开启**Clash的TUN模式**给OC客户端联网，或用到**Proxifier**进行应用代理
+于是就需要开启[**Clash的TUN模式**](../../network/cfw/clash-tun.md)给OC客户端联网，~~或用到**Proxifier**进行应用代理~~（已不推荐）
 
 {% content-ref url="../../network/cfw/clash-tun.md" %}
 [clash-tun.md](../../network/cfw/clash-tun.md)

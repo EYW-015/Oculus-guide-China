@@ -2,10 +2,10 @@
 
 ## 注意事项
 
-申请开发者权限需要**`验证手机号`**并且<mark style="color:red;">**`绑定银行卡`**</mark>才可以通过
+申请开发者权限需要**`验证手机号`**或**`绑定银行卡`**才可以通过
 
 {% hint style="danger" %}
-<mark style="color:red;">**不绑卡不行**</mark>，Oculus<mark style="color:red;">**不支持银联卡**</mark>，请**去银行申请** **VISA** 银行卡
+Oculus<mark style="color:red;">**不支持银联卡**</mark>，需要请**去银行申请** **VISA** 银行卡
 {% endhint %}
 
 ## 安装SideQuest

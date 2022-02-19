@@ -21,7 +21,9 @@ Proxifier是一款代理软件，支持自定义规则分流，可以使用进�
 
 ## Proxifier设置
 
-首先下载这个[**配置文件**](https://cdn.jsdelivr.net/gh/eyw015/Oculus-guide-China/proxifier/OculusConfig.ppx)，双击打开它，在弹出窗口中点击**`OK`**
+首先下载这个<mark style="color:purple;">**配置文件**</mark>，双击打开它，在弹出窗口中点击**`OK`**
+
+{% file src="../../.gitbook/assets/Oculus_conf.ppx" %}
 
 然后点击菜单栏的第一个按钮
 

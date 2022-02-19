@@ -1,9 +1,5 @@
 # CFW TUN 模式
 
-{% hint style="danger" %}
-请**至GitHub**下载原作者发布的最新版本，请勿下载机场发布的**旧版/中文版**等来路不明的版本，所造成的风险与问题自行承担
-{% endhint %}
-
 ## CFW TUN模式
 
 {% hint style="info" %}
@@ -22,11 +18,26 @@
 
 点击**`TUN Mode` 旁边的齿轮 > `Reset` > `Save`**
 
-![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/image.png)![](../../.gitbook/assets/21956.png)
 
 {% hint style="info" %}
-图中的配置是作者改过的，**点完reset就别动了，不要照着改**
+图中的<mark style="color:purple;">**DNS设置**</mark>是作者改过的，要不要照着改随你
 {% endhint %}
+
+**DNS Servers**
+
+```
+223.5.5.5
+119.29.29.29
+```
+
+**Fallback DNS Servers**
+
+```
+8.8.8.8
+tls://dns.rubyfish.cn:853
+https://1.1.1.1/dns-query
+```
 
 最后将**`TUN Mode`**选项右侧的开关打开即可
 

@@ -8,10 +8,6 @@ description: 科学上网&翻墙
 
 激活头显需要你的**梯子线路**<mark style="color:red;">**支持UDP转发**</mark>，否则头显无法更新固件‌
 
-{% hint style="success" %}
-不仅限于激活，也可以作为日常联网使用
-{% endhint %}
-
 ## 热点共享 <a href="#re-dian-gong-xiang" id="re-dian-gong-xiang"></a>
 
 先打开Clash的TUN模式
@@ -39,3 +35,7 @@ description: 科学上网&翻墙
 
 尝试重启电脑
 {% endhint %}
+
+### USB热点
+
+如果你用的USB WiFi已经自带了IP，共享时提示改为自动获取，那就打开热点适配器的**属性 > Internet协议版本4 > 改为自动获取**，再进行共享

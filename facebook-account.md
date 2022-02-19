@@ -4,13 +4,7 @@
 
 * [Facebook 官方网站](https://www.facebook.com)
 
-{% hint style="info" %}
-请使用稳定的线路，例如 **专线 / 原生IP / 家宽** 一类的节点，减小封号几率
-
-如没有这类线路，请考虑加钱更换更好的机场
-{% endhint %}
-
-如被封号，**不要注册下一个账号**，联系[**Oculus客服**](https://tickets.oculusvr.com/hc/zh-cn/requests/new)提交申诉解封(中文回复)，解封需要提供你的**Oculus设备序列号(serial number)**，如果是**亚马逊购买的**且还未到货，可以提供**亚马逊订单号**进行申诉
+如被封号，<mark style="color:red;">**不要注册下一个账号**</mark>，联系[**Oculus客服**](https://tickets.oculusvr.com/hc/zh-cn/requests/new)提交申诉解封(中文回复)，解封需要提供你的**Oculus设备序列号(serial number)**，如果是**亚马逊购买的**且还未到货，可以提供**亚马逊订单号**进行申诉
 
 ### 序列号位置
 
