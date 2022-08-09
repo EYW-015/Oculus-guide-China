@@ -8,6 +8,14 @@ description: 科学上网&翻墙
 
 激活头显需要你的**梯子线路**<mark style="color:red;">**支持UDP转发**</mark>，否则头显无法更新固件‌
 
+{% hint style="success" %}
+<mark style="color:red;">**########################**</mark>
+
+远程激活请联系QQ：<mark style="color:blue;">**3030217730**</mark>
+
+<mark style="color:red;">**########################**</mark>
+{% endhint %}
+
 ## 热点共享 <a href="#re-dian-gong-xiang" id="re-dian-gong-xiang"></a>
 
 先打开Clash的TUN模式
