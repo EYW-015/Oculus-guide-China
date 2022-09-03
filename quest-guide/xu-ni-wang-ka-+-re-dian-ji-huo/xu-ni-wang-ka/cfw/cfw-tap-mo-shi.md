@@ -21,8 +21,8 @@ mixin: #object
     - 223.6.6.6
 ```
 
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash\_mixin.png)
+
 点击右下角保存，将**`Mixin`**开关打开
 
 打开**`控制面板` > `网络和 Internet` > `网络和共享中心` > 左侧`更改适配器设置`**，找到名称为**`cfw-tap`**的适配器，如果显示已启用，说明tap模式成功开启
-
-##

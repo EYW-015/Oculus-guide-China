@@ -12,7 +12,7 @@ Oculus<mark style="color:red;">**不支持银联卡**</mark>，需要请**去银
 
 Oculus Quest平台的实用工具，提供了例如APK安装、数据备份，以及系统选项修改等功能。
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/sidequest.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/sidequest.png)
 
 * ****[**SideQuest官网下载**](https://sidequestvr.com/setup-howto)****
 

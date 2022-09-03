@@ -6,13 +6,15 @@
 
 ## 老毛子路由器
 
-{% content-ref url="../network/router/padavan.md" %}
-[padavan.md](../network/router/padavan.md)
+低成本的路由器解决方案，性能一般，适合小白用户使用
+
+{% content-ref url="padavan.md" %}
+[padavan.md](padavan.md)
 {% endcontent-ref %}
 
 进入科学上网插件
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv1.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv1.png)
 
 将**`运行模式`**设置为**`全局模式`**\
 **`游戏UDP中继服务器`**设置为**`与主服务相同`**\
@@ -22,7 +24,7 @@
 请注意停止你的BT下载，否则可能会触发机场的封禁规则
 {% endhint %}
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv3.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv3.png)
 
 将Quest链接至WIFI，正常激活并更新
 
@@ -30,24 +32,28 @@
 将**`需要代理的端口`**设置为**`仅常用端口`**\
 ****将**`游戏UDP中继服务器`**设置为**`停用`**
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv4.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv4.png)
 
 ## 梅林
 
-{% content-ref url="../network/router/asuswrt.md" %}
-[asuswrt.md](../network/router/asuswrt.md)
+折中的方案，WIFI性能强大，成本较高，适合对WIFI有需求的用户，需求无线串流的用户可考虑购买华硕
+
+{% content-ref url="asuswrt.md" %}
+[asuswrt.md](asuswrt.md)
 {% endcontent-ref %}
 
 连接至你的路由器WIFI，确保你路由器插件开启了<mark style="color:red;">**游戏模式**</mark>，即可正常激活更新
 
 ## 软路由
 
+最折腾、最强大的路由器方案，功能最多，成本也较高，电脑小白直接跳过
+
 {% hint style="success" %}
 既然你已经会折腾软路由了，那这点设置难不倒你
 {% endhint %}
 
-{% content-ref url="../network/router/ruan-lu-you.md" %}
-[ruan-lu-you.md](../network/router/ruan-lu-you.md)
+{% content-ref url="ruan-lu-you.md" %}
+[ruan-lu-you.md](ruan-lu-you.md)
 {% endcontent-ref %}
 
 注意激活时将**`运行模式`**设为**`全局模式`**\
@@ -58,4 +64,4 @@
 将**`代理端口`**设为**`常用端口`**\
 ****将**`游戏模式UDP中继服务器`**设置为**`停用`**
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/openwrt/op1.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/openwrt/op1.png)

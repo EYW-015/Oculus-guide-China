@@ -10,17 +10,17 @@
 
 ## Beat Saber
 
-* [Beat Saber教程 @WGzeyu](https://bs.wgzeyu.com)
-* [BS资源站 @张慧明](http://share.wgzeyu.vip)
+* [Beat Saber教程 @WGzeyu](https://bs.wgzeyu.com/)
+* [BS资源站 @张慧明](http://share.wgzeyu.vip/)
 * [BS Mod 安装器 中文版](https://github.com/beatmods-top/ModAssistant/releases/)
   * [BS Mod 安装器 原版](https://github.com/Assistant/ModAssistant/releases/)
-* [BS曲包下载](https://beatsaver.com)
-* [BS光剑/人物模型](https://modelsaber.com)
+* [BS曲包下载](https://beatsaver.com/)
+* [BS光剑/人物模型](https://modelsaber.com/)
 
 ## 论坛
 
-* [VR42论坛](http://vr42.com)
-* [虚幻岛社区](https://bbs.xuhuandao.com)
+* [VR42论坛](http://vr42.com/)
+* [虚幻岛社区](https://bbs.xuhuandao.com/)
 * [Koolshare 论坛](https://koolshare.cn/forum.php)
 * [恩山无线论坛](https://www.right.com.cn/forum/forum.php)
 

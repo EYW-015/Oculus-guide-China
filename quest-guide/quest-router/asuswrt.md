@@ -8,7 +8,7 @@
 由于硬路由CPU性能局限，外网速度慢是正常情况，对速度有需求请使用软路由
 {% endhint %}
 
-梅林固件支持的华硕路由器型号很多，查看支持型号、固件下载以及刷机教程，请访问[**Koolshare 论坛**](https://koolshare.cn/forum-96-1.html)****
+梅林固件支持的华硕路由器型号很多，查看支持型号、固件下载以及刷机教程，请访问**Koolshare 论坛**
 
 ## **梅林上网插件**
 
@@ -20,13 +20,13 @@
 
 路由器设置完成后进入路由器页面，左侧菜单找到**`系统管理`**，上方菜单进入**`系统设置`**
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin2.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin2.png)
 
 找到**`启用 SSH`**选项，设置为**`LAN only`**，应用本页面设置
 
 电脑运行**`CMD命令提示符`**，输入**`ssh <路由器登录名>@<路由器IP地址>`**回车，如出现密钥认证提示，输入**`yes`**并回车，然后输入你的**`路由器登录密码`**(输入不显示，输入正确回车即可)
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin3.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin3.png)
 
 当出现最后两行样式，说明你已经成功进入路由器SSH后台
 
@@ -38,7 +38,7 @@ sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_insta
 
 在左侧菜单最底部找到**`软件中心`**，如提示更新，就点击**`更新`**按钮
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin1.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin1.png)
 
 进入离线安装菜单，选择之前下载好的上网插件，上传并安装即可
 
@@ -56,10 +56,10 @@ sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_insta
 
 在**`更新管理`**页面的第一大项中找到**`规则更新`**，点击**`立即更新`**
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin\_ss.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin\_ss.png)
 
 回到账号设置，选择你需要使用的线路，将上方的**`上网开关`**打开，点击底部的**`保存&应用`**
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin\_ss\_on.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/merlin/merlin\_ss\_on.png)
 
 如插件运行状态显示正常，即可正常使用

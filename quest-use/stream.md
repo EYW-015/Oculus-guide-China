@@ -23,13 +23,13 @@ Quest端需要购买Virtual Desktop安装，19.9美金
 
 电脑端需要安装VD Streamer
 
-* [Virtual Desktop 官网](https://www.vrdesktop.net)
+* [Virtual Desktop 官网](https://www.vrdesktop.net/)
 
 启动电脑端，在**`Username`**栏中输入你的**`Oculus账号` > `Save`**
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/ochome/oc\_account.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/ochome/oc\_account.png)
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/ochome/vd\_username.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/ochome/vd\_username.png)
 
 头显启动VD，**`Computer`**菜单中连接你的电脑即可
 

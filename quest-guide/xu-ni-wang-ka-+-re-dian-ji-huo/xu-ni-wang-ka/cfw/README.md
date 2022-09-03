@@ -23,17 +23,17 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 * [最新版本发布页](https://github.com/Fndroid/clash\_for\_windows\_pkg/releases)
   * 下载**`Setup`**无后缀版本，如 <mark style="background-color:blue;">**xxx.Setup.0.19.8.exe**</mark>
 
-下载对应版本之后安装运行，托盘区会出现一个深蓝色的小猫咪图标![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash1.png)，这时Clash就启动成功了
+下载对应版本之后安装运行，托盘区会出现一个深蓝色的小猫咪图标![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash1.png)，这时Clash就启动成功了
 
 ## 界面介绍
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash2.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash2.png)
 
 ## 托管订阅
 
 在机场首页寻找Clash托管订阅地址，将其复制，选择左侧**`Profiles`**，在上部粘贴托管地址并点击**`Download`**，如果下部出现了新的配置选项，那么就订阅成功了
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash3.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash3.png)
 
 {% hint style="info" %}
 如果订阅失败，请尝试手动下载并导入配置
@@ -47,10 +47,10 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 进入左侧**`Proxies`**页面，根据配置自行选择需要的线路
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash4.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash4.png)
 
 {% hint style="info" %}
-由于各个机场使用的配置文件不一样，分流规则也不一样，详细的分流策略设置请咨询各家机场，阅读[**CFW说明文档**](https://docs.cfw.lbyczf.com)，或自行谷歌查询
+由于各个机场使用的配置文件不一样，分流规则也不一样，详细的分流策略设置请咨询各家机场，阅读[**CFW说明文档**](https://docs.cfw.lbyczf.com/)，或自行谷歌查询
 {% endhint %}
 
 ## TUN模式

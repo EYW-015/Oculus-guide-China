@@ -10,12 +10,6 @@
 
 路由器支持型号与固件下载请访问[**恩山论坛固件发布贴**](https://www.right.com.cn/forum/thread-3546372-1-1.html)****
 
-{% hint style="info" %}
-由于各型号设备刷机方法并不一样，请自行查找刷机方法，或直接TB购买成品
-
-老毛子成品购买：[红米AC2100](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-22046407217.21.4e2f58afva8E1z\&id=622746001985)(优惠价161元)，[小米路由器MINI](https://item.taobao.com/item.htm?spm=2013.1.20141001.3.3b1a109e0VI1h5\&id=631612340649\&scm=1007.12144.95220.42296\_0\_0\&pvid=1c403a9f-dbc0-48ff-a83e-1cce88fecdeb\&utparam=%7B%22x\_hestia\_source%22%3A%2242296%22%2C%22x\_object\_type%22%3A%22item%22%2C%22x\_hestia\_subsource%22%3A%22default%22%2C%22x\_mt%22%3A0%2C%22x\_src%22%3A%2242296%22%2C%22x\_pos%22%3A3%2C%22wh\_pid%22%3A-1%2C%22x\_pvid%22%3A%221c403a9f-dbc0-48ff-a83e-1cce88fecdeb%22%2C%22scm%22%3A%221007.12144.95220.42296\_0\_0%22%2C%22x\_object\_id%22%3A631612340649%7D)(优惠价54元，仅适合上网)，报暗号享5元优惠，顺丰包邮，暗号：**小E有VR-5**
-{% endhint %}
-
 ## 路由器设置
 
 去机场找到你的订阅地址
@@ -25,7 +19,7 @@
 
 返回客户端页面，在**`主服务器`**中选择需要使用的线路，将**`运行模式`**改为**`大陆白名单`**模式，打开SS开关，即可正常使用
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv1.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv1.png)
 
 {% hint style="warning" %}
 请注意将**`需要代理的端口`**设为**`仅常用端口`**，并将**`游戏UDP中继服务器`**设为**`停用`**，否则你的 **BT / 迅雷** 流量将可能走代理，这将会消耗大量流量，并可能会导致机场将你的账户封禁

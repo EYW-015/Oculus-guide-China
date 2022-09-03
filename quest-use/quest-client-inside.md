@@ -22,8 +22,8 @@ Clash for Android是安卓平台的Clash客户端\
 
 然后使用SideQuest安装刚才下载的APK即可
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/install.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/install.png)
 
 进入应用，右上角选择未知来源，并找到你安装的梯子客户端，打开并使用，即可无需WIFI代理和设置，随时随地联网使用
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/uks.webp)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/uks.webp)

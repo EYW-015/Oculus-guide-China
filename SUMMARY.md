@@ -12,26 +12,25 @@
 
 * [VR设备](vr-device.md)
 * [电脑相关](pc-ready.md)
+* [寻找梯子](proxy-server.md)
 * [Facebook账号](facebook-account.md)
-
-## 网络 <a href="#network" id="network"></a>
-
-* [寻找梯子](network/proxy-server.md)
-* [Clash](network/cfw/README.md)
-  * [CFW TUN 模式](network/cfw/clash-tun.md)
-  * [CFW TAP模式](network/cfw/cfw-tap-mo-shi.md)
-* [Netch](network/netch.md)
-* [SSTap](network/sstap.md)
-* [路由器](network/router/README.md)
-  * [老毛子路由器](network/router/padavan.md)
-  * [华硕路由器+梅林固件](network/router/asuswrt.md)
-  * [软路由](network/router/ruan-lu-you.md)
 
 ## Quest2激活 <a href="#quest-guide" id="quest-guide"></a>
 
 * [网络基础问题(必读)](quest-guide/basic-net.md)
-* [Quest2联网&激活](quest-guide/quest-net.md)
-* [路由器激活](quest-guide/quest-router.md)
+* [NTP解析激活(无需UDP](quest-guide/ntp-jie-xi-ji-huo-wu-xu-udp.md)
+* [虚拟网卡+热点激活](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/README.md)
+  * [虚拟网卡](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/xu-ni-wang-ka/README.md)
+    * [Clash](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/xu-ni-wang-ka/cfw/README.md)
+      * [CFW TUN 模式](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/xu-ni-wang-ka/cfw/clash-tun.md)
+      * [CFW TAP模式](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/xu-ni-wang-ka/cfw/cfw-tap-mo-shi.md)
+    * [Netch](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/xu-ni-wang-ka/netch.md)
+    * [SSTap](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/xu-ni-wang-ka/sstap.md)
+  * [热点设置](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/quest-net.md)
+* [路由器激活](quest-guide/quest-router/README.md)
+  * [老毛子路由器](quest-guide/quest-router/padavan.md)
+  * [华硕路由器+梅林固件](quest-guide/quest-router/asuswrt.md)
+  * [软路由](quest-guide/quest-router/ruan-lu-you.md)
 * [Oculus手机APP](quest-guide/oculus-phone.md)
 
 ## QUEST使用 <a href="#quest-use" id="quest-use"></a>

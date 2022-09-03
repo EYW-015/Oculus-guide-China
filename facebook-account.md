@@ -2,7 +2,7 @@
 
 ## Facebook注册
 
-* [Facebook 官方网站](https://www.facebook.com)
+* [Facebook 官方网站](https://www.facebook.com/)
 
 如被封号，<mark style="color:red;">**不要注册下一个账号**</mark>，联系[**Oculus客服**](https://tickets.oculusvr.com/hc/zh-cn/requests/new)提交申诉解封(中文回复)，解封需要提供你的**Oculus设备序列号(serial number)**，如果是**亚马逊购买的**且还未到货，可以提供**亚马逊订单号**进行申诉
 
@@ -13,7 +13,7 @@ Rift S: 将面罩拆下之后在右侧即可看见\
 Q1: 位于右侧头带内侧，直接可以看见\
 Q2: 位于头显左侧头带，拆下固定外壳即可看见
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/q2num.gif)
+{% embed url="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/q2code.mp4" %}
 
 ## 申诉流程
 

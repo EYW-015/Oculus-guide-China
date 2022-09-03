@@ -22,7 +22,7 @@ Download link - 下载链接 [https://dotnet.microsoft.com/download/dotnet/thank
 
 下载最新版本的压缩包之后，解压至**桌面以外的任意目录**，运行Netch客户端会看到如下界面
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch1.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch1.png)
 
 ## 配置导入
 
@@ -34,7 +34,7 @@ Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 
 在Netch主界面点击**`订阅` > `管理订阅链接`**，打开如下界面
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch2.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch2.png)
 
 **`备注`**栏填写任意名称，链接栏将你的订阅地址粘贴进去，点击**`添加`**\
 ****点击**`订阅` > `从订阅链接更新服务器`**，如Windows提示更新成功即可
@@ -43,11 +43,11 @@ Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 
 在模式中选择列表中的**`[3] Bypass Lan and China`**模式即可启用TUN模式
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch\_mode2.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch\_mode2.png)
 
 打开**`控制面板` > `网络和 Internet` > `网络和共享中心` > 左侧`更改适配器设置`**，找到名称为**`aioCloud(WireGuard Tunnel)`**的适配器，如果已启用，说明TUN模式成功开启
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch\_adp.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch\_adp.png)
 
 {% hint style="info" %}
 如果TUN设备无法正常使用，先停用加速，在**`选项`**中**`卸载 NF 服务`**，再重新启用

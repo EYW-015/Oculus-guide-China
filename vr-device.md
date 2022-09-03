@@ -9,9 +9,4 @@
 
 **Quest**系列设备作为一体机，无需电脑即可运行使用，也可以使用**Link**线缆连接电脑运行**Rift**应用程序
 
-**Quest**设备首次开机需要进行设备激活，WIFI需要可以访问外网环境，详情参阅以下页面
-
-{% content-ref url="quest-guide/quest-net.md" %}
-[quest-net.md](quest-guide/quest-net.md)
-{% endcontent-ref %}
-
+**Quest**设备首次开机需要进行设备激活，WIFI需要可以访问外网环境

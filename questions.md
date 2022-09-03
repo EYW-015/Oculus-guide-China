@@ -52,7 +52,7 @@
 
 ### 梯子去哪里找，有没有推荐
 
-查看[本页面](network/proxy-server.md)寻找梯子
+查看[本页面](proxy-server.md)寻找梯子
 
 PS：作者只用过两三家梯子，没用过的也不好推荐，当前使用的虽然<mark style="color:green;">非常稳定</mark>且<mark style="color:green;">全线支持UDP</mark>，但<mark style="color:red;">价格较高</mark>，且<mark style="color:red;">无月付套餐</mark>，仅推荐有长期需求的用户购买
 
@@ -90,7 +90,7 @@ Facebook一注册就封号怎么办
 
 明明能连Facebook登录，但还是显示请在浏览器中完成操作
 
-Oculus Home无法使用系统代理，需要打开[Clash TUN模式](network/cfw/clash-tun.md)联网
+Oculus Home无法使用系统代理，需要打开[Clash TUN模式](quest-guide/xu-ni-wang-ka-+-re-dian-ji-huo/xu-ni-wang-ka/cfw/clash-tun.md)联网
 
 ### 怎么改安装路径
 

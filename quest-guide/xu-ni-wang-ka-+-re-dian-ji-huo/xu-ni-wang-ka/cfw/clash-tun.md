@@ -10,15 +10,15 @@
 
 在**`General`**菜单中找到**`Service Mode`**选项，点击**`Manage` > `Install`**
 
-安装成功后右侧**小地球应变为绿色**
+安装成功后右侧**小地球应变为**<mark style="color:green;">**绿色**</mark>
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash\_tun\_install.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash\_tun\_install.png)
 
 ### 设置并开启CFW TUN
 
 点击**`TUN Mode` 旁边的齿轮 > `Reset` > `Save`**
 
-![](../../.gitbook/assets/image.png)![](../../.gitbook/assets/21956.png)
+![](../../../../.gitbook/assets/image.png)![](../../../../.gitbook/assets/21956.png)
 
 {% hint style="info" %}
 图中的<mark style="color:purple;">**DNS设置**</mark>是作者改过的，要不要照着改随你
@@ -43,10 +43,12 @@ https://1.1.1.1/dns-query
 
 打开**`控制面板` > `网络和 Internet` > `网络和共享中心` > 左侧`更改适配器设置`**，找到名称为**`Clash`**且描述为**`Clash Tunnel`**的适配器，如果显示已启用，说明TUN模式成功开启
 
-![](https://cdn.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash\_tun\_adp.png)
+![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash\_tun\_adp.png)
 
-## 热点共享网络
+{% hint style="info" %}
+如果clash设置完后没有出现TUN适配器、或开启网络共享之后、适配器消失、左下角显示Disconnected等情况
 
-{% content-ref url="../../quest-guide/quest-net.md" %}
-[quest-net.md](../../quest-guide/quest-net.md)
-{% endcontent-ref %}
+尝试重启电脑
+
+如果你的TUN模式无法正常开启，可尝试使用下一页的TAP模式
+{% endhint %}

@@ -37,10 +37,6 @@ ARM型号推荐
 
 * [恩山论坛X64 / 树莓派固件](https://www.right.com.cn/forum/thread-3777668-1-1.html)
 * [各类开发板固件](https://github.com/ruoyizhou/OpenWRT-For-Pi)
-* 作者编译的 X64 & R2S 固件下载
-  * [openwrt-x64实体机](https://github.com/EYW-015/Oculus-guide-China/releases/download/openwrt-x64/openwrt-x86-64-generic-squashfs-combined-efi.img.gz)&#x20;
-    * [openwrt-x64虚拟机](https://github.com/EYW-015/Oculus-guide-China/releases/download/openwrt-x64/openwrt-x86-64-generic-squashfs-combined-efi.vmdk)
-  * [openwrt-r2s](https://github.com/EYW-015/Oculus-guide-China/releases/download/openwrt-r2s/openwrt-rockchip-armv8-friendlyarm\_nanopi-r2s-squashfs-sysupgrade.img.gz)
 
 ### 自行编译
 
@@ -50,7 +46,7 @@ ARM型号推荐
 
 找一个空U盘，有1G容量就可以
 
-下载 **x64实体机固件**，解压(打不开去安装 [**Bandizip**](https://cn.bandisoft.com/bandizip/) **** )\
+下载 **x64固件**，解压(打不开去安装 [**Bandizip**](https://cn.bandisoft.com/bandizip/) **** )\
 下载刷机工具 [**Win32diskimager**](https://sourceforge.net/projects/win32diskimager/)，打开刷机工具，把解压好的固件拖进去，右边选择你的U盘，点击**`Write`**
 
 刷写完成之后重启电脑，进入bios选择U盘启动\

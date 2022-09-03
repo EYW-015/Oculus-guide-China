@@ -2,7 +2,7 @@
 
 ## UDP数据包
 
-头显与Oculus服务器联网需要<mark style="color:red;">传输UDP数据包</mark>，所以需要额外操作才可以进行UDP转发，只开启梯子的代理是不能进行UDP转发的
+头显与Oculus服务器联网需要与**Facebook的时间服务器**<mark style="color:red;">传输UDP数据包</mark>，所以需要额外操作才可以进行连接，只开启梯子的代理是不能进行正常联网的
 
 ### UDP不可用的常见问题
 
@@ -18,8 +18,9 @@
 
 ### 如何知道线路是否支持UDP
 
-打开clash代理页面，查看服务器是否有**`UDP`**标签\
-![](../.gitbook/assets/3011804.png)
+打开clash代理页面，查看服务器是否有**`UDP`**标签
+
+<figure><img src="../.gitbook/assets/clash_udp.png" alt=""><figcaption></figcaption></figure>
 
 ### 现有UDP支持方案
 
