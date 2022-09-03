@@ -1,4 +1,4 @@
-# 路由器激活
+# 📶 路由器激活
 
 {% hint style="danger" %}
 激活头显需要你的**梯子线路**<mark style="color:red;">**支持UDP转发**</mark>，否则头显无法更新固件
@@ -52,8 +52,8 @@
 既然你已经会折腾软路由了，那这点设置难不倒你
 {% endhint %}
 
-{% content-ref url="ruan-lu-you.md" %}
-[ruan-lu-you.md](ruan-lu-you.md)
+{% content-ref url="openwrt.md" %}
+[openwrt.md](openwrt.md)
 {% endcontent-ref %}
 
 注意激活时将**`运行模式`**设为**`全局模式`**\

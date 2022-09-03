@@ -1,4 +1,4 @@
-# NTP解析激活(无需UDP
+# ⏰ NTP解析激活(无需UDP)
 
 ## B站视频版
 
@@ -11,7 +11,7 @@
 将Facebook时间服务器地址<mark style="color:blue;">**`time.facebook.com`**</mark>解析至国内时间服务器，以获取正确的时间回应，从而解决网络受限的问题
 
 {% hint style="danger" %}
-**注意**：此方法不可用于游戏联网(如VRChat)，如需游戏联网，请参照[虚拟网卡+热点篇](xu-ni-wang-ka-+-re-dian-ji-huo/)
+**注意**：此方法不可用于游戏联网(如VRChat)，如需游戏联网，请参照[虚拟网卡+热点篇](udp-hotspot/)
 {% endhint %}
 
 #### 阿里云时间服务器地址
@@ -103,4 +103,4 @@ cat /etc/hosts
 
 <mark style="color:red;">此方案不可用，windows网络逻辑不允许设备通过热点使用本机代理连网，目前没有解决办法</mark>
 
-如果需要使用电脑热点连网，请参照[虚拟网卡+热点篇](xu-ni-wang-ka-+-re-dian-ji-huo/)
+如果需要使用电脑热点连网，请参照[虚拟网卡+热点篇](udp-hotspot/)
