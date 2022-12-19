@@ -1,12 +1,6 @@
 # ⏰ NTP解析激活(无需UDP)
 
-## B站视频版
-
-{% embed url="https://www.bilibili.com/video/BV1de411g7zK?share_source=copy_web&vd_source=4cda60c6af76eb8bb8216adb4ee4c65f" %}
-
-## 文字版
-
-### 原理
+## 原理
 
 将Facebook时间服务器地址<mark style="color:blue;">**`time.facebook.com`**</mark>解析至国内时间服务器，以获取正确的时间回应，从而解决网络受限的问题
 
@@ -35,15 +29,15 @@ graph.facebook-hardware.com
 graph.facebook.com
 ```
 
-### 修改路由器hosts
+## 修改路由器hosts
 
-#### 一般市售路由器
+### 一般市售路由器
 
 {% hint style="info" %}
 各品牌路由器设置不一样，需要自行查找修改方法
 {% endhint %}
 
-首先打开路由器的ssh功能
+<mark style="color:red;">首先打开路由器的ssh功能</mark>
 
 然后按下电脑上的**`Win+R`**键，输入**`cmd`**打开命令提示符
 
@@ -65,7 +59,7 @@ sed -i '$a 120.25.115.20 time.facebook.com' /etc/hosts
 cat /etc/hosts
 ```
 
-#### 软路由
+### 软路由
 
 网络设置>DHCP/DNS设置底部>自定义劫持域名>填写<mark style="color:blue;">Facebook NTP域名</mark>与<mark style="color:blue;">阿里云NTP的IP</mark>
 
@@ -103,4 +97,4 @@ cat /etc/hosts
 
 <mark style="color:red;">此方案不可用，windows网络逻辑不允许设备通过热点使用本机代理连网，目前没有解决办法</mark>
 
-如果需要使用电脑热点连网，请参照[虚拟网卡+热点篇](udp-hotspot/)
+如果需要使用电脑热点连网，请参照[虚拟网卡+热点篇](udp-hotspot/)，或使用<mark style="background-color:blue;">电脑热点+手机代理</mark>
