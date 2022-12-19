@@ -29,6 +29,14 @@ graph.facebook-hardware.com
 graph.facebook.com
 ```
 
+## 视频教程
+
+**视频需要使用梯子(发布在Facebook)**
+
+{% embed url="https://www.facebook.com/100011292048189/videos/836328587449957" %}
+
+[视频原文件下载(20MB)地址为github](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/Q2\_setup\_ntp.mp4)
+
 ## 修改路由器hosts
 
 ### 一般市售路由器
