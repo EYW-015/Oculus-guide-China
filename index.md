@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/eyw015/Oculus-guide-China/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<video width="1280" height="720" controls>
+  <source src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/Q2_setup_ntp.mp4" type="video/mp4">
+</video>
+
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
