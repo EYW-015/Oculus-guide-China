@@ -1,8 +1,18 @@
 # ❗ 网络基础问题(必读)
 
+{% hint style="info" %}
+## Q：为什么<mark style="color:red;">能上谷歌油管</mark>却不能连Oculus？
+
+A：因为平时上网使用的是TCP协议
+
+普通上网是使用的 http/https 等，是基于TCP协议进行网络数据传输
+
+如系统代理，浏览器代理，WiFi代理等
+{% endhint %}
+
 ## UDP数据包
 
-头显与Oculus服务器联网需要与**Facebook的时间服务器**<mark style="color:red;">传输UDP数据包</mark>，所以需要额外操作才可以进行连接，只开启梯子的代理是不能进行正常联网的
+而电子设备（如手机电脑）连接WiFi时需要对设备进行时间校准，这个校准就同时验证这个WiFi是否可以连网，但这个校准是基于UDP协议的，你只开启梯子的系统代理只能走TCP又不支持UDP，当然只能上网不能校准时间咯
 
 ### UDP不可用的常见问题
 
@@ -20,7 +30,11 @@
 
 打开clash代理页面，查看服务器是否有**`UDP`**标签
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/clash_udp.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 现有UDP支持方案
 
