@@ -73,11 +73,19 @@ cat /etc/hosts
 
 将Facebook的NTP服务器地址修改解析完成后，把梯子软件的允许局域网连接打开，然后在Quest2连接WiFi输入密码的界面，打开高级选项
 
-![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/wifi1.jpg)
+<div align="left">
+
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/wifi1.jpg" alt="">
+
+</div>
 
 将**代理**改为**手动**，把电脑代理软件的IP和端口输入进去，再进行连接即可
 
+<div align="left">
+
 <figure><img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/wifi_proxy.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 各个方案
 

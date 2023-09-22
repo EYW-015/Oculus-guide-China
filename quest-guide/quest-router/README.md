@@ -14,7 +14,11 @@
 
 进入科学上网插件
 
-![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv1.png)
+<div align="left">
+
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv1.png" alt="">
+
+</div>
 
 将**`运行模式`**设置为**`全局模式`**\
 **`游戏UDP中继服务器`**设置为**`与主服务相同`**\
@@ -24,15 +28,23 @@
 请注意停止你的BT下载，否则可能会触发机场的封禁规则
 {% endhint %}
 
-![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv3.png)
+<div align="left">
+
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv3.png" alt="">
+
+</div>
 
 将Quest链接至WIFI，正常激活并更新
 
 激活完成后将**`运行模式`**设置为**`绕过大陆IP模式`**\
 将**`需要代理的端口`**设置为**`仅常用端口`**\
-****将**`游戏UDP中继服务器`**设置为**`停用`**
+将**`游戏UDP中继服务器`**设置为**`停用`**
 
-![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv4.png)
+<div align="left">
+
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/pdv/pdv4.png" alt="">
+
+</div>
 
 ## 梅林
 
@@ -62,6 +74,10 @@
 
 激活完成后将**`运行模式`**设置为**`绕过大陆IP模式`**\
 将**`代理端口`**设为**`常用端口`**\
-****将**`游戏模式UDP中继服务器`**设置为**`停用`**
+将**`游戏模式UDP中继服务器`**设置为**`停用`**
 
-![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/openwrt/op1.png)
+<div align="left">
+
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/openwrt/op1.png" alt="">
+
+</div>

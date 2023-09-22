@@ -43,7 +43,11 @@ https://1.1.1.1/dns-query
 
 打开**`控制面板` > `网络和 Internet` > `网络和共享中心` > 左侧`更改适配器设置`**，找到名称为**`Clash`**且描述为**`Clash Tunnel`**的适配器，如果显示已启用，说明TUN模式成功开启
 
-![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash\_tun\_adp.png)
+<div align="left">
+
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash_tun_adp.png" alt="">
+
+</div>
 
 {% hint style="info" %}
 如果clash设置完后没有出现TUN适配器、或开启网络共享之后、适配器消失、左下角显示Disconnected等情况
