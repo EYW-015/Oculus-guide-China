@@ -8,7 +8,7 @@ Oculus平台消费只支持**VISA卡**或**PayPal**，<mark style="color:red;">�
 
 ### 平台区别
 
-Oculus 软件是分平台的，<mark style="background-color:orange;">**Rift版本和Quest版本不共通，看清楚你买的是什么平台再付款**</mark>
+Oculus 软件是分平台的，<mark style="background-color:orange;">**Rift(PC) 版本和 Quest(一体机) 版本不共通，看清楚你买的是什么平台再付款**</mark>
 
 PC端购买的软件多数无法在Quest平台使用，仅部分软件支持交叉购买(如[Skybox](https://www.oculus.com/experiences/quest/2063931653705427/)，在一个平台购买，另一个平台可以免费领取)
 
@@ -19,7 +19,7 @@ PC端购买的软件多数无法在Quest平台使用，仅部分软件支持交�
 ## 国际银行卡
 
 {% hint style="success" %}
-强烈推荐办理VISA国际卡，汇率甚至比银联更低，不论是绑定PayPal，或是直接使用，都非常方便
+强烈推荐办理VISA国际卡，不论是绑定PayPal，或是直接使用，都非常方便
 {% endhint %}
 
 ### 借记卡
@@ -48,11 +48,9 @@ PC端购买的软件多数无法在Quest平台使用，仅部分软件支持交�
 
 ### PayPal+VISA
 
-极佳选择，VISA美元汇率与银联基本无差，甚至更低，且VISA结算不受PayPal汇率影响，完美避开汇率陷阱
+VISA结算不受PayPal汇率影响，可避开汇率陷阱
 
-## **代购**
 
-作者提供软件代购，汇率按[**中国银行外汇牌价**](https://www.boc.cn/sourcedb/whpj/) **现汇卖出价**计算，代购费5元，加群咨询
 
 {% content-ref url="../other/links.md" %}
 [links.md](../other/links.md)

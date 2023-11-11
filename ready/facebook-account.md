@@ -1,10 +1,10 @@
-# 🗣 Facebook账号
+# 🗣 Meta账号
 
-## Facebook注册
+## Meta注册
 
-* [Facebook 官方网站](https://www.facebook.com/)
+* [Meta 官方网站](https://auth.meta.com/settings/)
 
-如被封号，<mark style="color:red;">**不要注册下一个账号**</mark>，联系[**Oculus客服**](https://tickets.oculusvr.com/hc/zh-cn/requests/new)提交申诉解封(中文回复)，解封需要提供你的**Oculus设备序列号(serial number)**，如果是**亚马逊购买的**且还未到货，可以提供**亚马逊订单号**进行申诉
+如被封号，<mark style="color:red;">**不要注册下一个账号**</mark>，联系[**Meta支持中心**](https://www.meta.com/zh-cn/help/support/)提交申诉解封(中文回复)，解封需要提供你的**Oculus设备序列号(serial number)**，如果是**亚马逊购买的**且还未到货，可以提供**亚马逊订单号**进行申诉
 
 ### 序列号位置
 
@@ -17,7 +17,10 @@ Q2: 位于头显左侧头带，拆下固定外壳即可看见
 
 ## 申诉流程
 
-选择**`我需要Oculus账户的帮助`**\
+选择：\
+账户>使用Quest设备>Meta账户帮助>\
+我需要帮助来设置我的 Meta 帐户>\
+拉到下面>这并未能解决我的问题>\
 填写你**可以使用的邮箱 & 姓名**\
 标题任意，然后填写详细信息
 

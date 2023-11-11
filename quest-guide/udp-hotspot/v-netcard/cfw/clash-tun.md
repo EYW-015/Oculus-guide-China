@@ -18,7 +18,7 @@
 
 点击**`TUN Mode` 旁边的齿轮 > `Reset` > `Save`**
 
-![](../../../../.gitbook/assets/image.png)![](../../../../.gitbook/assets/21956.png)
+![](<../../../../.gitbook/assets/image (1).png>)![](../../../../.gitbook/assets/21956.png)
 
 {% hint style="info" %}
 图中的<mark style="color:purple;">**DNS设置**</mark>是作者改过的，要不要照着改随你

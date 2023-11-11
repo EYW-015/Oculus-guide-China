@@ -11,11 +11,10 @@ Quest2可通过**SideQuest**安装<mark style="background-color:green;">**标准
 Clash for Android是安卓平台的Clash客户端\
 &#x20;   ※Clash不与ss配置文件兼容，需要使用clash专用的配置文件
 
-* [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
-  * 下载安装**`arm64-v8a`**版本
+* [~~Clash for Android~~](https://github.com/Kr328/ClashForAndroid/releases)
+  * ~~下载安装**`arm64-v8a`**版本~~
 
 {% hint style="info" %}
-<mark style="color:red;">**只推荐Clash**</mark>\
 不会用的话先在手机里安装好，自己琢磨一下\
 订阅太长了就在**头显浏览器**登录你的机场去后台复制
 {% endhint %}
@@ -24,6 +23,6 @@ Clash for Android是安卓平台的Clash客户端\
 
 ![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/install.png)
 
-进入应用，右上角选择未知来源，并找到你安装的梯子客户端，打开并使用，即可无需WIFI代理和设置，随时随地联网使用
+进入应用，右上角选择未知来源_（新版UI改到了应用界面搜索框内）_，并找到你安装的梯子客户端，打开并使用，即可无需WIFI代理和设置，随时随地联网使用
 
 ![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/uks.webp)

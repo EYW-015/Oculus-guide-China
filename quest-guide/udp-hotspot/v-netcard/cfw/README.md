@@ -2,8 +2,9 @@
 
 ## 简介
 
-{% hint style="info" %}
-请**至GitHub**下载原作者发布的最新版本
+{% hint style="danger" %}
+~~请**至GitHub**下载原作者发布的最新版本~~\
+因为全系列跑路，请自行寻找安装包
 {% endhint %}
 
 * [项目主页](https://github.com/Fndroid/clash\_for\_windows\_pkg)
@@ -20,8 +21,7 @@ Clash是最好的跨平台代理客户端之一，支持多种协议 / UDP转发
 
 ## 下载使用
 
-* [最新版本发布页](https://github.com/Fndroid/clash\_for\_windows\_pkg/releases)
-  * 下载**`Setup`**无后缀版本，如 <mark style="background-color:blue;">**xxx.Setup.0.19.8.exe**</mark>
+* ~~全跑了我也没辙，实在不行换 Clash Verge~~
 
 下载对应版本之后安装运行，托盘区会出现一个深蓝色的小猫咪图标![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/clash/clash1.png)，这时Clash就启动成功了
 

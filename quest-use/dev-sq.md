@@ -14,11 +14,11 @@ Oculus Quest平台的实用工具，提供了例如APK安装、数据备份，�
 
 ![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/sidequest.png)
 
-* ****[**SideQuest官网下载**](https://sidequestvr.com/setup-howto)****
+* [**SideQuest官网下载**](https://sidequestvr.com/setup-howto)
 
 由于官网的安装步骤以及截图已经很完善，此处不再赘述，只针对每步做个简单翻译。
 
-1\. 下载或更新SideQuest。如果你是Windows，点击Windows右边的下载按钮，然后打开安装；\
+1\. 下载或更新SideQuest<mark style="color:red;">**（版本选择Advanced Installer）**</mark>。如果你是Windows，点击Windows右边的下载按钮，然后打开安装；\
 2\. [**进入页面**](https://developer.oculus.com/manage/)，注册为开发者，组织名称自己看着设就行\
 3\. [**进入页面**](https://developer.oculus.com/downloads/package/oculus-adb-drivers/)，同意协议后下载并解压驱动包，右键`android_winusb.inf`选择安装\
 4\. 在手机上打开Oculus应用：**`设置` > `Oculus Quest xxx ▽` > `┅ 更多设置` > `开发者模式` > `打开开关`**\

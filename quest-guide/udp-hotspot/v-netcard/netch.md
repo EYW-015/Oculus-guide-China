@@ -37,7 +37,7 @@ Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 ![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch2.png)
 
 **`备注`**栏填写任意名称，链接栏将你的订阅地址粘贴进去，点击**`添加`**\
-****点击**`订阅` > `从订阅链接更新服务器`**，如Windows提示更新成功即可
+点击**`订阅` > `从订阅链接更新服务器`**，如Windows提示更新成功即可
 
 ## 启动加速
 
@@ -47,7 +47,11 @@ Netch支持以下协议：SS / VMess / Socks5 / SSR / Trojan
 
 打开**`控制面板` > `网络和 Internet` > `网络和共享中心` > 左侧`更改适配器设置`**，找到名称为**`aioCloud(WireGuard Tunnel)`**的适配器，如果已启用，说明TUN模式成功开启
 
-![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch\_adp.png)
+<div align="left">
+
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/netch/netch_adp.png" alt="">
+
+</div>
 
 {% hint style="info" %}
 如果TUN设备无法正常使用，先停用加速，在**`选项`**中**`卸载 NF 服务`**，再重新启用

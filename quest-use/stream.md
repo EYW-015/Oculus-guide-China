@@ -1,10 +1,8 @@
 # 串流 / 投屏
 
-## 串流
+## 无线串流
 
-### 无线串流
-
-#### Oculus 官方串流 Air Link
+### Oculus 官方串流 Air Link
 
 PC端Air Link已原生支持，无需设置\
 在头显的 **`设置` > `实验性功能`** 中打开 **`Air Link`**即可搜索电脑并连接
@@ -15,7 +13,11 @@ PC端Air Link已原生支持，无需设置\
 若Air Link无法连接电脑，请更新<mark style="color:red;">PC客户端</mark>以及<mark style="color:red;">头显系统</mark>至最新版
 {% endhint %}
 
-#### VD串流
+### VD串流
+
+{% hint style="info" %}
+**`1.24.6`**版本之后加入了正版验证，需要头显端能访问外网环境进行验证
+{% endhint %}
 
 Quest端需要购买Virtual Desktop安装，19.9美金
 
@@ -35,7 +37,7 @@ Quest端需要购买Virtual Desktop安装，19.9美金
 
 无线串流需要在头显内启动游戏，左手菜单键打开VD菜单，左下角开启**`SteamVR`**或在**`Games`**里开启Oculus资源库里的游戏，不可在电脑界面中开启游戏
 
-### 有线Link
+## 有线Link
 
 安装好OC PC客户端，用USB线缆连接头显到电脑，头显内启动Link功能即可
 

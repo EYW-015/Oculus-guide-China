@@ -16,7 +16,8 @@
 * [#quest-an-zhuang-ruan-jian](questions.md#quest-an-zhuang-ruan-jian "mention")
   * [#kai-fa-zhe-mo-shi](questions.md#kai-fa-zhe-mo-shi "mention")
   * [#tou-xian-an-zhuang-ruan-jian](questions.md#tou-xian-an-zhuang-ruan-jian "mention")（安装梯子
-* [#facebook-feng-hao](questions.md#facebook-feng-hao "mention")
+* [#meta-feng-hao](questions.md#meta-feng-hao "mention")
+  *
 * [#oculus-pc-duan-wen-ti](questions.md#oculus-pc-duan-wen-ti "mention")
   * [#ke-hu-duan-wu-fa-deng-lu](questions.md#ke-hu-duan-wu-fa-deng-lu "mention")
   * [#zen-me-gai-an-zhuang-lu-jing](questions.md#zen-me-gai-an-zhuang-lu-jing "mention")
@@ -38,7 +39,7 @@
 * 头显无法下载游戏
 * 在线游戏无法联网
 
-由于链接至Oculus设备服务需要**UDP数据传输**，请查询<mark style="color:red;">**线路**</mark>**以及**<mark style="color:red;">**联网方式**</mark>是否支持[**UDP转发**](quest-guide/basic-net.md)****
+由于链接至Oculus设备服务需要**UDP数据传输**，请查询<mark style="color:red;">**线路**</mark>**以及**<mark style="color:red;">**联网方式**</mark>是否支持[**UDP转发**](quest-guide/basic-net.md)
 
 ### 可以用手机热点激活吗
 
@@ -78,11 +79,19 @@ PS：作者只用过两三家梯子，没用过的也不好推荐，当前使用
 [quest-client-inside.md](quest-use/quest-client-inside.md)
 {% endcontent-ref %}
 
-## **Facebook封号**
+## **Meta封号**
 
-Facebook一注册就封号怎么办
+Meta一注册就封号怎么办
 
 查看[以下页面](ready/facebook-account.md#shen-su-liu-cheng)，根据说明进行申述解封，平均1-2天
+
+### 登录收不到手机验证码
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## Oculus PC端问题
 

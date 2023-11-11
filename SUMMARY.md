@@ -11,12 +11,12 @@
 * [🕶 VR设备](ready/vr-device.md)
 * [🖥 电脑相关](ready/pc-ready.md)
 * [✈ 寻找梯子](ready/proxy-server.md)
-* [🗣 Facebook账号](ready/facebook-account.md)
+* [🗣 Meta账号](ready/facebook-account.md)
+* [📩 收不到手机验证码](ready/verify-msg.md)
 
-## ☑ Quest2激活 <a href="#quest-guide" id="quest-guide"></a>
+## ☑ Quest 网络设置 <a href="#quest-guide" id="quest-guide"></a>
 
-* [❗ 网络基础问题(必读)](quest-guide/basic-net.md)
-* [⏰ NTP解析激活(无需UDP)](quest-guide/ntp-server.md)
+* [❗ 网络受限原因(必读)](quest-guide/basic-net.md)
 * [🖥 虚拟网卡+热点激活](quest-guide/udp-hotspot/README.md)
   * [虚拟网卡](quest-guide/udp-hotspot/v-netcard/README.md)
     * [Clash](quest-guide/udp-hotspot/v-netcard/cfw/README.md)
@@ -25,13 +25,15 @@
     * [Netch](quest-guide/udp-hotspot/v-netcard/netch.md)
     * [SSTap](quest-guide/udp-hotspot/v-netcard/sstap.md)
   * [热点设置](quest-guide/udp-hotspot/hotspot.md)
+* [🕰 NTP解析激活(无需UDP)](quest-guide/ntp-server.md)
+* [🛠 告别UDP网络受限(激活后)](quest-guide/ntp-adb.md)
 * [📶 路由器激活](quest-guide/quest-router/README.md)
   * [老毛子路由器](quest-guide/quest-router/padavan.md)
   * [华硕路由器+梅林固件](quest-guide/quest-router/asuswrt.md)
   * [软路由](quest-guide/quest-router/openwrt.md)
 * [📱 Oculus手机APP](quest-guide/oculus-phone.md)
 
-## QUEST使用 <a href="#quest-use" id="quest-use"></a>
+## 激活之后的使用 <a href="#quest-use" id="quest-use"></a>
 
 * [开发者权限 / Sidequest](quest-use/dev-sq.md)
 * [头显安装软件/梯子](quest-use/quest-client-inside.md)
