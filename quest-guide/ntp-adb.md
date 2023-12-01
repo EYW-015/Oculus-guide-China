@@ -31,7 +31,7 @@ adb shell settings put global ntp_server ntp3.aliyun.com
 //打开WiFi可用性验证
 adb shell settings put global captive_portal_mode 1
 //关闭https模式
-adb shell settings put global captive_portal_ues_https 0
+adb shell settings put global captive_portal_use_https 0
 //设置WiFi验证地址
 adb shell settings put global captive_portal_http_url http://connect.rom.miui.com/generate_204
 ```
@@ -42,7 +42,7 @@ adb shell settings put global captive_portal_http_url http://connect.rom.miui.co
 //ntp3.aliyun.com
 adb shell settings get global captive_portal_mode
 //1
-adb shell settings get global captive_portal_ues_https
+adb shell settings get global captive_portal_use_https
 //0
 adb shell settings get global captive_portal_http_url
 <strong>//http://connect.rom.miui.com/generate_204
@@ -53,7 +53,7 @@ adb shell settings get global captive_portal_http_url
 ```sh
 adb shell settings delete global ntp_server
 adb shell settings delete global captive_portal_mode
-adb shell settings delete global captive_portal_ues_https
+adb shell settings delete global captive_portal_use_https
 adb shell settings delete global captive_portal_http_url
 ```
 
