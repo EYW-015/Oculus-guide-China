@@ -39,21 +39,21 @@
 * 头显无法下载游戏
 * 在线游戏无法联网
 
-由于链接至Oculus设备服务需要**UDP数据传输**，请查询<mark style="color:red;">**线路**</mark>**以及**<mark style="color:red;">**联网方式**</mark>是否支持[**UDP转发**](quest-guide/basic-net.md)
+由于链接至Oculus设备服务需要**UDP数据传输**，请查询<mark style="color:red;">**线路**</mark>**以及**<mark style="color:red;">**联网方式**</mark>是否支持[**UDP转发**](quest-wang-luo-she-zhi/basic-net.md)
 
 ### 可以用手机热点激活吗
 
-不可以，未root的手机热点代理无法转发[**UDP数据包**](quest-guide/basic-net.md)，需要**电脑WIFI网卡**或购买**梯子路由器**
+不可以，未root的手机热点代理无法转发[**UDP数据包**](quest-wang-luo-she-zhi/basic-net.md)，需要**电脑WIFI网卡**或购买**梯子路由器**
 
 现在手机root困难，解锁都要申请，且root之后容易出问题，最直接的就是手机银行APP无法在root过的手机上使用
 
 ### 改hosts也能联网，为什么还搞那么麻烦
 
-不推荐改hosts，原因查看[本页面](quest-use/oc-client/#yuan-li-jiang-jie)了解原理
+不推荐改hosts，原因查看[本页面](ji-huo-zhi-hou-de-shi-yong/oc-client/#yuan-li-jiang-jie)了解原理
 
 ### 梯子去哪里找，有没有推荐
 
-查看[本页面](ready/proxy-server.md)寻找梯子
+查看[本页面](zhun-bei/proxy-server.md)寻找梯子
 
 PS：作者只用过两三家梯子，没用过的也不好推荐，当前使用的虽然<mark style="color:green;">非常稳定</mark>且<mark style="color:green;">全线支持UDP</mark>，但<mark style="color:red;">价格较高</mark>，且<mark style="color:red;">无月付套餐</mark>，仅推荐有长期需求的用户购买
 
@@ -67,7 +67,7 @@ PS：作者只用过两三家梯子，没用过的也不好推荐，当前使用
 
 开发者模式怎么打开
 
-先去申请VISA银行卡，根据[以下页面](quest-use/dev-sq.md)步骤绑定银行卡，并创建开发者组织
+先去申请VISA银行卡，根据[以下页面](ji-huo-zhi-hou-de-shi-yong/dev-sq.md)步骤绑定银行卡，并创建开发者组织
 
 ### 头显安装软件
 
@@ -75,15 +75,15 @@ PS：作者只用过两三家梯子，没用过的也不好推荐，当前使用
 
 开启开发者模式之后，可以在头显中安装标准安卓APK，在头显中安装梯子并进行联网，便无需使用梯子路由器/热点
 
-{% content-ref url="quest-use/quest-client-inside.md" %}
-[quest-client-inside.md](quest-use/quest-client-inside.md)
+{% content-ref url="ji-huo-zhi-hou-de-shi-yong/quest-client-inside.md" %}
+[quest-client-inside.md](ji-huo-zhi-hou-de-shi-yong/quest-client-inside.md)
 {% endcontent-ref %}
 
 ## **Meta封号**
 
 Meta一注册就封号怎么办
 
-查看[以下页面](ready/facebook-account.md#shen-su-liu-cheng)，根据说明进行申述解封，平均1-2天
+查看[以下页面](zhun-bei/facebook-account.md#shen-su-liu-cheng)，根据说明进行申述解封，平均1-2天
 
 ### 登录收不到手机验证码
 
@@ -99,17 +99,17 @@ Meta一注册就封号怎么办
 
 明明能连Facebook登录，但还是显示请在浏览器中完成操作
 
-Oculus Home无法使用系统代理，需要打开[Clash TUN模式](quest-guide/udp-hotspot/v-netcard/cfw/clash-tun.md)联网
+Oculus Home无法使用系统代理，需要打开[Clash TUN模式](quest-wang-luo-she-zhi/udp-hotspot/v-netcard/cfw/clash-tun.md)联网
 
 ### 怎么改安装路径
 
-查看[下方页面](quest-use/oc-client/#geng-gai-an-zhuang-lu-jing)，输入命令行修改安装目录
+查看[下方页面](ji-huo-zhi-hou-de-shi-yong/oc-client/#geng-gai-an-zhuang-lu-jing)，输入命令行修改安装目录
 
 ## 串流&投屏
 
 ### 怎么与电脑串流
 
-* [查看本页面](quest-use/stream.md#chuan-liu)
+* [查看本页面](ji-huo-zhi-hou-de-shi-yong/stream.md#chuan-liu)
 
 ### Air Link无法连接
 
@@ -117,14 +117,14 @@ Oculus Home无法使用系统代理，需要打开[Clash TUN模式](quest-guide/
 
 ### 怎么投屏至其他设备
 
-* [查看本页面](quest-use/stream.md#tou-ping)
+* [查看本页面](ji-huo-zhi-hou-de-shi-yong/stream.md#tou-ping)
 
 ## 购买软件
 
 ### 如何购买Oculus正版游戏
 
-绑定VISA银行卡，或使用PayPal进行购买，详情查看[本页面](quest-use/pay.md)
+绑定VISA银行卡，或使用PayPal进行购买，详情查看[本页面](ji-huo-zhi-hou-de-shi-yong/pay.md)
 
 ### 可以用银联卡吗
 
-不可以，Oculus不支持银联卡，详细信息查看[下方页面](quest-use/pay.md)
+不可以，Oculus不支持银联卡，详细信息查看[下方页面](ji-huo-zhi-hou-de-shi-yong/pay.md)
