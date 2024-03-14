@@ -1,6 +1,6 @@
-# ❤️ 欢迎使用
+# 🔰 Meta Quest 中文指南
 
-**这是一篇非官方的 Oculus VR 使用指南**
+**这是一篇非官方的 Meta Quest VR 使用指南**
 
 Quest 联网激活、安装 Oculus Home 客户端
 

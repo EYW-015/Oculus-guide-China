@@ -1,6 +1,6 @@
 # Table of contents
 
-* [❤️ 欢迎使用](README.md)
+* [🔰 Meta Quest 中文指南](README.md)
 * [☑️ 使用必读](readme.md)
 * [❓ ※常见问题※](questions.md)
 * [💎 邀请激活返30刀](invite30.md)
