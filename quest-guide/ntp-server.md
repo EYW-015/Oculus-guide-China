@@ -1,8 +1,8 @@
-# 🕰 NTP解析激活(无需UDP)
+# 🕰️ NTP解析激活(无需UDP)
 
 ## 原理
 
-将Facebook时间服务器地址<mark style="color:blue;">**`time.facebook.com`**</mark>解析至国内时间服务器，以获取正确的时间回应，从而解决网络受限的问题
+将Facebook时间服务器地址**`time.facebook.com`**解析至国内时间服务器，以获取正确的时间回应，从而解决网络受限的问题
 
 {% hint style="danger" %}
 **注意**：此方法不可用于游戏联网(如VRChat)，如需游戏联网，请参照[虚拟网卡+热点篇](udp-hotspot/)
@@ -15,28 +15,45 @@
 120.25.115.20 ntp1.aliyun.com
 ```
 
-#### Oculus请求的DNS地址
+## 两种修改解析的方案
 
+{% tabs %}
+{% tab title="Clash Hosts (推荐)" %}
+使用Clash内置DNS解析功能，通过修改配置对NTP域名进行解析
+
+{% hint style="info" %}
+路由器与手机端的Clash也可使用此方法
+{% endhint %}
+
+在Clash Verge的 <mark style="color:yellow;">**订阅**</mark> 设置中，右键 <mark style="color:yellow;">**订阅配置**</mark>，<mark style="color:yellow;">**编辑文件**</mark>，将下面的代码粘贴进配置文件并保存
+
+```yaml
+hosts:
+    'time.facebook.com': 120.25.115.20
 ```
-connectivitycheck.gstatic.com
-time.facebook.com
-www.google.com
-oculus.com
-graph.oculus.com
-mqtt-mini.facebook.com
-in.appcenter.ms
-graph.facebook-hardware.com
-graph.facebook.com
-```
 
-## 视频教程
+<div align="left">
 
-**视频需要使用梯子(发布在**[**YouTube**](https://youtu.be/5ckX453ODfE)**)**
+<figure><img src="../.gitbook/assets/clash_conf_edit.png" alt="" width="260"><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/5ckX453ODfE" %}
+</div>
 
-## 修改路由器hosts
+示例：
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/clash_hosts.png" alt="" width="271"><figcaption></figcaption></figure>
+
+</div>
+
+然后点击右上角的<mark style="color:yellow;">**火焰图标**</mark>(重新激活订阅)
+
+{% hint style="info" %}
+如果不生效，尝试将<mark style="color:yellow;">`dns`</mark>中<mark style="color:yellow;">`enhanced-mode`</mark>的<mark style="color:red;">`fake-ip`</mark>改为<mark style="color:red;">`redir-host`</mark> 或在dns块中，添加如示例图中的倒数第二行<mark style="color:yellow;">`use-hosts: true`</mark>
+{% endhint %}
+{% endtab %}
+
+{% tab title="路由器Hosts" %}
 ### 一般市售路由器
 
 {% hint style="info" %}
@@ -68,47 +85,109 @@ cat /etc/hosts
 ### 软路由
 
 网络设置>DHCP/DNS设置底部>自定义劫持域名>填写<mark style="color:blue;">Facebook NTP域名</mark>与<mark style="color:blue;">阿里云NTP的IP</mark>
+{% endtab %}
 
-### 代理设置
+{% tab title="视频讲解" %}
+**视频需要使用梯子(发布在**[**YouTube**](https://youtu.be/5ckX453ODfE)**)**
 
-将Facebook的NTP服务器地址修改解析完成后，把梯子软件的允许局域网连接打开，然后在Quest2连接WiFi输入密码的界面，打开高级选项
+{% embed url="https://youtu.be/5ckX453ODfE" %}
+{% endtab %}
+{% endtabs %}
+
+## 设置Quest代理
+
+将Facebook的NTP服务器地址修改解析完成后，把<mark style="color:yellow;">Clash Verge 设置</mark>中的<mark style="color:yellow;">**局域网连接**</mark>打开
+
+<figure><img src="../.gitbook/assets/clash_lan.png" alt=""><figcaption></figcaption></figure>
+
+将Quest头显连接至与<mark style="color:yellow;">电脑相同的WiFi路由器</mark>
+
+然后在Quest中，编辑当前连接的WiFi设置
+
+将<mark style="color:yellow;">**代理**</mark>改为<mark style="color:yellow;">**手动**</mark>，把<mark style="color:yellow;">**电脑的IP**</mark>和<mark style="color:yellow;">**端口**</mark>输入进去即可
 
 <div align="left">
 
-<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/wifi1.jpg" alt="">
+<figure><img src="../.gitbook/assets/quest_wifi.png" alt="" width="332"><figcaption></figcaption></figure>
 
 </div>
 
-将**代理**改为**手动**，把电脑代理软件的IP和端口输入进去，再进行连接即可
+### 如何查看设备IP
+
+{% tabs %}
+{% tab title="Win11" %}
+打开系统设置>网络和Internet>网线或WiFi的属性
 
 <div align="left">
 
-<figure><img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/quest/wifi_proxy.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/win11_wifi.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
-## 各个方案
+拉至最下，找到 <mark style="color:yellow;">**IPv4地址**</mark>
 
-### 路由器一体化
+<div align="left">
 
-购买支持梯子的路由器，在路由器端挂梯子联网
+<figure><img src="../.gitbook/assets/win11_ip.png" alt="" width="331"><figcaption></figcaption></figure>
 
-### 路由器解析+电脑代理
+</div>
+{% endtab %}
 
-修改路由器的hosts解析地址，并使用电脑梯子软件的局域网代理
+{% tab title="Win10" %}
+系统托盘查看WiFi属性，或者是有线的属性
 
-### 路由器解析+手机代理
+<div align="left">
 
-同理，使用手机梯子软件的局域网代理
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/wifi/wifi1.png" alt="">
 
-### 手机解析+手机代理
+</div>
 
-根据原理，修改手机的hosts解析，并使用手机热点，连接手机端梯子软件的局域网代理
+拉至最下，找到 <mark style="color:yellow;">**IPv4地址**</mark>
 
-因各品牌权限设置不一样，如何修改手机hosts解析请自行搜索
+<div align="left">
 
-### 电脑修改host解析+电脑热点
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/wifi/wifi2.png" alt="" width="375">
 
-<mark style="color:red;">此方案不可用，windows网络逻辑不允许设备通过热点使用本机代理连网，目前没有解决办法</mark>
+</div>
+{% endtab %}
 
-如果需要使用电脑热点连网，请参照[虚拟网卡+热点篇](udp-hotspot/)，或使用<mark style="background-color:blue;">电脑热点+手机代理</mark>
+{% tab title="安卓" %}
+以MIUI示例
+
+打开WiFi设置，点击<mark style="color:yellow;">**右箭头**</mark>查看<mark style="color:yellow;">**更多详情**</mark>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/android_wifi.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+在IP地址中寻找<mark style="color:yellow;">**IPv4地址**</mark>
+
+可能会出现很多IPv6地址<mark style="color:yellow;">**一直在滚动**</mark>，等看到了<mark style="color:yellow;">**纯数字格式的IP**</mark>就截图保存
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/android_ip.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+</div>
+{% endtab %}
+{% endtabs %}
+
+***
+
+#### Oculus请求的DNS地址
+
+_仅是抓包参考地址，并非全都要改_&#x20;
+
+```
+connectivitycheck.gstatic.com
+time.facebook.com
+www.google.com
+oculus.com
+graph.oculus.com
+mqtt-mini.facebook.com
+in.appcenter.ms
+graph.facebook-hardware.com
+graph.facebook.com
+```

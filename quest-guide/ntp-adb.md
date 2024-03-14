@@ -1,4 +1,4 @@
-# 🛠 告别UDP网络受限(激活后)
+# 🛠️ 告别UDP网络受限(激活后)
 
 参考教程：[悟空的谷歌TV激活教程](https://didiboy0702.gitbook.io/wukongdaily/wan-ke-yun-ji-qiao/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi)
 
@@ -9,15 +9,15 @@
 
 首先你需要启用开发者模式，并安装SideQuest
 
-{% content-ref url="../quest-use/dev-sq.md" %}
-[dev-sq.md](../quest-use/dev-sq.md)
+{% content-ref url="../ji-huo-zhi-hou-de-shi-yong/dev-sq.md" %}
+[dev-sq.md](../ji-huo-zhi-hou-de-shi-yong/dev-sq.md)
 {% endcontent-ref %}
 
 打开SideQuest并连接头显，在头显中选择**允许**电脑访问，点击SideQuest右上角的 **`Run ADB...`** > **`CUSTOM...`**
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sidequest_adb.png" alt="" width="205"><figcaption></figcaption></figure>
 
 </div>
 

@@ -52,6 +52,6 @@ VISA结算不受PayPal汇率影响，可避开汇率陷阱
 
 
 
-{% content-ref url="../qi-ta/links.md" %}
-[links.md](../qi-ta/links.md)
+{% content-ref url="../other/links.md" %}
+[links.md](../other/links.md)
 {% endcontent-ref %}

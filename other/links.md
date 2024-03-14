@@ -11,17 +11,14 @@
 ## Beat Saber
 
 * [Beat Saber教程 @WGzeyu](https://bs.wgzeyu.com/)
-* [BS资源站 @张慧明](http://share.wgzeyu.vip/)
-* [BS Mod 安装器 中文版](https://github.com/beatmods-top/ModAssistant/releases/)
-  * [BS Mod 安装器 原版](https://github.com/Assistant/ModAssistant/releases/)
+  * [PC Mod 安装器 中文版](https://github.com/beatmods-top/ModAssistant/releases/)
+  * [PC Mod 安装器 原版](https://github.com/Assistant/ModAssistant/releases/)
+  * [Quest Mod 安装器 (QuestPatcher)](https://github.com/Lauriethefish/QuestPatcher/releases)
 * [BS曲包下载](https://beatsaver.com/)
 * [BS光剑/人物模型](https://modelsaber.com/)
 
 ## 论坛
 
-* [VR42论坛](http://vr42.com/)
-* [虚幻岛社区](https://bbs.xuhuandao.com/)
-* [Koolshare 论坛](https://koolshare.cn/forum.php)
 * [恩山无线论坛](https://www.right.com.cn/forum/forum.php)
 
 ## YouTuber
@@ -40,8 +37,6 @@
 
 感谢GitHub各大项目的开发者作出的贡献，以下是各个项目的GitHub主页，如有能力请支持他们
 
-* [Clash for Windows](https://github.com/Fndroid/clash\_for\_windows\_pkg)
-* [Clash For Android](https://github.com/Kr328/ClashForAndroid)
 * [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows)
 * [Netch](https://github.com/NetchX/Netch)
 * [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)

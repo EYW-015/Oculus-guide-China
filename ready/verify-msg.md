@@ -4,7 +4,7 @@
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/int_msg_service.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,6 +24,6 @@
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/meta_acont_2fa.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>

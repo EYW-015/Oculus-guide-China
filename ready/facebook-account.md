@@ -1,4 +1,4 @@
-# 🗣 Meta账号
+# 🗣️ Meta账号
 
 ## Meta注册
 
@@ -37,7 +37,7 @@ Quest 2 serial number: xxx
 注册账号: xxx #你用手机注册就写手机，邮箱注册写邮箱
 ```
 
-选择**`访问我的Facebook账户以使用Oculus`**\
-产品选择**`Oculus Quest 2` > `Device` > `Headset`**
+~~选择**`访问我的Facebook账户以使用Oculus`**~~\
+~~产品选择**`Oculus Quest 2`**** ****>**** ****`Device`**** ****>**** ****`Headset`**~~
 
 提交之后等待Oculus回复邮件信息并解除封禁

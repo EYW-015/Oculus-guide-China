@@ -17,11 +17,12 @@
   * [#kai-fa-zhe-mo-shi](questions.md#kai-fa-zhe-mo-shi "mention")
   * [#tou-xian-an-zhuang-ruan-jian](questions.md#tou-xian-an-zhuang-ruan-jian "mention")（安装梯子
 * [#meta-feng-hao](questions.md#meta-feng-hao "mention")
-  *
+  * [#deng-lu-shou-bu-dao-shou-ji-yan-zheng-ma](questions.md#deng-lu-shou-bu-dao-shou-ji-yan-zheng-ma "mention")
 * [#oculus-pc-duan-wen-ti](questions.md#oculus-pc-duan-wen-ti "mention")
   * [#ke-hu-duan-wu-fa-deng-lu](questions.md#ke-hu-duan-wu-fa-deng-lu "mention")
   * [#zen-me-gai-an-zhuang-lu-jing](questions.md#zen-me-gai-an-zhuang-lu-jing "mention")
 * [#chuan-liu-tou-ping](questions.md#chuan-liu-tou-ping "mention")
+  * [#virtual-desktop-wu-fa-lian-jie](questions.md#virtual-desktop-wu-fa-lian-jie "mention")
   * [#zen-me-yu-dian-nao-chuan-liu](questions.md#zen-me-yu-dian-nao-chuan-liu "mention")
   * [#air-link-wu-fa-lian-jie](questions.md#air-link-wu-fa-lian-jie "mention")
   * [#zen-me-tou-ping-zhi-qi-ta-she-bei](questions.md#zen-me-tou-ping-zhi-qi-ta-she-bei "mention")
@@ -39,11 +40,11 @@
 * 头显无法下载游戏
 * 在线游戏无法联网
 
-由于链接至Oculus设备服务需要**UDP数据传输**，请查询<mark style="color:red;">**线路**</mark>**以及**<mark style="color:red;">**联网方式**</mark>是否支持[**UDP转发**](quest-wang-luo-she-zhi/basic-net.md)
+由于链接至Oculus设备服务需要**UDP数据传输**，请查询<mark style="color:red;">**线路**</mark>**以及**<mark style="color:red;">**联网方式**</mark>是否支持[**UDP转发**](quest-guide/basic-net.md)
 
 ### 可以用手机热点激活吗
 
-不可以，未root的手机热点代理无法转发[**UDP数据包**](quest-wang-luo-she-zhi/basic-net.md)，需要**电脑WIFI网卡**或购买**梯子路由器**
+不可以，未root的手机热点代理无法转发[**UDP数据包**](quest-guide/basic-net.md)，需要**电脑WIFI网卡**或购买**梯子路由器**
 
 现在手机root困难，解锁都要申请，且root之后容易出问题，最直接的就是手机银行APP无法在root过的手机上使用
 
@@ -53,7 +54,7 @@
 
 ### 梯子去哪里找，有没有推荐
 
-查看[本页面](zhun-bei/proxy-server.md)寻找梯子
+查看[本页面](ready/proxy-server.md)寻找梯子
 
 PS：作者只用过两三家梯子，没用过的也不好推荐，当前使用的虽然<mark style="color:green;">非常稳定</mark>且<mark style="color:green;">全线支持UDP</mark>，但<mark style="color:red;">价格较高</mark>，且<mark style="color:red;">无月付套餐</mark>，仅推荐有长期需求的用户购买
 
@@ -83,13 +84,13 @@ PS：作者只用过两三家梯子，没用过的也不好推荐，当前使用
 
 Meta一注册就封号怎么办
 
-查看[以下页面](zhun-bei/facebook-account.md#shen-su-liu-cheng)，根据说明进行申述解封，平均1-2天
+查看[以下页面](ready/facebook-account.md#shen-su-liu-cheng)，根据说明进行申述解封，平均1-2天
 
 ### 登录收不到手机验证码
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/int_msg_service.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -99,13 +100,17 @@ Meta一注册就封号怎么办
 
 明明能连Facebook登录，但还是显示请在浏览器中完成操作
 
-Oculus Home无法使用系统代理，需要打开[Clash TUN模式](quest-wang-luo-she-zhi/udp-hotspot/v-netcard/cfw/clash-tun.md)联网
+Oculus Home无法使用系统代理，需要打开[Clash TUN模式](quest-guide/udp-hotspot/clash-tun.md)联网
 
 ### 怎么改安装路径
 
 查看[下方页面](ji-huo-zhi-hou-de-shi-yong/oc-client/#geng-gai-an-zhuang-lu-jing)，输入命令行修改安装目录
 
 ## 串流&投屏
+
+### Virtual Desktop无法连接
+
+* **`1.24.6`**版本之后加入了正版验证，需要头显端能访问外网环境进行验证
 
 ### 怎么与电脑串流
 
