@@ -2,9 +2,10 @@
 
 ## 官方长期活动
 
-邀请FB好友，**受邀者首次激活头显**，即可获得30美金商店点数，**发邀者在30天后**可以获得**30美金**Oculus商店点数，可以购买应用游戏等
+邀请FB好友，**受邀者**<mark style="color:yellow;">**首次激活**</mark>**头显**，即可获得30美元商店点数，**发邀者在30天后**可以获得**30美元**Oculus商店点数，可以购买应用游戏等
 
-* [点击链接接受邀请](https://www.meta.com/referrals/link/EYW-015)
+* [点击接受邀请](https://www.meta.com/referrals/link/EYW-015)
+* [备用邀请链接](https://www.meta.com/referrals/link/SmallGuy233)
 
 {% hint style="danger" %}
 大部分机场的IP被FB封禁，无法发送与领取邀请，需要找海外朋友或有<mark style="color:red;">**干净IP**</mark>的人，<mark style="color:red;">**代登录领取邀请链接**</mark>

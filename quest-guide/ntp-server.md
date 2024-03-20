@@ -25,7 +25,7 @@
 路由器与手机端的Clash也可使用此方法
 {% endhint %}
 
-在Clash Verge的 <mark style="color:yellow;">**订阅**</mark> 设置中，右键 <mark style="color:yellow;">**订阅配置**</mark>，<mark style="color:yellow;">**编辑文件**</mark>，将下面的代码粘贴进配置文件并保存
+在Clash Verge的 <mark style="color:yellow;">**订阅**</mark> 中 **>** 右键 <mark style="color:yellow;">**订阅配置**</mark> **> **<mark style="color:yellow;">**编辑文件**</mark>，将下面的代码粘贴进配置文件并保存
 
 ```yaml
 hosts:
@@ -98,13 +98,21 @@ cat /etc/hosts
 
 将Facebook的NTP服务器地址修改解析完成后，把<mark style="color:yellow;">Clash Verge 设置</mark>中的<mark style="color:yellow;">**局域网连接**</mark>打开
 
-<figure><img src="../.gitbook/assets/clash_lan.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../.gitbook/assets/clash_lan.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 将Quest头显连接至与<mark style="color:yellow;">电脑相同的WiFi路由器</mark>
 
 然后在Quest中，编辑当前连接的WiFi设置
 
 将<mark style="color:yellow;">**代理**</mark>改为<mark style="color:yellow;">**手动**</mark>，把<mark style="color:yellow;">**电脑的IP**</mark>和<mark style="color:yellow;">**端口**</mark>输入进去即可
+
+{% hint style="info" %}
+**Clash Verge** 默认端口 <mark style="color:yellow;">**7897**</mark>，**Clash安卓** 默认端口 <mark style="color:yellow;">**7890**</mark>
+{% endhint %}
 
 <div align="left">
 
@@ -138,7 +146,7 @@ cat /etc/hosts
 
 <div align="left">
 
-<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/wifi/wifi1.png" alt="">
+<img src="https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/wifi/wifi1.png" alt="" width="375">
 
 </div>
 

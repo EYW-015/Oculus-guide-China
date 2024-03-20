@@ -118,7 +118,7 @@ Oculus Home无法使用系统代理，需要打开[Clash TUN模式](quest-guide/
 
 ### Air Link无法连接
 
-将<mark style="color:purple;">**Oculus Home**</mark>与<mark style="color:purple;">**头显系统**</mark>更新到最新版
+将<mark style="color:yellow;">**Oculus Home**</mark>与<mark style="color:yellow;">**头显系统**</mark>更新到最新版
 
 ### 怎么投屏至其他设备
 
