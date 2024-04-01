@@ -26,15 +26,19 @@ C:\Users\USERNAME\Downloads\OculusSetup.exe /drive=D
 
 梯子只开系统代理的话就是个摆设，OC客户端仍然无法连网，便会出现诸如**卡在登录界面无限转圈**，或是**FB认证失败**等情况
 
-于是就需要开启[**Clash的TUN模式**](../../quest-guide/udp-hotspot/v-netcard/cfw/clash-tun.md)给OC客户端联网，~~或用到**Proxifier**进行应用代理~~（已不推荐）
+于是就需要开启[**Clash的TUN模式**](../../quest-guide/clash/clash-tun.md)给OC客户端联网，~~或用到**Proxifier**进行应用代理~~（已不推荐）
 
-{% content-ref url="../../quest-guide/udp-hotspot/v-netcard/cfw/clash-tun.md" %}
-[clash-tun.md](../../quest-guide/udp-hotspot/v-netcard/cfw/clash-tun.md)
+{% content-ref url="../../quest-guide/clash/clash-tun.md" %}
+[clash-tun.md](../../quest-guide/clash/clash-tun.md)
 {% endcontent-ref %}
 
 ### Hosts
 
-如果你baidu了Hosts方案，并且自行修改了Hosts文件，那么请将你的Hosts文件规则全部删除，可使用 火绒 或 Dism++ 工具箱清空Hosts文件内容，如果没改过，那就不用管了
+如果你baidu了Hosts方案，并且自行修改了电脑Hosts文件，那么请将你的Hosts文件规则全部删除，可使用 火绒 或 Dism++ 工具箱清空Hosts文件内容，如果没改过，那就不用管了
+
+* 此Hosts不同于前文 [NTP解析](../../quest-guide/ntp-server.md) 所说的Hosts
+* 本章节所说的Hosts特指<mark style="color:red;">电脑上的Hosts文件</mark>，并非修改路由器的Hosts解析
+* 上述的 **百度Hosts方案** 仅用于解决PC客户端无法安装登录的问题，并不能用于激活Quest
 
 {% hint style="info" %}
 **花钱爬梯子 + 改Hosts = **<mark style="color:red;">**钱打水漂**</mark>

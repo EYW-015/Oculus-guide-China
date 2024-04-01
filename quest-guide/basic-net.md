@@ -17,7 +17,7 @@ A：因为平时上网使用的是TCP协议
 
 ## 如何知道线路是否支持UDP
 
-开启[Clash Tun模式](udp-hotspot/clash-tun.md)，使用[NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)测试
+开启[Clash Tun模式](clash/clash-tun.md)，使用[NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)测试
 
 如显示<mark style="color:green;">**Success**</mark>且<mark style="color:yellow;">**公网地址**</mark>为<mark style="color:yellow;">**国外IP**</mark>，那就正常使用
 

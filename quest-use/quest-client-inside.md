@@ -2,7 +2,7 @@
 
 ## 安装梯子客户端
 
-Quest2可通过**SideQuest**安装<mark style="background-color:green;">**标准安卓APK**</mark>安装包，你可以使用绝大多数安卓平台的客户端
+Quest2可通过**SideQuest**安装<mark style="color:yellow;">**标准安卓APK**</mark>安装包，你可以使用绝大多数安卓平台的客户端
 
 {% hint style="info" %}
 请先申请开发者账号，并开启开发者权限
@@ -11,8 +11,8 @@ Quest2可通过**SideQuest**安装<mark style="background-color:green;">**标准
 Clash for Android是安卓平台的Clash客户端\
 &#x20;   ※Clash不与ss配置文件兼容，需要使用clash专用的配置文件
 
-* [~~Clash for Android~~](https://github.com/Kr328/ClashForAndroid/releases)
-  * ~~下载安装**`arm64-v8a`**版本~~
+* [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+  * 下载安装<mark style="color:yellow;">**arm64-v8a**</mark>版本
 
 {% hint style="info" %}
 不会用的话先在手机里安装好，自己琢磨一下\

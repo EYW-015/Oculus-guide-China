@@ -10,7 +10,7 @@
 
 ### 安装服务模式
 
-在 <mark style="color:yellow;">**设置**</mark> 菜单中找到 <mark style="color:yellow;">**服务模式**</mark> 选项，点击 <mark style="color:yellow;">**盾牌图标**</mark>** > **<mark style="color:yellow;">**Install**</mark>
+在 [Clash Verge](./) <mark style="color:yellow;">**设置**</mark> 菜单中找到 <mark style="color:yellow;">**服务模式**</mark> ，点击 <mark style="color:yellow;">**盾牌图标**</mark>** > **<mark style="color:yellow;">**Install**</mark>
 
 安装成功后会显示 `Current State: installed`
 
@@ -37,7 +37,7 @@
 > 如果你不知道怎么打开控制面板，那就随便打开一个文件夹，把下面这行目录粘贴到文件夹地址栏，然后回车
 >
 > ```
-> 控制面板\网络和 Internet\网络连接
+> 控制面板\网络和 Internet\网络和共享中心
 > ```
 
 <div align="left">

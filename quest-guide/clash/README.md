@@ -1,4 +1,4 @@
-# Clash Verge
+# 🐱 Clash Verge
 
 ## 简介
 
