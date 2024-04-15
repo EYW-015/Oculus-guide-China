@@ -16,6 +16,8 @@ Clash Verge是一个Clash图形界面客户端
 
 下载对应版本之后安装运行，托盘区会出现一个深蓝色的猫咪图标，这时Clash就启动成功了
 
+***
+
 ## 托管订阅
 
 在机场首页寻找Clash托管订阅地址，将其复制，选择左侧<mark style="color:yellow;">**订阅**</mark>，在上部粘贴**托管地址**并点击<mark style="color:yellow;">**导入**</mark>，如果下部出现了新的配置选项，那么就订阅成功了

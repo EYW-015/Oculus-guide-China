@@ -7,11 +7,7 @@
 这个设置只是以后WiFi不需要UDP支持，<mark style="color:red;">但外网还是要连的</mark>
 {% endhint %}
 
-首先你需要启用开发者模式，并安装SideQuest
-
-{% content-ref url="../quest-use/dev-sq.md" %}
-[dev-sq.md](../quest-use/dev-sq.md)
-{% endcontent-ref %}
+首先你需要启用[开发者模式](../quest-use/dev-sq.md)，并安装SideQuest
 
 打开SideQuest并连接头显，在头显中选择**允许**电脑访问，点击SideQuest右上角的 **`Run ADB...`** > **`CUSTOM...`**
 

@@ -1,14 +1,16 @@
 # Oculus PC客户端
 
+* [**PC客户端下载**](https://www.meta.com/tw/quest/setup/)
+
 ## 更改安装路径
 
-Oculus客户端默认安装路径是**C盘**，如果想安装到其他盘符，可按以下步骤操作
+Oculus客户端默认安装路径是<mark style="color:yellow;">**C盘**</mark>，如果想安装到其他盘符，可按以下步骤操作
 
 {% hint style="info" %}
 确认目标硬盘有足够可用空间，且硬盘为NTFS格式分区，**不建议安装至机械硬盘内**
 {% endhint %}
 
-以**`管理员权限`**运行**`CMD`**，输入以下代码，回车
+以<mark style="color:yellow;">**管理员权限**</mark>运行<mark style="color:yellow;">**CMD**</mark>，输入以下代码，回车
 
 ```
 <你的OC安装包路径>\OculusSetup.exe /drive=<目标安装盘符>
@@ -17,20 +19,16 @@ Oculus客户端默认安装路径是**C盘**，如果想安装到其他盘符，
 #### 范例
 
 ```
-C:\Users\USERNAME\Downloads\OculusSetup.exe /drive=D
+D:\下载\OculusSetup.exe /drive=D
 ```
 
 ## OC无法联网 / 登录
 
-由于Oculus客户端的问题，**无法使用系统代理**，开了**全局模式**也无法使用梯子的流量
+由于Oculus客户端的问题，<mark style="color:yellow;">**无法使用系统代理**</mark>，开了**全局模式**也无法使用梯子的流量
 
 梯子只开系统代理的话就是个摆设，OC客户端仍然无法连网，便会出现诸如**卡在登录界面无限转圈**，或是**FB认证失败**等情况
 
-于是就需要开启[**Clash的TUN模式**](../../quest-guide/clash/clash-tun.md)给OC客户端联网，~~或用到**Proxifier**进行应用代理~~（已不推荐）
-
-{% content-ref url="../../quest-guide/clash/clash-tun.md" %}
-[clash-tun.md](../../quest-guide/clash/clash-tun.md)
-{% endcontent-ref %}
+于是就需要开启[**Clash的TUN模式**](../../quest-guide/clash/clash-tun.md)给OC客户端联网，~~或用到**Proxifier**进行应用代理（已不推荐）~~
 
 ### Hosts
 

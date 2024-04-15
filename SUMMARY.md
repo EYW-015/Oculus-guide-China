@@ -1,15 +1,13 @@
 # Table of contents
 
-* [🔰 Meta Quest 中文指南](README.md)
+* [🔰 开始](README.md)
 * [☑️ 使用必读](readme.md)
 * [❓ ※常见问题※](questions.md)
 * [💎 邀请激活返30刀](invite30.md)
-* [💰 捐助](donate.md)
 
 ## ✅ 准备 <a href="#ready" id="ready"></a>
 
-* [🕶️ VR设备](ready/vr-device.md)
-* [🖥️ 电脑相关](ready/pc-ready.md)
+* [🕶️ 设备&电脑](ready/vr-device.md)
 * [✈️ 寻找梯子](ready/proxy-server.md)
 * [🗣️ Meta账号](ready/facebook-account.md)
 * [📩 收不到手机验证码](ready/verify-msg.md)

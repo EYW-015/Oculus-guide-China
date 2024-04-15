@@ -8,8 +8,9 @@ Quest2可通过**SideQuest**安装<mark style="color:yellow;">**标准安卓APK*
 请先申请开发者账号，并开启开发者权限
 {% endhint %}
 
-Clash for Android是安卓平台的Clash客户端\
-&#x20;   ※Clash不与ss配置文件兼容，需要使用clash专用的配置文件
+Clash for Android是安卓平台的Clash客户端
+
+> Clash不与ss配置文件兼容，需要使用clash专用的配置文件
 
 * [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
   * 下载安装<mark style="color:yellow;">**arm64-v8a**</mark>版本
