@@ -22,11 +22,15 @@ Oculus客户端默认安装路径是<mark style="color:yellow;">**C盘**</mark>�
 D:\下载\OculusSetup.exe /drive=D
 ```
 
+***
+
 ## OC无法联网 / 登录
 
 由于Oculus客户端的问题，<mark style="color:yellow;">**无法使用系统代理**</mark>，开了**全局模式**也无法使用梯子的流量
 
 梯子只开系统代理的话就是个摆设，OC客户端仍然无法连网，便会出现诸如**卡在登录界面无限转圈**，或是**FB认证失败**等情况
+
+[proxy-server.md](../../ready/proxy-server.md "mention")
 
 于是就需要开启[**Clash的TUN模式**](../../quest-guide/clash/clash-tun.md)给OC客户端联网，~~或用到**Proxifier**进行应用代理（已不推荐）~~
 

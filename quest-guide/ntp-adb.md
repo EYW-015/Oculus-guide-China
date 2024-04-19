@@ -1,10 +1,12 @@
-# 🛠️ 告别UDP网络受限(激活后)
+# 🛠️ 告别网络受限(激活后)
 
 参考教程：[悟空的谷歌TV激活教程](https://didiboy0702.gitbook.io/wukongdaily/wan-ke-yun-ji-qiao/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi)
 
 {% hint style="info" %}
-需要激活之后并打开开发者权限才行\
+需要<mark style="color:yellow;">**激活之后**</mark>并打开开发者权限才行\
 这个设置只是以后WiFi不需要UDP支持，<mark style="color:red;">但外网还是要连的</mark>
+
+[proxy-server.md](../ready/proxy-server.md "mention")
 {% endhint %}
 
 首先你需要启用[开发者模式](../quest-use/dev-sq.md)，并安装SideQuest

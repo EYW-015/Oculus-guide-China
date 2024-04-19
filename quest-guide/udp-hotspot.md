@@ -1,9 +1,15 @@
-# 🖥️ 电脑热点激活
+---
+description: Quest 1 2 3 连网激活 电脑热点方式
+---
+
+# 🖥️ Quest激活-电脑热点
 
 此方案需使用电脑的**无线网卡**，如台式机没有无线网卡，**就去买一个USB WIFI**，如果**不支持开启系统原生热点**，可以使用网上搜索的免费热点软件进行共享
 
 {% hint style="info" %}
-激活头显需要你的**梯子线路**<mark style="color:red;">**支持UDP转发**</mark>，否则头显无法更新固件‌
+需要<mark style="color:red;">**支持UDP转发**</mark>，否则网络受限
+
+[proxy-server.md](../ready/proxy-server.md "mention")
 {% endhint %}
 
 ***

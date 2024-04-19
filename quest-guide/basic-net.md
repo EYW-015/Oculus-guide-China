@@ -1,4 +1,8 @@
-# ❗ 网络受限原因(必读)
+---
+description: Quest 1 2 3 网络受限
+---
+
+# ❗ Quest网络受限原因
 
 ## Q：为什么<mark style="color:red;">能上谷歌油管</mark>却网络受限？
 
@@ -11,6 +15,8 @@ A：因为平时上网使用的是TCP协议
 
 {% hint style="info" %}
 需要你的<mark style="color:red;">**梯子线路**</mark>、<mark style="color:red;">**客户端**</mark>以及<mark style="color:red;">**联网方式**</mark>三者<mark style="color:red;">**同时**</mark>**支持UDP转发**，才可以使用
+
+[proxy-server.md](../ready/proxy-server.md "mention")
 {% endhint %}
 
 ***

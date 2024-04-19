@@ -1,9 +1,8 @@
 # Table of contents
 
 * [🔰 开始](README.md)
-* [☑️ 使用必读](readme.md)
 * [❓ ※常见问题※](questions.md)
-* [💎 邀请激活返30刀](invite30.md)
+* [💎 邀请激活返30点数](invite30.md)
 
 ## ✅ 准备 <a href="#ready" id="ready"></a>
 
@@ -14,12 +13,12 @@
 
 ## ☑️ Quest 网络设置 <a href="#quest-guide" id="quest-guide"></a>
 
-* [❗ 网络受限原因(必读)](quest-guide/basic-net.md)
+* [❗ Quest网络受限原因](quest-guide/basic-net.md)
 * [🐱 Clash Verge](quest-guide/clash/README.md)
   * [Clash TUN 模式](quest-guide/clash/clash-tun.md)
-* [🕰️ NTP解析激活(无需UDP)](quest-guide/ntp-server.md)
-* [🖥️ 电脑热点激活](quest-guide/udp-hotspot.md)
-* [🛠️ 告别UDP网络受限(激活后)](quest-guide/ntp-adb.md)
+* [🕰️ Quest激活-NTP解析(荐)](quest-guide/ntp-server.md)
+* [🖥️ Quest激活-电脑热点](quest-guide/udp-hotspot.md)
+* [🛠️ 告别网络受限(激活后)](quest-guide/ntp-adb.md)
 * [📶 路由器激活](quest-guide/quest-router/README.md)
   * [老毛子路由器](quest-guide/quest-router/padavan.md)
   * [华硕路由器+梅林固件](quest-guide/quest-router/asuswrt.md)

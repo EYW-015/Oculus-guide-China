@@ -1,12 +1,18 @@
 # 头显安装软件/梯子
 
-## 安装梯子客户端
+## 安装软件
 
-Quest2可通过**SideQuest**安装<mark style="color:yellow;">**标准安卓APK**</mark>安装包，你可以使用绝大多数安卓平台的客户端
+Quest可通过[**SideQuest**](dev-sq.md)安装<mark style="color:yellow;">**安卓APK**</mark>安装包，你可以使用绝大多数安卓应用程序
 
 {% hint style="info" %}
-请先申请开发者账号，并开启开发者权限
+请先申请[开发者账号](dev-sq.md)，并开启开发者权限
 {% endhint %}
+
+[proxy-server.md](../ready/proxy-server.md "mention")
+
+***
+
+## Clash for Android
 
 Clash for Android是安卓平台的Clash客户端
 

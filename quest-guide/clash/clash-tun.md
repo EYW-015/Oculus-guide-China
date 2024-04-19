@@ -6,6 +6,8 @@
 
 {% hint style="info" %}
 日常上网**系统代理**足够，不需要开启Tun模式，否则容易与游戏加速器等冲突
+
+[proxy-server.md](../../ready/proxy-server.md "mention")
 {% endhint %}
 
 ### 安装服务模式

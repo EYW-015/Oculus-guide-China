@@ -21,7 +21,7 @@ Proxifier是一款代理软件，支持自定义规则分流，可以使用进�
 
 ## Proxifier设置
 
-首先下载这个<mark style="color:purple;">**配置文件**</mark>，双击打开它，在弹出窗口中点击**`OK`**
+首先下载这个**配置文件**，双击打开它，在弹出窗口中点击**`OK`**
 
 {% file src="../../.gitbook/assets/Oculus_conf.ppx" %}
 
@@ -38,7 +38,7 @@ Proxifier是一款代理软件，支持自定义规则分流，可以使用进�
 ![](https://fastly.jsdelivr.net/gh/EYW-015/Oculus-guide-China/img/proxifier/px4.png)
 
 {% hint style="info" %}
-代理软件端口为**允许局域网链接的端口**，Clash默认为**`7890`**，SS默认为**`1080`**
+代理软件端口为**允许局域网链接的端口**，[Clash Verge](../../quest-guide/clash/)默认为**`7897`**，SS默认为**`1080`**
 {% endhint %}
 
 PX设置完毕，运行OC客户端，PX界面应如下图出现大量OC链接，说明OC成功联网

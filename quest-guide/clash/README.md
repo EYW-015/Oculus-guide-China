@@ -22,6 +22,8 @@ Clash Verge是一个Clash图形界面客户端
 
 在机场首页寻找Clash托管订阅地址，将其复制，选择左侧<mark style="color:yellow;">**订阅**</mark>，在上部粘贴**托管地址**并点击<mark style="color:yellow;">**导入**</mark>，如果下部出现了新的配置选项，那么就订阅成功了
 
+[proxy-server.md](../../ready/proxy-server.md "mention")
+
 {% hint style="info" %}
 如果订阅失败，请尝试 <mark style="color:yellow;">**手动下载配置**</mark> 并 <mark style="color:yellow;">**新建**</mark> <mark style="color:yellow;">**类型**</mark> 为 <mark style="color:yellow;">**Local**</mark> 的配置，并选择下载的订阅文件
 {% endhint %}
