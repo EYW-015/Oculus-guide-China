@@ -2,7 +2,7 @@
 
 * [🔰 开始](README.md)
 * [❓ ※常见问题※](questions.md)
-* [💎 邀请激活返30点数](invite30.md)
+* [💎 激活返30美元&半价正版](invite30.md)
 
 ## ✅ 准备 <a href="#ready" id="ready"></a>
 
