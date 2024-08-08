@@ -6,6 +6,8 @@
   * [Oculus 中文群组](https://t.me/Ocguide\_cn)
   * [头号玩家@脑潘](https://t.me/vrchina)
 * QQ群:
+  * 南七月的Quest交流群⑥
+    * 994039698
   * [虚拟现实游戏联机群](https://jq.qq.com/?\_wv=1027\&k=npZd9PY9)
 
 ## Beat Saber

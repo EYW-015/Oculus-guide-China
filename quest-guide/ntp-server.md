@@ -2,7 +2,7 @@
 description: Quest 1 2 3 连网激活 NTP解析方式
 ---
 
-# 🕰️ Quest激活-NTP解析(荐)
+# 🕰️ Quest激活-NTP解析
 
 ## 原理
 
@@ -16,6 +16,8 @@ description: Quest 1 2 3 连网激活 NTP解析方式
 此方法不可用于游戏连网(如VRChat)，如需游戏连网，请使用[虚拟网卡+热点](udp-hotspot.md)
 
 <mark style="color:yellow;">**Quest 3**</mark> 疑似修改了验证地址，首次激活暂不可用，待测试
+
+Quest 3 激活移步 [Netch激活](netch.md)
 {% endhint %}
 
 #### 阿里云时间服务器地址
