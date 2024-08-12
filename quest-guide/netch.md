@@ -8,5 +8,12 @@
 
 需要用到的软件：
 
-* [Npcap](https://npcap.com/#download)
 * [Netch](https://github.com/netchx/netch/releases)
+* [Npcap](https://npcap.com/#download)
+
+### 补充信息
+
+启用 Netch加速器 的 <mark style="color:yellow;">**模式2**</mark> 需要安装 <mark style="color:yellow;">**Npcap**</mark>，安装时需要勾选后两个选项
+
+* Support raw 802.11 traffic
+* Install Npcap in WinPcap API-Compatible Mode

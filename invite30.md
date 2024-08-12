@@ -8,9 +8,8 @@ description: Quest 推荐链接
 
 **接受任意邀请并**<mark style="color:yellow;">**首次激活**</mark>**头显(**<mark style="color:red;">**非二手**</mark>**)**，发邀与受邀双方都可以获得**30美元**商店点数，可以购买应用游戏等
 
-* [邀请链接](https://www.meta.com/referrals/link/SmallGuy233)
-* [邀请链接](https://www.meta.com/referrals/link/77bbc)
 * [邀请链接](https://www.meta.com/referrals/link/EYW-015)
+* [邀请链接](https://www.meta.com/referrals/link/SmallGuy233)
 
 {% hint style="info" %}
 大部分机场的IP被Meta封禁，无法发送邀请
@@ -20,4 +19,7 @@ description: Quest 推荐链接
 
 ## 正版代购
 
-48折代购Meta软件游戏，可加群问群主或群友
+48折代购Meta软件游戏，可加群问群主
+
+* QQ [虚拟现实游戏段子群](https://qm.qq.com/q/vWdrVa0gy6)
+* TG [Oculus VR 中文指南 交流群](https://t.me/Ocguide\_cn)
